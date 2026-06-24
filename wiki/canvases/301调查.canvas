@@ -1,226 +1,29 @@
 {
-  "nodes": [
-    {
-      "id": "title-301",
-      "type": "text",
-      "text": "# 301调查 — 概念关系图\n\n**Section 301 Investigation** — 美国《1974年贸易法》第301条授权的单边贸易制裁工具。绕开 WTO 多边机制,由 USTR 单方认定并执行。\n\n## 当前节点布局\n\n- 中心 = 301调查\n- 概念层(黄色) = 直接相关的金融/贸易概念\n- 实体层(紫色) = 直接相关的国家、组织、人物\n- 来源层(绿色) = 引用此概念的源文件\n\n## 关联数量\n- 概念 4 · 实体 4 · 来源 2",
-      "x": -680,
-      "y": -460,
-      "width": 380,
-      "height": 220,
-      "color": "4"
-    },
-    {
-      "id": "center-301",
-      "type": "file",
-      "file": "wiki/concepts/301调查.md",
-      "x": 0,
-      "y": 0,
-      "width": 320,
-      "height": 180,
-      "color": "4"
-    },
-    {
-      "id": "concept-贸易战",
-      "type": "file",
-      "file": "wiki/concepts/贸易战.md",
-      "x": -540,
-      "y": -240,
-      "width": 280,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "concept-新一轮加息周期",
-      "type": "file",
-      "file": "wiki/concepts/新一轮加息周期.md",
-      "x": -540,
-      "y": -60,
-      "width": 280,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "concept-输入型通胀",
-      "type": "file",
-      "file": "wiki/concepts/输入型通胀.md",
-      "x": -540,
-      "y": 120,
-      "width": 280,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "concept-反倾销税",
-      "type": "file",
-      "file": "wiki/concepts/反倾销税.md",
-      "x": -540,
-      "y": 300,
-      "width": 280,
-      "height": 140,
-      "color": "3"
-    },
-    {
-      "id": "entity-特朗普",
-      "type": "file",
-      "file": "wiki/entities/特朗普.md",
-      "x": 260,
-      "y": -240,
-      "width": 280,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "entity-欧盟",
-      "type": "file",
-      "file": "wiki/entities/欧盟.md",
-      "x": 260,
-      "y": -60,
-      "width": 280,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "entity-欧委会",
-      "type": "file",
-      "file": "wiki/entities/欧委会.md",
-      "x": 260,
-      "y": 120,
-      "width": 280,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "entity-马克龙",
-      "type": "file",
-      "file": "wiki/entities/马克龙.md",
-      "x": 260,
-      "y": 300,
-      "width": 280,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "source-欧盟贸易战",
-      "type": "file",
-      "file": "wiki/sources/欧盟要与中国打贸易战.md",
-      "x": -1080,
-      "y": 80,
-      "width": 280,
-      "height": 140,
-      "color": "5"
-    },
-    {
-      "id": "source-加息周期",
-      "type": "file",
-      "file": "wiki/sources/我们已经处于新一轮加息周期中或前夜.md",
-      "x": -1080,
-      "y": 280,
-      "width": 280,
-      "height": 140,
-      "color": "5"
-    },
-    {
-      "id": "legend",
-      "type": "text",
-      "text": "## 图例\n\n- 🟠 橙色 = 当前概念\n- 🟡 黄色 = 相关概念\n- 🟣 紫色 = 相关实体\n- 🟢 绿色 = 引用来源\n\n## 边的方向\n\n所有边从中心 301调查 出发,指向相关条目。颜色与目标节点颜色一致。",
-      "x": 600,
-      "y": 80,
-      "width": 360,
-      "height": 280,
-      "color": "6"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e-贸易战",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "concept-贸易战",
-      "toSide": "right",
-      "color": "3",
-      "label": "概念"
-    },
-    {
-      "id": "e-新一轮加息周期",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "concept-新一轮加息周期",
-      "toSide": "right",
-      "color": "3",
-      "label": "概念"
-    },
-    {
-      "id": "e-输入型通胀",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "concept-输入型通胀",
-      "toSide": "right",
-      "color": "3",
-      "label": "概念"
-    },
-    {
-      "id": "e-反倾销税",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "concept-反倾销税",
-      "toSide": "right",
-      "color": "3",
-      "label": "概念"
-    },
-    {
-      "id": "e-特朗普",
-      "fromNode": "center-301",
-      "fromSide": "right",
-      "toNode": "entity-特朗普",
-      "toSide": "left",
-      "color": "2",
-      "label": "实体"
-    },
-    {
-      "id": "e-欧盟",
-      "fromNode": "center-301",
-      "fromSide": "right",
-      "toNode": "entity-欧盟",
-      "toSide": "left",
-      "color": "2",
-      "label": "实体"
-    },
-    {
-      "id": "e-欧委会",
-      "fromNode": "center-301",
-      "fromSide": "right",
-      "toNode": "entity-欧委会",
-      "toSide": "left",
-      "color": "2",
-      "label": "实体"
-    },
-    {
-      "id": "e-马克龙",
-      "fromNode": "center-301",
-      "fromSide": "right",
-      "toNode": "entity-马克龙",
-      "toSide": "left",
-      "color": "2",
-      "label": "实体"
-    },
-    {
-      "id": "e-source-欧盟贸易战",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "source-欧盟贸易战",
-      "toSide": "right",
-      "color": "5",
-      "label": "引用"
-    },
-    {
-      "id": "e-source-加息周期",
-      "fromNode": "center-301",
-      "fromSide": "left",
-      "toNode": "source-加息周期",
-      "toSide": "right",
-      "color": "5",
-      "label": "引用"
-    }
-  ]
+	"nodes":[
+		{"id":"title-301","type":"text","text":"# 301调查 — 概念关系图\n\n**Section 301 Investigation** — 美国《1974年贸易法》第301条授权的单边贸易制裁工具。绕开 WTO 多边机制,由 USTR 单方认定并执行。\n\n## 当前节点布局\n\n- 中心 = 301调查\n- 概念层(黄色) = 直接相关的金融/贸易概念\n- 实体层(紫色) = 直接相关的国家、组织、人物\n- 来源层(绿色) = 引用此概念的源文件\n\n## 关联数量\n- 概念 4 · 实体 4 · 来源 2","x":-680,"y":-460,"width":380,"height":220,"color":"4"},
+		{"id":"center-301","type":"file","file":"wiki/concepts/301调查.md","x":0,"y":0,"width":320,"height":180,"color":"4"},
+		{"id":"concept-贸易战","type":"file","file":"wiki/concepts/贸易战.md","x":-540,"y":-240,"width":280,"height":140,"color":"3"},
+		{"id":"concept-新一轮加息周期","type":"file","file":"wiki/concepts/新一轮加息周期.md","x":-540,"y":-60,"width":280,"height":140,"color":"3"},
+		{"id":"concept-输入型通胀","type":"file","file":"wiki/concepts/输入型通胀.md","x":-540,"y":120,"width":280,"height":140,"color":"3"},
+		{"id":"concept-反倾销税","type":"file","file":"wiki/concepts/反倾销税.md","x":-540,"y":300,"width":280,"height":140,"color":"3"},
+		{"id":"entity-特朗普","type":"file","file":"wiki/entities/特朗普.md","x":260,"y":-240,"width":280,"height":140,"color":"2"},
+		{"id":"entity-欧盟","type":"file","file":"wiki/entities/欧盟.md","x":260,"y":-60,"width":280,"height":140,"color":"2"},
+		{"id":"entity-欧委会","type":"file","file":"wiki/entities/欧委会.md","x":260,"y":120,"width":280,"height":140,"color":"2"},
+		{"id":"entity-马克龙","type":"file","file":"wiki/entities/马克龙.md","x":260,"y":300,"width":280,"height":140,"color":"2"},
+		{"id":"source-欧盟贸易战","type":"file","file":"wiki/sources/欧盟要与中国打贸易战.md","x":-1080,"y":80,"width":280,"height":140,"color":"5"},
+		{"id":"source-加息周期","type":"file","file":"wiki/sources/我们已经处于新一轮加息周期中或前夜.md","x":-1080,"y":280,"width":280,"height":140,"color":"5"},
+		{"id":"legend","type":"text","text":"## 图例\n\n- 🟠 橙色 = 当前概念\n- 🟡 黄色 = 相关概念\n- 🟣 紫色 = 相关实体\n- 🟢 绿色 = 引用来源\n\n## 边的方向\n\n所有边从中心 301调查 出发,指向相关条目。颜色与目标节点颜色一致。","x":600,"y":80,"width":360,"height":280,"color":"6"}
+	],
+	"edges":[
+		{"id":"e-贸易战","fromNode":"center-301","fromSide":"left","toNode":"concept-贸易战","toSide":"right","color":"3","label":"概念"},
+		{"id":"e-新一轮加息周期","fromNode":"center-301","fromSide":"left","toNode":"concept-新一轮加息周期","toSide":"right","color":"3","label":"概念"},
+		{"id":"e-输入型通胀","fromNode":"center-301","fromSide":"left","toNode":"concept-输入型通胀","toSide":"right","color":"3","label":"概念"},
+		{"id":"e-反倾销税","fromNode":"center-301","fromSide":"left","toNode":"concept-反倾销税","toSide":"right","color":"3","label":"概念"},
+		{"id":"e-特朗普","fromNode":"center-301","fromSide":"right","toNode":"entity-特朗普","toSide":"left","color":"2","label":"实体"},
+		{"id":"e-欧盟","fromNode":"center-301","fromSide":"right","toNode":"entity-欧盟","toSide":"left","color":"2","label":"实体"},
+		{"id":"e-欧委会","fromNode":"center-301","fromSide":"right","toNode":"entity-欧委会","toSide":"left","color":"2","label":"实体"},
+		{"id":"e-马克龙","fromNode":"center-301","fromSide":"right","toNode":"entity-马克龙","toSide":"left","color":"2","label":"实体"},
+		{"id":"e-source-欧盟贸易战","fromNode":"center-301","fromSide":"left","toNode":"source-欧盟贸易战","toSide":"right","color":"5","label":"引用"},
+		{"id":"e-source-加息周期","fromNode":"center-301","fromSide":"left","toNode":"source-加息周期","toSide":"right","color":"5","label":"引用"}
+	]
 }
