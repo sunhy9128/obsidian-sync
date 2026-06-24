@@ -1,0 +1,34 @@
+---
+type: entity
+created: 2026-06-02
+updated: 2026-06-02
+sources: ["[[sources/837号令|837号令]]"]
+tags: [organization]
+aliases:
+  - "Meta Platforms"
+  - "Meta公司"
+---
+
+
+# Meta
+
+## 基本信息
+- Type: organization
+- Source: [[sources/837号令|837号令]]
+
+## 描述
+Meta是全球知名的科技公司，原名为Facebook，2021年10月正式更名为Meta Platforms, Inc.，旗下拥有Facebook、Instagram、WhatsApp、Messenger等主流社交平台，业务涵盖社交网络、数字广告、虚拟现实（VR）与增强现实（AR）以及人工智能等领域，总部位于美国加利福尼亚州门洛帕克。
+
+在[[sources/837号令|837号令]]的语境下，Meta因收购[[entities/Manu|Manu]]事件而被提及，作为中国对外投资监管语境下的典型案例。该收购案由[[entities/商务部|商务部]]于2026年1月8日宣布启动审查，重点核查技术出口、数据跨境流动、合规申报等方面的问题。该案例被作者引用，用以说明[[sources/837号令|837号令]]中关于严防技术与数据违规外流、限制相关人员出境等规定的现实背景和监管趋势。
+
+## 相关实体
+- [[entities/Manu|Manu]]（被Meta收购的公司，触发监管审查的目标企业）
+- [[entities/商务部|商务部]]（启动本次收购审查的监管机构）
+
+## 相关概念
+- [[concepts/技术出口管理|出口管制]]
+- [[concepts/国务院关于对外投资的规定|国务院关于对外投资的规定]]
+- [[concepts/对外投资安全审查|对外投资安全审查]]
+
+## 来源提及
+- "显然，这很容易让人联想到Meta收购Manu事件，如商务部于2026年1月8日宣布启动审查，以核查技术出口、数据跨境、合规申报等方面的问题。"

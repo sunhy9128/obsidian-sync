@@ -1,0 +1,63 @@
+---
+title: "CHIPS"
+created: 2026-04-29
+updated: 2026-05-21
+type: entity
+status: developing
+sources: []
+aliases:
+  - "Clearing House Interbank Payments System"
+  - "美元同行清算系统"
+  - "CHIPS Clearing System"
+  - "CHIPS Payment System"
+  - "美元清算系统"
+  - "NYCHA CHIPS"
+---
+
+# CHIPS
+
+> 美元同行清算系统
+
+## 核心定义
+
+CHIPS（Clearing House Interbank Payments System）是纽约清算所运行的美元同行清算系统，负责全球美元跨境清算。
+
+## 基本信息
+
+| 项目 | 内容 |
+|------|------|
+| 成立 | 1970年 |
+| 运营 | 纽约清算所（NYCHA） |
+| 日均交易量 | ~$1.5万亿美元 |
+| 主要成员 | 美资银行 |
+
+## 功能
+
+- **美元清算**：全球美元跨境支付
+- **实时清算**：RTGS（实时全额清算）
+- **代理行网络**：覆盖全球
+
+## 与SWIFT的区别
+
+| SWIFT | CHIPS |
+|-------|------|
+| 信息传递 | 资金清算 |
+| 报文系统 | 清算系统 |
+| 全球网络 | 美元专用 |
+
+## 清算流程
+
+```
+汇款行 → SWIFT报文 → CHIPS清算 → 收款行
+```
+
+## 对美元霸权的意义
+
+- 美元跨境清算的核心通道
+- 美联储的货币政策传导
+- 制裁执行的技术基础
+
+## 相关概念
+
+- [[SWIFT]] - 报文系统
+- [[美元霸权]] - 金融基础设施
