@@ -1,8 +1,10 @@
 ---
 type: entity
 created: 2026-06-03
-updated: 2026-06-03
-sources: ["[[sources/太不团结了|太不团结了]]"]
+updated: 2026-06-24
+sources:
+  - "[[sources/太不团结了|太不团结了]]"
+  - "[[wiki/sources/崩溃的信徒|崩溃的信徒]]"
 tags: [person]
 aliases:
   - "猫笔刀"
