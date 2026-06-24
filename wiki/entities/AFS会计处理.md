@@ -1,10 +1,10 @@
 ---
-title: "AFS会计处理"
+title: AFS会计处理
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Available-for-Sale Accounting"
   - "AFS Accounting Treatment"
@@ -13,6 +13,8 @@ aliases:
   - "AFS Securities Accounting"
   - "可供出售证券会计处理"
   - "AFS Accounting"
+tags:
+  - entity
 ---
 
 # AFS会计处理

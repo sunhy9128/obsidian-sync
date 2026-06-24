@@ -1,10 +1,10 @@
 ---
-title: "LTCM危机"
+title: LTCM危机
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "LTCM Crisis"
   - "Long-Term Capital Management Crisis"
@@ -13,6 +13,8 @@ aliases:
   - "1998 LTCM Bailout"
   - "Long-Term Capital Management"
   - "LTCM Near-Collapse"
+tags:
+  - entity
 ---
 
 # LTCM危机

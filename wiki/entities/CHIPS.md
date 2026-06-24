@@ -1,10 +1,10 @@
 ---
-title: "CHIPS"
+title: CHIPS
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Clearing House Interbank Payments System"
   - "美元同行清算系统"
@@ -12,6 +12,8 @@ aliases:
   - "CHIPS Payment System"
   - "美元清算系统"
   - "NYCHA CHIPS"
+tags:
+  - entity
 ---
 
 # CHIPS

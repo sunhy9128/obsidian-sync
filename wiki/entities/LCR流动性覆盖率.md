@@ -1,10 +1,10 @@
 ---
-title: "LCR流动性覆盖率"
+title: LCR流动性覆盖率
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Liquidity Coverage Ratio"
   - "流动性覆盖率"
@@ -13,6 +13,8 @@ aliases:
   - "Basel III LCR"
   - "巴塞尔III流动性覆盖率"
   - "LCR比率"
+tags:
+  - entity
 ---
 
 # LCR流动性覆盖率

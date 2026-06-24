@@ -18,6 +18,7 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
+created: 2026-04-07
 ---
 
 # Concepts Index

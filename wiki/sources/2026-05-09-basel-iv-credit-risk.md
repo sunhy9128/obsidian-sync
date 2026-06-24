@@ -4,6 +4,8 @@ created: 2026-05-09
 updated: 2026-05-21
 type: source
 status: developing
+tags:
+  - source
 ---
 
 # 巴塞尔协议IV - Credit Risk 修订要点

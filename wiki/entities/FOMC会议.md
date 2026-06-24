@@ -1,10 +1,10 @@
 ---
-title: "FOMC会议"
+title: FOMC会议
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "FOMC Meeting"
   - "Federal Open Market Committee Meeting"
@@ -13,6 +13,8 @@ aliases:
   - "美联储FOMC会议"
   - "联邦公开市场委员会会议"
   - "议息会议"
+tags:
+  - entity
 ---
 
 # FOMC会议

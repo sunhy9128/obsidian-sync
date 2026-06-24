@@ -1,10 +1,10 @@
 ---
-title: "HTM会计处理"
+title: HTM会计处理
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Held-to-Maturity Accounting"
   - "HTM Accounting Treatment"
@@ -14,6 +14,8 @@ aliases:
   - "Amortized Cost Accounting for HTM"
   - "持有至到期金融资产"
   - "HTM分类会计"
+tags:
+  - entity
 ---
 
 # HTM会计处理

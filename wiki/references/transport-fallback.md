@@ -6,6 +6,9 @@ related:
   - "[[wiki-cli]]"
   - "[[mcp-setup]]"
 updated: 2026-05-17
+created: 2026-05-17
+tags:
+  - reference
 ---
 
 # Transport Fallback Decision Tree

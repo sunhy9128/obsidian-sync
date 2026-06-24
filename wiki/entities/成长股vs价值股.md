@@ -1,10 +1,10 @@
 ---
-title: "成长股vs价值股"
+title: 成长股vs价值股
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Growth vs Value Stocks"
   - "Growth Stocks vs Value Stocks"
@@ -13,6 +13,8 @@ aliases:
   - "Growth vs Value Investing"
   - "G/V Stocks"
   - "Growth-Value Comparison"
+tags:
+  - entity
 ---
 
 # 成长股vs价值股

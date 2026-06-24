@@ -1,10 +1,10 @@
 ---
-title: "IMF"
+title: IMF
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "国际货币基金组织"
   - "International Monetary Fund"
@@ -12,6 +12,8 @@ aliases:
   - "国际货币基金"
   - "IMF组织"
   - "International Monetary Fund (IMF)"
+tags:
+  - entity
 ---
 
 # IMF（国际货币基金组织）

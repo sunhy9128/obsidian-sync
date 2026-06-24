@@ -12,6 +12,7 @@ related:
   - "[[log]]"
   - "[[entities/_index]]"
   - "[[Andrej Karpathy]]"
+created: 2026-04-07
 ---
 
 # Sources Index

@@ -5,23 +5,23 @@ address: c-000001
 complexity: advanced
 domain: knowledge-management
 aliases:
-  - "DragonScale"
-  - "DragonScale Architecture"
-  - "Fractal Memory"
+ - "DragonScale"
+ - "DragonScale Architecture"
+ - "Fractal Memory"
 created: 2026-04-23
 updated: 2026-04-24
 tags:
-  - concept
-  - knowledge-management
-  - memory
-  - architecture
-  - fractal
+ - concept
+ - knowledge-management
+ - memory
+ - architecture
+ - fractal
 status: proposed
 related:
-  - "[[LLM Wiki Pattern]]"
-  - "[[Compounding Knowledge]]"
-  - "[[Hot Cache]]"
-  - "[[concepts/_index]]"
+ - "[[LLM Wiki Pattern]]"
+ - "[[Compounding Knowledge]]"
+ - "[[Hot Cache]]"
+ - "[[concepts/_index]]"
 sources:
 ---
 
@@ -133,9 +133,9 @@ The tiling property says the same concept should live in one canonical page. Enf
 2. Compute pairwise cosine similarities for all page pairs.
 3. **Calibration** (one-time, before first use): label 50-100 in-vault page pairs as duplicate/near/distinct; find the thresholds that optimize target precision for each band.
 4. **Default bands** (used before calibration, then refined):
-   - `≥ 0.90` — near-duplicate, lint error
-   - `0.80 – 0.90` — review bucket, lint warning
-   - `< 0.80` — distinct, no flag
+ - `≥ 0.90` — near-duplicate, lint error
+ - `0.80 – 0.90` — review bucket, lint warning
+ - `< 0.80` — distinct, no flag
 5. Never auto-merge. Output a review list.
 
 **Why not a fixed 0.85?** v0.1 used 0.85 with no justification. Published thresholds in the embeddings literature span a wide range (Sentence Transformers' `community_detection` defaults to 0.75; Quora-duplicate calibrations land around 0.77–0.83; sparse-model defaults differ again). Thresholds are model-, corpus-, and objective-dependent, so calibration is required.
@@ -152,12 +152,12 @@ Boundary pages (high out-degree relative to in-degree, recency-weighted) are the
 
 ```
 out_degree(p) = count of distinct filename-stem wikilinks in body of p that resolve to scoreable pages
-in_degree(p)  = count of distinct scoreable pages whose body contains a wikilink to p
-recency_weight(p) = exp(-days_since_updated / 30)      # no floor; old pages approach 0
+in_degree(p) = count of distinct scoreable pages whose body contains a wikilink to p
+recency_weight(p) = exp(-days_since_updated / 30) # no floor; old pages approach 0
 boundary_score(p) = (out_degree - in_degree) * recency_weight
 ```
 
-**Link resolution**: filename-stem only. `[[Foo]]` resolves to `Foo.md` anywhere in the vault. Aliases declared via frontmatter `aliases:` are NOT parsed. Folder-qualified links (e.g. `[[notes/Foo]]`) are resolved by stem alone. This matches Obsidian's default behavior for unique filenames but does not implement full alias resolution.
+**Link resolution**: filename-stem only. `[[Foo]]` resolves to `Foo.md` anywhere in the vault. Aliases declared via frontmatter `aliases:` are NOT parsed. Folder-qualified links (e.g. ` `) are resolved by stem alone. This matches Obsidian's default behavior for unique filenames but does not implement full alias resolution.
 
 **Scoreable** = any page NOT excluded by any of:
 - frontmatter `type: meta` or `type: fold`

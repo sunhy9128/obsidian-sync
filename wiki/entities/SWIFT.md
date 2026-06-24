@@ -1,10 +1,10 @@
 ---
-title: "SWIFT"
+title: SWIFT
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "Society for Worldwide Interbank Financial Telecommunication"
   - "Society for Worldwide Interbank Financial Telecommunications"
@@ -13,6 +13,8 @@ aliases:
   - "环球同业银行金融电讯协会"
   - "SWIFT Network"
   - "SWIFT System"
+tags:
+  - entity
 ---
 
 # SWIFT

@@ -1,10 +1,10 @@
 ---
-title: "DCF模型"
+title: DCF模型
 created: 2026-04-29
 updated: 2026-05-21
 type: entity
 status: developing
-sources: []
+sources: "[]"
 aliases:
   - "DCF"
   - "Discounted Cash Flow Model"
@@ -14,6 +14,8 @@ aliases:
   - "折现现金流模型"
   - "现金流折现模型"
   - "Free Cash Flow DCF"
+tags:
+  - entity
 ---
 
 # DCF模型

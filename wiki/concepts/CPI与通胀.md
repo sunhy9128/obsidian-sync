@@ -3,7 +3,7 @@ type: concept
 created: 2026-06-03
 updated: 2026-06-08
 sources:
-  - "[[Clippings/我们已经处于新一轮加息周期中或前夜.md]]"
+  - "[[我们已经处于新一轮加息周期中或前夜]]"
 tags:
   - "宏观"
   - "通胀"

@@ -12,6 +12,7 @@ related:
   - "[[Andrej Karpathy]]"
   - "[[hot]]"
   - "[[LLM Wiki Pattern]]"
+created: 2026-04-07
 ---
 
 # Entities Index
