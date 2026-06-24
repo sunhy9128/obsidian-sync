@@ -8,6 +8,7 @@ sources:
   - "[[wiki/sources/跌太惨，朋友都没了|跌太惨，朋友都没了]]"
   - "[[wiki/sources/触目惊心，都是血包|触目惊心，都是血包]]"
   - "[[wiki/sources/不结婚，也不消费，谁有办法|不结婚，也不消费，谁有办法]]"
+  - "[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]"
 tags: [person]
 aliases:
   - "猫笔刀"
