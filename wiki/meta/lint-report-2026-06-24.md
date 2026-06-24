@@ -106,18 +106,18 @@ These reference pages that were promised by the claude-obsidian template but wer
 
 | Target | References | First-seen source |
 |---|---|---|
-| `[[Wiki Map]]` | 6 | `wiki/hot.md`, `wiki/getting-started.md` |
-| `[[dashboard]]` | 6 | `wiki/overview.md` |
-| `[[How does the LLM Wiki pattern work?]]` | 5 | `wiki/hot.md`, `wiki/log.md` |
-| `[[claude-obsidian-presentation]]` | 1 | `wiki/overview.md` |
-| `[[AI Marketing Hub Cover Images Canvas]]` | 1 | `wiki/overview.md` |
-| `[[notes/Foo]]` | 2 | `wiki/log.md` (placeholder) |
+| `[\[Wiki Map\]]` | 6 | `wiki/hot.md`, `wiki/getting-started.md` |
+| `[\[dashboard\]]` | 6 | `wiki/overview.md` |
+| `[\[How does the LLM Wiki pattern work?\]]` | 5 | `wiki/hot.md`, `wiki/log.md` |
+| `[\[claude-obsidian-presentation\]]` | 1 | `wiki/overview.md` |
+| `[\[AI Marketing Hub Cover Images Canvas\]]` | 1 | `wiki/overview.md` |
+| `[\[notes/Foo\]]` | 2 | `wiki/log.md` (placeholder) |
 
-**Fix**: Either create stub pages, or replace with descriptive text. `wiki/Wiki Map.canvas` exists and could resolve `[[Wiki Map]]` if Obsidian resolves canvas files (it does not by default).
+**Fix**: Either create stub pages, or replace with descriptive text. `wiki/Wiki Map.canvas` exists and could resolve `[\[Wiki Map\]]` if Obsidian resolves canvas files (it does not by default).
 
 #### H1.b — Stale `Clippings/...` paths in source citations (~34 references)
 
-Frontmatter `sources:` fields across many concept pages reference `[[Clippings/...]]` paths that no longer exist. Example:
+Frontmatter `sources:` fields across many concept pages reference `[\[Clippings/...\]]` paths that no longer exist. Example:
 
 ```yaml
 # wiki/concepts/反外国不当域外管辖条例.md
@@ -132,9 +132,9 @@ sources: ["[[Clippings/太不团结了.md]]"]
 
 #### H1.c — `raw/wechat/...` wikilinks point to ingested sources (~11 references)
 
-The wiki uses `[[raw/wechat/2026-04-15-2026年1-3月中国外贸数据.md]]` in citations, but that file was ingested and lives at `wiki/sources/2026-04-15-2026年1-3月中国外贸数据.md`. The `raw/wechat/` path is the pre-ingest location.
+The wiki uses `[\[raw/wechat/2026-04-15-2026年1-3月中国外贸数据.md\]]` in citations, but that file was ingested and lives at `wiki/sources/2026-04-15-2026年1-3月中国外贸数据.md`. The `raw/wechat/` path is the pre-ingest location.
 
-**Fix**: Replace with basename `[[2026-04-15-2026年1-3月中国外贸数据]]` or `[[wiki/sources/2026-04-15-2026年1-3月中国外贸数据]]`.
+**Fix**: Replace with basename `[\[2026-04-15-2026年1-3月中国外贸数据\]]` or `[\[wiki/sources/2026-04-15-2026年1-3月中国外贸数据\]]`.
 
 ### H2. 4 references-to-non-existent guides in `wiki/references/`
 
@@ -142,18 +142,18 @@ The wiki uses `[[raw/wechat/2026-04-15-2026年1-3月中国外贸数据.md]]` in 
 
 | Missing guide | Referenced from |
 |---|---|
-| `[[methodology-modes-guide]]` | `wiki/references/methodology-modes.md` (×2) |
-| `[[wiki-mode]]` | `wiki/references/methodology-modes.md` (×2) |
-| `[[wiki-cli]]` | `wiki/references/transport-fallback.md` |
-| `[[mcp-setup]]` | `wiki/references/transport-fallback.md` |
+| `[\[methodology-modes-guide\]]` | `wiki/references/methodology-modes.md` (×2) |
+| `[\[wiki-mode\]]` | `wiki/references/methodology-modes.md` (×2) |
+| `[\[wiki-cli\]]` | `wiki/references/transport-fallback.md` |
+| `[\[mcp-setup\]]` | `wiki/references/transport-fallback.md` |
 
 **Fix**: Either write the referenced docs as full pages, or rewrite the references to point at existing skills (`skills/wiki-mode/SKILL.md`, `skills/wiki-cli/SKILL.md`, `skills/wiki/references/mcp-setup.md`).
 
 ### H3. Path-prefix mismatch on `冲销式干预` (4 dead-link false negatives)
 
-`[[wiki/concepts/冲销式干预.md]]` is referenced 4 times. The page **does exist** at `wiki/concepts/冲销式干预.md` but the `wiki/` prefix in the wikilink prevents Obsidian from resolving by basename.
+`[\[wiki/concepts/冲销式干预.md\]]` is referenced 4 times. The page **does exist** at `wiki/concepts/冲销式干预.md` but the `wiki/` prefix in the wikilink prevents Obsidian from resolving by basename.
 
-**Fix**: Strip the `wiki/` prefix from these wikilinks to use `[[冲销式干预]]` form, matching Obsidian's basename resolution.
+**Fix**: Strip the `wiki/` prefix from these wikilinks to use `[\[冲销式干预\]]` form, matching Obsidian's basename resolution.
 
 ---
 
@@ -201,7 +201,7 @@ Distribution:
 
 ### L1. Shadow banking page has many unlinked concept mentions
 
-User is currently viewing `wiki/entities/影子银行.md`. Cross-reference check found 30+ financial terms (次贷危机, 资产证券化, MBS, CDO, 资管新规, 灰犀牛, etc.) mentioned in the body without `[[wikilink]]` markup. Related-links section at the bottom covers the major ones.
+User is currently viewing `wiki/entities/影子银行.md`. Cross-reference check found 30+ financial terms (次贷危机, 资产证券化, MBS, CDO, 资管新规, 灰犀牛, etc.) mentioned in the body without `[\[wikilink\]]` markup. Related-links section at the bottom covers the major ones.
 
 **Fix** (optional, readability improvement): Add wikilinks inline where useful. Low priority because the related-links section already provides navigation.
 
@@ -273,8 +273,8 @@ bash scripts/tiling-check.py --report wiki/meta/tiling-report-2026-06-24.md
 | Strip `wiki/` prefix from `冲销式干预` wikilinks | Yes | targeted replace |
 | Replace `raw/wechat/X` with basename | Yes | files exist at sources/X |
 | Replace `Clippings/X` with correct path | Review | need mapping table |
-| Create stub pages for `[[Wiki Map]]`, `[[dashboard]]`, etc. | Review | decide on meaning first |
-| Resolve `[[notes/Foo]]` placeholder | Yes | remove |
+| Create stub pages for `[\[Wiki Map\]]`, `[\[dashboard\]]`, etc. | Review | decide on meaning first |
+| Resolve `[\[notes/Foo\]]` placeholder | Yes | remove |
 
 **Not auto-fixed**: dead links from template inheritance need a decision (create stub vs delete ref).
 
