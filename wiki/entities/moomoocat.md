@@ -1,7 +1,7 @@
 ---
 type: entity
 created: 2026-06-03
-updated: 2026-06-24
+updated: 2026-06-25
 sources:
   - "[[sources/太不团结了|太不团结了]]"
   - "[[wiki/sources/崩溃的信徒|崩溃的信徒]]"
@@ -9,6 +9,7 @@ sources:
   - "[[wiki/sources/触目惊心，都是血包|触目惊心，都是血包]]"
   - "[[wiki/sources/不结婚，也不消费，谁有办法|不结婚，也不消费，谁有办法]]"
   - "[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]"
+  - "[[wiki/sources/2026-06-24-4000亿回购竟然是真的|2026-06-24-4000亿回购竟然是真的]]"
 tags: [person]
 aliases:
   - "猫笔刀"
