@@ -25,6 +25,11 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-06-26] wiki-query | 财政货币化问答已保存
+- Q: 什么是财政货币化？它与化债、QE有什么区别？
+- A: 已保存至 `wiki/questions/财政货币化.md`
+- Sources: [[wiki/concepts/财政货币化]]
+
 ## [2026-04-24] save | v1.6.0 public release notes (Teams, Karpathy-style)
 - Type: release doc + visual assets
 - Locations (new): `docs/releases/v1.6.0.md` (346 lines, 6 sections, Karpathy-style prose), `wiki/meta/dragonscale-mechanism-overview.svg` (4-mechanism diagram with shared .vault-meta/ gate), `wiki/meta/dragonscale-6-test-flow.svg` (validation timeline), `wiki/meta/dragonscale-frontier-graph.svg` (M4 candidate + 3 filed pages)
