@@ -56,6 +56,8 @@ Run `/wiki` to scaffold this vault for your own domain and replace this overview
 
 ## Canvases
 
+- [[化债机制图谱]] — 中国地方政府债务化解的系统性知识图谱：核心命题、政策工具、参与主体、资金流向、历史比较（2026-06-26）
+- [[301调查]] — 美国301调查与贸易战关联概念图（2026-06-24）
 - [[claude-obsidian-presentation]] — Full presentation: hero, overview, skills, architecture, Wiki vs RAG, visual demos (2026-04-07)
 - [[AI Marketing Hub Cover Images Canvas]] — Cover image library for AI Marketing Hub brand assets
 
