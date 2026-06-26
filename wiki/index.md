@@ -88,6 +88,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ---
 
+## Questions
+
+- [[财政货币化]] — 什么是财政货币化？它与化债、QE有什么区别？（status: completed）
+
+---
+
 ## Domains
 
 <!-- Add domain entries here after scaffold -->
