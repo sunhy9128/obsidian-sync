@@ -1,0 +1,140 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "type": "file",
+      "file": "wiki/concepts/化债核心命题.md",
+      "x": -300,
+      "y": -300,
+      "width": 320,
+      "height": 140,
+      "color": "5",
+      "label": "化债核心命题\n\"冻结 + 争取时间\""
+    },
+    {
+      "id": "2",
+      "type": "file",
+      "file": "wiki/concepts/化债.md",
+      "x": -700,
+      "y": -100,
+      "width": 320,
+      "height": 140,
+      "color": "1",
+      "label": "化债主页面\n核心机制"
+    },
+    {
+      "id": "3",
+      "type": "file",
+      "file": "wiki/concepts/QE与化债对比.md",
+      "x": -100,
+      "y": -100,
+      "width": 320,
+      "height": 140,
+      "color": "3",
+      "label": "QE与化债对比\n本质区别"
+    },
+    {
+      "id": "4",
+      "type": "file",
+      "file": "wiki/concepts/银行扩表与流动性.md",
+      "x": 500,
+      "y": -100,
+      "width": 320,
+      "height": 140,
+      "color": "3",
+      "label": "银行扩表与流动性\n机制细节"
+    },
+    {
+      "id": "5",
+      "type": "file",
+      "file": "wiki/concepts/化债的成本转嫁与道德风险.md",
+      "x": 200,
+      "y": 250,
+      "width": 320,
+      "height": 140,
+      "color": "6",
+      "label": "成本转嫁与道德风险\n伦理审视"
+    },
+    {
+      "id": "6",
+      "type": "file",
+      "file": "wiki/concepts/特殊再融资债券.md",
+      "x": -500,
+      "y": 250,
+      "width": 280,
+      "height": 120,
+      "color": "2",
+      "label": "特殊再融资债券\n化债工具"
+    },
+    {
+      "id": "7",
+      "type": "file",
+      "file": "wiki/concepts/地方政府隐性债务.md",
+      "x": -150,
+      "y": 250,
+      "width": 280,
+      "height": 120,
+      "color": "2",
+      "label": "地方政府隐性债务\n化债对象"
+    },
+    {
+      "id": "8",
+      "type": "file",
+      "file": "wiki/entities/城投公司.md",
+      "x": 200,
+      "y": 450,
+      "width": 280,
+      "height": 120,
+      "color": "2",
+      "label": "城投公司\n隐性债务主体"
+    },
+    {
+      "id": "9",
+      "type": "file",
+      "file": "wiki/entities/影子银行.md",
+      "x": -400,
+      "y": 450,
+      "width": 280,
+      "height": 120,
+      "color": "4",
+      "label": "影子银行\n历史链条"
+    },
+    {
+      "id": "10",
+      "type": "file",
+      "file": "wiki/sources/2024-化债政策包.md",
+      "x": 600,
+      "y": 250,
+      "width": 280,
+      "height": 120,
+      "color": "1",
+      "label": "2024化债政策包\n政策汇总"
+    },
+    {
+      "id": "11",
+      "type": "text",
+      "text": "化债机制全景图谱\n\n4 层递进认知：\n1. 基础机制（化债）\n2. 金融学本质（QE对比、银行扩表）\n3. 核心命题（冻结+争取时间）\n4. 伦理审视（成本转嫁）",
+      "x": -700,
+      "y": -400,
+      "width": 400,
+      "height": 120,
+      "color": "5"
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "1", "fromSide": "bottom", "toNode": "2", "toSide": "top", "label": "精炼总结", "color": "5"},
+    {"id": "e2", "fromNode": "1", "fromSide": "bottom", "toNode": "3", "toSide": "top", "label": "国际比较", "color": "5"},
+    {"id": "e3", "fromNode": "1", "fromSide": "bottom", "toNode": "4", "toSide": "top", "label": "机制细节", "color": "5"},
+    {"id": "e4", "fromNode": "2", "fromSide": "right", "toNode": "3", "toSide": "left", "label": "对比"},
+    {"id": "e5", "fromNode": "2", "fromSide": "bottom", "toNode": "6", "toSide": "top", "label": "使用工具"},
+    {"id": "e6", "fromNode": "2", "fromSide": "bottom", "toNode": "7", "toSide": "top", "label": "置换对象"},
+    {"id": "e7", "fromNode": "3", "fromSide": "bottom", "toNode": "4", "toSide": "top", "label": "对比"},
+    {"id": "e8", "fromNode": "4", "fromSide": "bottom", "toNode": "5", "toSide": "top", "label": "成本由谁承担", "color": "6"},
+    {"id": "e9", "fromNode": "5", "fromSide": "left", "toNode": "7", "toSide": "right", "label": "伦理对象"},
+    {"id": "e10", "fromNode": "6", "fromSide": "bottom", "toNode": "8", "toSide": "top", "label": "置换"},
+    {"id": "e11", "fromNode": "7", "fromSide": "bottom", "toNode": "8", "toSide": "top", "label": "主体"},
+    {"id": "e12", "fromNode": "8", "fromSide": "left", "toNode": "9", "toSide": "right", "label": "历史渠道", "color": "4"},
+    {"id": "e13", "fromNode": "4", "fromSide": "right", "toNode": "10", "toSide": "left", "label": "政策依据", "color": "1"},
+    {"id": "e14", "fromNode": "1", "fromSide": "right", "toNode": "5", "toSide": "top", "label": "推论延伸", "color": "6"}
+  ]
+}
