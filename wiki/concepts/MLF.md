@@ -8,12 +8,9 @@ tags: [method]
 aliases:
   - "中期借贷便利"
   - "Medium-term Lending Facility"
-  - "SLF"
-  - "常备借贷便利"
-  - "Standing Lending Facility"
-  - "PSL"
-  - "抵押补充贷款"
-  - "Pledged Supplementary Lending"
+  - "麻辣粉"
+  - "MLF利率"
+  - "MLF续作"
 ---
 
 
