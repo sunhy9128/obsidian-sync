@@ -1,7 +1,8 @@
 ---
 type: concept
 created: 2026-06-02
-updated: 2026-06-15
+updated: 2026-07-06
+status: current
 sources:
 tags: [method]
 aliases:
