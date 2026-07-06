@@ -1,7 +1,8 @@
 ---
 type: concept
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-07-06
+status: current
 sources:
   - "[[wiki/sources/2024-化债政策包]]"
 tags: [term]
