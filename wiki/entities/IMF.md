@@ -807,3 +807,5 @@ IMF 是 20 世纪最重要的国际金融制度之一：
 - [[wiki/entities/中央银行]] — IMF 的合作伙伴
 - [[wiki/entities/联系汇率制度]] — IMF 监督的汇率制度
 - [[wiki/entities/影子银行]] — IMF 协调的影子银行监管
+- [[wiki/concepts/回购市场]] — IMF 关注的全球流动性基础设施
+- [[wiki/concepts/沃尔克规则]] — 后危机金融监管改革
