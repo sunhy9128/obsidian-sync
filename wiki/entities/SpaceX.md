@@ -2,12 +2,15 @@
 type: entity
 created: 2026-06-03
 updated: 2026-06-03
-sources: ["[[sources/太不团结了]]"]
-tags: [organization]
+sources:
+- '[[sources/太不团结了]]'
+tags:
+- organization
 aliases:
-  - "太空探索技术公司"
-  - "马斯克的火箭公司"
-  - "spaceX"
+- 太空探索技术公司
+- 马斯克的火箭公司
+- spaceX
+status: current
 ---
 
 

@@ -3,12 +3,17 @@ type: entity
 created: 2026-06-24
 updated: 2026-06-24
 sources:
-  - "[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]"
-tags: [event, sports, mma, ufc]
+- '[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]'
+tags:
+- event
+- sports
+- mma
+- ufc
 aliases:
-  - "UFC White House Event"
-  - "UFC白宫站"
-  - "UFC at the White House"
+- UFC White House Event
+- UFC白宫站
+- UFC at the White House
+status: current
 ---
 
 # UFC白宫站

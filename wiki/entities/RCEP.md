@@ -3,18 +3,19 @@ type: entity
 created: 2026-04-29
 updated: 2026-06-02
 sources:
-  - "[[2026-04-15-2026年1-3月中国外贸数据]]"
+- '[[2026-04-15-2026年1-3月中国外贸数据]]'
 aliases:
-  - "Regional Comprehensive Economic Partnership"
-  - "区域全面经济伙伴关系协定"
-  - "区域全面经济伙伴关系"
-  - "R.C.E.P."
-  - "ASEAN+3 FTA"
-  - "ASEAN Plus Three FTA"
-  - "Asia-Pacific Free Trade Agreement"
-  - "RCEP Agreement"
+- Regional Comprehensive Economic Partnership
+- 区域全面经济伙伴关系协定
+- 区域全面经济伙伴关系
+- R.C.E.P.
+- ASEAN+3 FTA
+- ASEAN Plus Three FTA
+- Asia-Pacific Free Trade Agreement
+- RCEP Agreement
 tags:
-  - entity
+- entity
+status: current
 ---
 
 ## Basic Information

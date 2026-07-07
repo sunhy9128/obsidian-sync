@@ -2,17 +2,19 @@
 type: concept
 created: 2026-06-03
 updated: 2026-06-05
-sources:
-tags: [term]
+sources: null
+tags:
+- term
 aliases:
-  - "A-Share Style Rotation"
-  - "市场风格切换"
-  - "风格拉扯"
-  - "a-gu-feng-ge-lun-dong"
-  - "风格轮动"
-  - "A-share Style Rotation"
-  - "Style Rotation"
-  - "A股风格因子轮动"
+- A-Share Style Rotation
+- 市场风格切换
+- 风格拉扯
+- a-gu-feng-ge-lun-dong
+- 风格轮动
+- A-share Style Rotation
+- Style Rotation
+- A股风格因子轮动
+status: developing
 ---
 
 

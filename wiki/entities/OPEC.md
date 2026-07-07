@@ -1,12 +1,15 @@
 ---
 type: entity
 created: 2026-06-02
-sources: ["[[sources/石油美元体系]]"]
+sources:
+- '[[sources/石油美元体系]]'
 updated: 2026-06-02
-tags: [other]
+tags:
+- other
 aliases:
-  - "石油输出国组织"
-  - "欧佩克"
+- 石油输出国组织
+- 欧佩克
+status: current
 ---
 
 

@@ -2,13 +2,17 @@
 type: concept
 created: 2026-06-03
 updated: 2026-06-03
-tags: [宏观, GDP, 国民账户]
+tags:
+- 宏观
+- GDP
+- 国民账户
 aliases:
-  - "GDP"
-  - "Gross Domestic Product"
-  - "国内生产总值"
-  - "国民生产总值"
-  - "国民账户"
+- GDP
+- Gross Domestic Product
+- 国内生产总值
+- 国民生产总值
+- 国民账户
+status: developing
 ---
 
 # GDP（国内生产总值）

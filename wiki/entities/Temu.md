@@ -2,11 +2,14 @@
 type: entity
 created: 2026-06-05
 updated: 2026-06-05
-sources: ["[[sources/欧盟要与中国打贸易战|欧盟要与中国打贸易战]]"]
-tags: [product]
+sources:
+- '[[sources/欧盟要与中国打贸易战|欧盟要与中国打贸易战]]'
+tags:
+- product
 aliases:
-  - "拼多多跨境平台"
-  - "Temu跨境电商平台"
+- 拼多多跨境平台
+- Temu跨境电商平台
+status: current
 ---
 
 

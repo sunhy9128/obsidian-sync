@@ -2,11 +2,14 @@
 type: concept
 created: 2026-06-04
 updated: 2026-06-04
-sources: ["[[concepts/股牛汇弱|股牛汇弱]]"]
-tags: [term]
+sources:
+- '[[concepts/股牛汇弱|股牛汇弱]]'
+tags:
+- term
 aliases:
-  - "ICT exports"
-  - "信息通信技术出口"
+- ICT exports
+- 信息通信技术出口
+status: developing
 ---
 
 

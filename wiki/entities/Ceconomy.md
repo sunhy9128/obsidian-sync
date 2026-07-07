@@ -2,11 +2,14 @@
 type: entity
 created: 2026-06-05
 updated: 2026-06-05
-sources: ["[[sources/欧盟要与中国打贸易战|欧盟要与中国打贸易战]]"]
-tags: [organization]
+sources:
+- '[[sources/欧盟要与中国打贸易战|欧盟要与中国打贸易战]]'
+tags:
+- organization
 aliases:
-  - "Ceconomy AG"
-  - "Ceconomy 集团"
+- Ceconomy AG
+- Ceconomy 集团
+status: current
 ---
 
 

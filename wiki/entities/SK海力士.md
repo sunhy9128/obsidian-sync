@@ -2,12 +2,15 @@
 type: entity
 created: 2026-06-04
 updated: 2026-06-04
-sources: ["[[concepts/股牛汇弱|股牛汇弱]]"]
-tags: [organization]
+sources:
+- '[[concepts/股牛汇弱|股牛汇弱]]'
+tags:
+- organization
 aliases:
-  - "SK Hynix"
-  - "海力士"
-  - "SK hynix Inc."
+- SK Hynix
+- 海力士
+- SK hynix Inc.
+status: current
 ---
 
 

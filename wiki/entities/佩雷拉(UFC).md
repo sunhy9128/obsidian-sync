@@ -3,12 +3,16 @@ type: entity
 created: 2026-06-24
 updated: 2026-06-24
 sources:
-  - "[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]"
-tags: [person, mma, ufc]
+- '[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]'
+tags:
+- person
+- mma
+- ufc
 aliases:
-  - "Alex Pereira"
-  - "佩雷拉"
-  - "Poatan"
+- Alex Pereira
+- 佩雷拉
+- Poatan
+status: current
 ---
 
 # 佩雷拉 (UFC)

@@ -2,28 +2,30 @@
 type: entity
 created: 2026-06-03
 updated: 2026-06-03
-sources:
-tags: [other]
+sources: null
+tags:
+- other
 aliases:
-  - "港股 vs 美股 vs A股"
-  - "港股美股A股对比"
-  - "三大股市对比"
-  - "港股-vs-美股-vs-A-股"
-  - "港股美股A股比较"
-  - "Hong Kong vs US vs A-Shares Markets"
-  - "港股 vs 美股 vs A 股"
-  - "港股"
-  - "美股"
-  - "A股"
-  - "A 股"
-  - "三大股票市场比较"
-  - "HKEX"
-  - "NYSE"
-  - "NASDAQ"
-  - "香港联合交易所"
-  - "上海证券交易所"
-  - "深圳证券交易所"
-  - "港美股A股"
+- 港股 vs 美股 vs A股
+- 港股美股A股对比
+- 三大股市对比
+- 港股-vs-美股-vs-A-股
+- 港股美股A股比较
+- Hong Kong vs US vs A-Shares Markets
+- 港股 vs 美股 vs A 股
+- 港股
+- 美股
+- A股
+- A 股
+- 三大股票市场比较
+- HKEX
+- NYSE
+- NASDAQ
+- 香港联合交易所
+- 上海证券交易所
+- 深圳证券交易所
+- 港美股A股
+status: current
 ---
 
 

@@ -2,13 +2,18 @@
 type: concept
 created: 2026-06-03
 updated: 2026-06-03
-tags: [宏观, IS-LM, 总需求, 货币政策]
+tags:
+- 宏观
+- IS-LM
+- 总需求
+- 货币政策
 aliases:
-  - "IS-LM模型"
-  - "IS-LM Model"
-  - "IS曲线"
-  - "LM曲线"
-  - "凯恩斯交叉"
+- IS-LM模型
+- IS-LM Model
+- IS曲线
+- LM曲线
+- 凯恩斯交叉
+status: developing
 ---
 
 # IS-LM模型

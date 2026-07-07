@@ -2,16 +2,18 @@
 type: entity
 created: 2026-06-02
 updated: 2026-06-24
-sources:
-tags: [other]
+sources: null
+tags:
+- other
 aliases:
-  - "RSI"
-  - "相对强弱指数"
-  - "Relative Strength Index"
-  - "MACD-指标"
-  - "MACD"
-  - "平滑异同移动平均线"
-  - "MACD 指标"
+- RSI
+- 相对强弱指数
+- Relative Strength Index
+- MACD-指标
+- MACD
+- 平滑异同移动平均线
+- MACD 指标
+status: current
 ---
 
 

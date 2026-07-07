@@ -2,11 +2,14 @@
 type: entity
 created: 2026-06-02
 updated: 2026-06-02
-sources: ["[[sources/837号令|837号令]]"]
-tags: [organization]
+sources:
+- '[[sources/837号令|837号令]]'
+tags:
+- organization
 aliases:
-  - "Meta Platforms"
-  - "Meta公司"
+- Meta Platforms
+- Meta公司
+status: current
 ---
 
 

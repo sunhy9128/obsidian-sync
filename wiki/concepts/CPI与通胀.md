@@ -3,18 +3,19 @@ type: concept
 created: 2026-06-03
 updated: 2026-06-08
 sources:
-  - "[[我们已经处于新一轮加息周期中或前夜]]"
+- '[[我们已经处于新一轮加息周期中或前夜]]'
 tags:
-  - "宏观"
-  - "通胀"
-  - "CPI"
-  - "物价"
+- 宏观
+- 通胀
+- CPI
+- 物价
 aliases:
-  - "CPI"
-  - "消费者价格指数"
-  - "通胀"
-  - "通货膨胀"
-  - "Inflation"
+- CPI
+- 消费者价格指数
+- 通胀
+- 通货膨胀
+- Inflation
+status: developing
 ---
 
 ## Basic Information

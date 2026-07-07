@@ -2,12 +2,15 @@
 type: concept
 created: 2026-06-04
 updated: 2026-06-04
-sources: ["[[concepts/股牛汇弱|为何日韩会股牛汇弱]]"]
-tags: [term]
+sources:
+- '[[concepts/股牛汇弱|为何日韩会股牛汇弱]]'
+tags:
+- term
 aliases:
-  - "韩国股市ICT集中度"
-  - "韩国半导体双巨头格局"
-  - "Korea ICT Industry Concentration"
+- 韩国股市ICT集中度
+- 韩国半导体双巨头格局
+- Korea ICT Industry Concentration
+status: developing
 ---
 
 

@@ -2,17 +2,19 @@
 type: concept
 created: 2026-06-05
 updated: 2026-06-15
-sources:
-tags: [term]
+sources: null
+tags:
+- term
 aliases:
-  - "《数字服务法》(DSA)"
-  - "DSA"
-  - "Digital Services Act"
-  - "数字服务法"
-  - "数字服务法-DSA"
-  - "欧盟数字服务法"
-  - "数字服务法 (DSA)"
-  - "Digital Services Act (DSA)"
+- 《数字服务法》(DSA)
+- DSA
+- Digital Services Act
+- 数字服务法
+- 数字服务法-DSA
+- 欧盟数字服务法
+- 数字服务法 (DSA)
+- Digital Services Act (DSA)
+status: developing
 ---
 
 
