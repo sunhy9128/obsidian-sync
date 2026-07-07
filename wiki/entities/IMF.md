@@ -809,3 +809,5 @@ IMF 是 20 世纪最重要的国际金融制度之一：
 - [[wiki/entities/影子银行]] — IMF 协调的影子银行监管
 - [[wiki/concepts/回购市场]] — IMF 关注的全球流动性基础设施
 - [[wiki/concepts/沃尔克规则]] — 后危机金融监管改革
+- [[wiki/entities/世界银行]] — 布雷顿森林孪生兄弟
+- [[wiki/concepts/巴塞尔协议III]] — 国际银行监管标准
