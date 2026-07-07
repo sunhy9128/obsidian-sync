@@ -66,3 +66,21 @@ TABLE verdict FROM "wiki/comparisons" SORT updated DESC
 ```dataview
 TABLE author, date_published, updated FROM "wiki/sources" WHERE type = "source" SORT updated DESC LIMIT 10
 ```
+
+### Pages Missing Status（2026-07-07 Lint: 308 pages）
+
+```dataview
+LIST FROM "wiki" WHERE !status AND type != "meta" LIMIT 50
+```
+
+### Orphan Pages（2026-07-07 Lint: 11 pages）
+
+```dataview
+LIST FROM "wiki" WHERE length(filter(file.inlinks, (l) => true)) = 0 AND type != "meta" SORT updated DESC
+```
+
+### YAML-Error Pages（2026-07-07 Lint: 3 pages）
+
+```dataview
+LIST FROM "wiki" WHERE string(file.ctime) = "" OR file.mtime = null
+```
