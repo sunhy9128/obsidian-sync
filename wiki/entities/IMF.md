@@ -899,3 +899,7 @@ IMF 是 20 世纪最重要的国际金融制度之一：
 - [[wiki/entities/世界银行]] — 布雷顿森林孪生兄弟
 - [[wiki/concepts/巴塞尔协议III]] — 国际银行监管标准
 - [[wiki/concepts/欧猪五国]] — 欧元区主权债务危机的核心（2010-2012）
+- [[wiki/entities/欧元]] — 全球第二大储备货币，欧元区"未完成的货币联盟"
+- [[wiki/concepts/欧洲货币体系]] — 1979-1999 EMS/ERM/ECU 货币合作机制
+- [[wiki/concepts/马斯特里赫特条约]] — 1992 马约法律基础、趋同标准
+- [[wiki/concepts/欧元区主权债务危机]] — 2010-2012 欧债危机、PIIGS、ESM、OMT
