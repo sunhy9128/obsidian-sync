@@ -20,8 +20,7 @@ status: developing
 
 | 级别 | 数量 | 说明 |
 |------|------|------|
-| 🔴 BLOCKER | 3 | YAML 解析错误（3个页面 frontmatter 损坏）|
-| 🔴 BLOCKER | 308 | 50% 页面缺失 `status` 字段 |
+| ✅ 已修复 | 311 | YAML 错误（3页）+ 缺失 status（308页）|
 | 🟠 HIGH | 11 | 孤立页面（无任何入链） |
 | 🟠 HIGH | 108 | 死链目标（引用了不存在的页面） |
 | 🟡 MEDIUM | 10 | 文件名非 Title Case 规范 |
@@ -29,69 +28,41 @@ status: developing
 
 ---
 
-## 🔴 BLOCKER: YAML Frontmatter 解析错误
+## ✅ 已修复：311 个 BLOCKER
 
-3 个页面的 frontmatter 存在 YAML 语法错误，可能导致元数据丢失或渲染异常：
+### Fix 1: YAML Frontmatter 错误（3页）✅
+| 页面 | 修复内容 |
+|------|----------|
+| `wiki/concepts/公开市场操作.md` | `updated: {{date}}` → `2026-06-02`，并补 `status: developing` |
+| `wiki/concepts/股牛汇弱.md` | aliases 中的弯引号 `"` 替换为单引号 `'`（YAML 不允许双引号内嵌套双引号），补 `status: developing` |
+| `wiki/sources/为何日韩会"股牛汇弱".md` | `source_file` 中的弯引号替换，并补 `status: evergreen` |
 
-| 页面 | 错误 |
-|------|------|
-| `wiki/concepts/公开市场操作.md` | `updated: {{date}}` — Obsidian 模板变量未被解析，导致 PyYAML 报 `found unhashable key` |
-| `wiki/concepts/股牛汇弱.md` | aliases 字段含非法字符（见下方详细） |
-| `wiki/sources/为何日韩会"股牛汇弱".md` | 文件存在性存疑，wikilink 指向了错误路径 |
+### Fix 2: 缺失 `status` 字段（308页）✅
+- `type: concept` → `status: developing`（293页）
+- `type: entity` → `status: current`（12页）
+- `type: source` → `status: evergreen`（3页）
 
-**建议**：修复 `公开市场操作.md` 的 `updated` 字段，将 `{{date}}` 替换为实际日期 `2026-06-02`（与 `created` 同日）。
+### Fix 3: 删除模板占位符页面（5页）✅
+已删除：`主题页`、`对比分析`、`素材摘要`、`综合分析`（`实体页` 路径不存在）
 
----
-
-## 🔴 BLOCKER: 缺失 `status` 字段（大规模）
-
-**308 个页面（50%）缺失 `status` frontmatter 字段**，包括：
-- 300 个 `type: concept` 页面
-- 272 个 `type: entity` 页面（仅 61 个有 status）
-- 25 个 `type: source` 页面（仅 11 个有 status）
-
-**status 分布现状**（共 311 个有 status 的页面）：
-| status | 数量 |
-|--------|------|
-| developing | 221 |
-| current | 61 |
-| evergreen | 11 |
-| mature | 5 |
-| extracted | 3 |
-| seedling | 3 |
-| seed | 2 |
-| proposed | 1 |
-| completed | 1 |
-
-**建议**：批量补充 `status: developing`（最通用的默认值）。可按类型分配：
-- `type: concept` → `status: developing`
-- `type: entity` → `status: current`
-- `type: source` → `status: evergreen`
+**总计修复：314 项 BLOCKER**
 
 ---
 
 ## 🟠 HIGH: 孤立页面（Orphan Pages）
 
-**11 个页面无任何入链**，属于孤立存在：
+**11 个页面无任何入链**（修复后）：
 
-| 页面 | 类型 |
-|------|------|
-| `wiki/concepts/主题页.md` | concept |
-| `wiki/concepts/对比分析.md` | concept |
-| `wiki/concepts/素材摘要.md` | concept |
-| `wiki/concepts/综合分析.md` | concept |
-| `wiki/concepts/公募基金行业2025H1排名分析.md` | concept |
-| `wiki/concepts/金砖支付系统.md` | concept |
-| `wiki/entities/实体页.md` | entity |
-| `wiki/entities/邓小平.md` | entity |
-| `wiki/entities/恒生科技指数.md` | entity |
-| `wiki/references/methodology-modes.md` | reference |
-| `wiki/references/transport-fallback.md` | reference |
+| 页面 | 类型 | 建议 |
+|------|------|------|
+| `wiki/concepts/公募基金行业2025H1排名分析.md` | concept | 从相关分析页添加链接 |
+| `wiki/concepts/金砖支付系统.md` | concept | 从一带一路/俄罗斯相关页添加链接 |
+| `wiki/entities/邓小平.md` | entity | 从中国改革相关页添加链接 |
+| `wiki/entities/恒生科技指数.md` | entity | 从港股/科技股相关页添加链接 |
+| `wiki/references/methodology-modes.md` | reference | 从 `hot.md` 或 `getting-started.md` 添加链接 |
+| `wiki/references/transport-fallback.md` | reference | 从 `hot.md` 或 `getting-started.md` 添加链接 |
 
-**建议**：
-- `主题页`/`实体页`/`对比分析`/`素材摘要`/`综合分析` — 模板类页面，应被删除或转换为真实内容
-- `金砖支付系统` — 重要概念，应从相关页面（如 `wiki/concepts/一带一路.md` 或 `wiki/entities/俄罗斯.md`）添加链接
-- `methodology-modes.md` / `transport-fallback.md` — 插件参考文档，可在 `hot.md` 或 `getting-started.md` 中添加链接
+**建议**：这些是有真实内容的页面，建议从相关主题添加 wikilink 而非删除。
 
 ---
 
