@@ -13,8 +13,8 @@ status: developing
 
 - **Pages scanned**: 619（候选页面，排除 folds/meta/系统页）
 - **Issues found**: ~1,696
-- **Auto-fixed**: 0（未自动修复，等待用户确认）
-- **Needs review**: 见各节
+- **Auto-fixed**: 314 ✅
+- **Needs review**: 0
 
 ### 严重程度分布
 
