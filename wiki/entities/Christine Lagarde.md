@@ -193,6 +193,10 @@ sources:
 
 ### 3.3 Lagarde 的"治理遗产"
 
+⭐ Lagarde 担任 [[wiki/entities/欧央行执行委员会]] 行长，是 ECB 治理的核心。详细治理结构参见 [[wiki/entities/欧央行执行委员会]] 页面。
+
+```
+
 ```
 【资产】
   - PEPP（1.85 万亿欧元）— 史无前例的规模
