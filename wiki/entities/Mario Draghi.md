@@ -43,6 +43,9 @@ sources:
 | **专业背景** | 经济学家、央行行长、商业银行家、政治家 |
 | **绰号** | ⭐ "Super Mario"、"Mr. Whatever It Takes"、"拯救欧元的人" |
 | **ECB 行长任期** | 2011.11.1 - 2019.10.31（8 年，不可连任） |
+| **前任** | [[wiki/entities/Jean-Claude Trichet]]（2003-2011） |
+| **继任** | [[wiki/entities/Christine Lagarde]]（2019-至今） |
+| **首任行长** | [[wiki/entities/Wim Duisenberg]]（1998-2003） |
 | **意大利总理任期** | 2021.2.13 - 2022.10.22 |
 | **当前职位** | 卸任后从事学术与咨询 |
 
