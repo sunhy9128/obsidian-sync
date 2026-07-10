@@ -1196,6 +1196,13 @@ ECB 关键时间线：
 - [[wiki/entities/1948货币改革]] — 1948.6.20 Deutsche Mark 改革，是 ECB 模式的"直接前身"
 - [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者，ECB 精神的"先驱"
 
+### 历史与传承
+- [[wiki/concepts/Rentenmark改革]] — 1923.11.15 终结魏玛通胀，ECB 精神起点
+- [[wiki/entities/1948货币改革]] — 1948.6.20 推出 DM，ECB 制度前身
+- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者
+- [[wiki/entities/德国马克]] — DM 1948-2002 使用 53 年，欧元前身
+- [[wiki/entities/密特朗]] — 1983 法国"马克投降"关键人物
+
 ### 危机与改革
 - [[wiki/concepts/欧元区主权债务危机]] — ECB 的"生死时刻"
 - [[wiki/concepts/1992欧洲货币危机]] — 欧元前身 ERM 危机
