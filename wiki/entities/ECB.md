@@ -879,6 +879,7 @@ ECB 关键时间线：
 - [[wiki/entities/中国央行]] — 中国央行对比
 - [[wiki/entities/日本银行]] — 全球第三大央行对比
 - [[wiki/entities/英格兰银行]] — 全球第四大央行对比
+- [[wiki/concepts/铆钉德国马克]] — 欧元 = 马克的"幽灵化身"，ECB 政策基因的源头
 
 ### 危机与改革
 - [[wiki/concepts/欧元区主权债务危机]] — ECB 的"生死时刻"
