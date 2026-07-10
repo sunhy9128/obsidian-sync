@@ -884,6 +884,7 @@ ECB 关键时间线：
 - [[wiki/concepts/莱茵资本主义]] — 欧元区制度设计的底层经济模式
 - [[wiki/concepts/秩序自由主义]] — 欧元区政策的理论根源（弗莱堡学派）
 - [[wiki/concepts/魏玛恶性通胀]] — ECB 制度设计的"历史根源"
+- [[wiki/concepts/Rentenmark改革]] — 1923.11.15 信用货币改革，是 ECB 央行独立性的"精神起点"
 
 ### 危机与改革
 - [[wiki/concepts/欧元区主权债务危机]] — ECB 的"生死时刻"
