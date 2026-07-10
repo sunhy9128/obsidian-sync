@@ -40,6 +40,8 @@ sources:
 | **专业背景** | 国际律师、反垄断专家 |
 | **学历** | 巴黎第十大学（Université Paris-Nanterre）法学硕士 |
 | **ECB 行长任期** | 2019.11.1 - 至今（2026 已担任 7 年） |
+| **前任** | [[wiki/entities/Mario Draghi]]（2011-2019，"Whatever it takes"承诺者） |
+| **更早前任** | [[wiki/entities/Jean-Claude Trichet]]（2003-2011）、[[wiki/entities/Wim Duisenberg]]（1998-2003，ECB 首任行长） |
 | **前 IMF 总裁任期** | 2011.7.5 - 2019.9.1（8 年） |
 | **前法国财长任期** | 2007.6.18 - 2011.6.29（4 年） |
 | **绰号** | "Christine"、"Madame Lagarde"、"Christian Lagarde"（其英式绰号） |
