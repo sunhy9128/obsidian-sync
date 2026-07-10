@@ -55,17 +55,17 @@ sources:
 ### 1.2 历任行长
 
 ```
-Wim Duisenberg（杜伊森贝赫，荷兰）
+[[wiki/entities/Wim Duisenberg]]（杜伊森贝赫，荷兰）
   - 任期：1998.6 - 2003.10
   - 任期背景：欧元诞生、欧元区早期整合
   - 绰号："Mr. Euro"
        ↓
-Jean-Claude Trichet（特里谢，法国）
+[[wiki/entities/Jean-Claude Trichet]]（特里谢，法国）
   - 任期：2003.11 - 2011.10
   - 任期背景：**全球金融危机、欧债危机开端**
   - 关键事件：2010.5 启动 SMP（证券市场计划），救市希腊
        ↓
-Mario Draghi（德拉吉，意大利）
+[[wiki/entities/Mario Draghi]]（德拉吉，意大利）
   - 任期：2011.11 - 2019.10
   - 任期背景：**欧债危机高峰期、QE、负利率**
   - **关键贡献**：2012.7.26 "Whatever it takes" 演讲
@@ -73,13 +73,19 @@ Mario Draghi（德拉吉，意大利）
   - 2014.6 进入负利率
   - 2012.9 启动 OMT（直接货币交易）
        ↓
-Christine Lagarde（拉加德，法国）
+[[wiki/entities/Christine Lagarde]]（拉加德，法国）
   - 任期：2019.11 - 至今
   - 任期背景：COVID 危机、通胀飙升、加息周期、降息周期
   - 关键事件：2020 PEPP（疫情紧急购买计划）1.85 万亿欧元
   - 2022.7 开始加息周期（从 -0.5% 加到 4%）
   - 2024.6 开始降息周期
 ```
+
+详细页面：
+- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长（1998-2003）
+- [[wiki/entities/Jean-Claude Trichet]] — ECB 第二任行长（2003-2011）
+- [[wiki/entities/Mario Draghi]] — "Whatever it takes"承诺者（2011-2019）
+- [[wiki/entities/Christine Lagarde]] — 现任行长（2019-至今）
 
 ### 1.3 核心定位
 
