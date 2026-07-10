@@ -639,6 +639,9 @@ sources:
 ### 机构与央行
 - [[wiki/entities/德国]] — Rentenmark 改革发生地
 - [[wiki/entities/ECB]] — 1957 联邦银行法 → ECB 章程的"精神传承"
+- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者（天才央行行长）
+- [[wiki/entities/1948货币改革]] — 1948.6.20 Deutsche Mark 改革，Rentenmark 改革的"25 年后传承"
+- [[wiki/concepts/现代货币理论 (MMT)]] — Rentenmark 改革的"理论成熟版"
 - [[wiki/entities/中国央行]] — 中国化债的"信用锚"启示
 
 ### 历史与制度
