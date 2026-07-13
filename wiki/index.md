@@ -96,6 +96,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Sources
 
+- [[2024-12-18-二十届三中全会细节解析-巫师财经]] — 2024-12-18 | 25000字深度解读二十届三中全会 | 巫师财经（status: current）
 - [[万科宝能股权之争]] — 2026-07-13 | 2015-2017年万科宝能股权争夺战完整分析 | 资本战争系列（status: current）
 - [[2020-04-25-日本经济崩盘始末-巫师财经]] — 2020-04-25 | 日本泡沫经济崩盘完整分析 | 巫师经济学04（status: current）
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
