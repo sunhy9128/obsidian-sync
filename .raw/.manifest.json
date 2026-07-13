@@ -3,6 +3,29 @@
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/articles/wangke-baoneng-equity-dispute-2026-07-13.md": {
+      "hash": "manual-2026-07-13",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/万科宝能股权之争.md",
+        "wiki/entities/王石.md",
+        "wiki/entities/姚振华.md",
+        "wiki/entities/华润.md",
+        "wiki/entities/安邦.md",
+        "wiki/entities/宝能系.md",
+        "wiki/entities/万科.md",
+        "wiki/concepts/中国特色企业治理.md",
+        "wiki/concepts/恶意收购.md",
+        "wiki/concepts/白衣骑士.md",
+        "wiki/concepts/杠杆收购.md",
+        "wiki/concepts/万科宝能之争.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
     ".raw/articles/日本经济崩盘始末-2020-04-25.md": {
       "hash": "manual-2026-07-13",
       "ingested_at": "2026-07-13",
@@ -33,6 +56,18 @@
     "wiki/concepts/窗口指导.md": "c-000007",
     "wiki/entities/索尼.md": "c-000008",
     "wiki/entities/三菱集团.md": "c-000009",
-    "wiki/entities/黑田东彦.md": "c-000010"
+    "wiki/entities/黑田东彦.md": "c-000010",
+    "wiki/sources/万科宝能股权之争.md": "c-000004",
+    "wiki/entities/王石.md": "c-000005",
+    "wiki/entities/姚振华.md": "c-000006",
+    "wiki/entities/华润.md": "c-000007",
+    "wiki/entities/安邦.md": "c-000008",
+    "wiki/entities/宝能系.md": "c-000009",
+    "wiki/entities/万科.md": "c-000010",
+    "wiki/concepts/中国特色企业治理.md": "c-000011",
+    "wiki/concepts/恶意收购.md": "c-000012",
+    "wiki/concepts/白衣骑士.md": "c-000013",
+    "wiki/concepts/杠杆收购.md": "c-000014",
+    "wiki/concepts/万科宝能之争.md": "c-000015"
   }
 }
