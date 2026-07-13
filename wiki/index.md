@@ -72,6 +72,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Entities
 
+- [[中国共产党]] — 中国执政党，决定改革方向与节奏（status: stub）
 - [[王石]] — 万科创始人，持股不足0.1%的实际控制人（status: current）
 - [[姚振华]] — 宝能系老板，农贸生意起家，2015年收购万科的"狼群"（status: current）
 - [[华润]] — 万科原第一大股东，关键时刻袖手旁观的央企（status: current）
