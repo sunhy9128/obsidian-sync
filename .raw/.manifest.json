@@ -2,8 +2,37 @@
   "version": 1,
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
+  "sources": {
+    ".raw/articles/日本经济崩盘始末-2020-04-25.md": {
+      "hash": "manual-2026-07-13",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/sources/2020-04-25-日本经济崩盘始末-巫师财经.md",
+        "wiki/concepts/泡沫经济.md",
+        "wiki/concepts/广场协议.md",
+        "wiki/concepts/金融自由化.md",
+        "wiki/concepts/自杀式加息.md",
+        "wiki/concepts/流动性消失术.md",
+        "wiki/concepts/窗口指导.md",
+        "wiki/entities/索尼.md",
+        "wiki/entities/三菱集团.md",
+        "wiki/entities/黑田东彦.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md"
+      ]
+    }
+  },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/concepts/泡沫经济.md": "c-000002",
+    "wiki/concepts/广场协议.md": "c-000003",
+    "wiki/concepts/金融自由化.md": "c-000004",
+    "wiki/concepts/自杀式加息.md": "c-000005",
+    "wiki/concepts/流动性消失术.md": "c-000006",
+    "wiki/concepts/窗口指导.md": "c-000007",
+    "wiki/entities/索尼.md": "c-000008",
+    "wiki/entities/三菱集团.md": "c-000009",
+    "wiki/entities/黑田东彦.md": "c-000010"
   }
 }
