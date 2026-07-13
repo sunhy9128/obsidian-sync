@@ -31,6 +31,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Concepts
 
+- [[泡沫经济]] — 1980年代日本资产泡沫形成与崩盘，股市从39,000点跌至14,000点（status: current）
+- [[广场协议]] — 1985年G5协议让美元贬值，日元三年升值50%，非崩盘根源（status: current）
+- [[金融自由化]] — 日本三大考点改革（利率/业务/外汇自由化），打开热钱大门（status: current）
+- [[自杀式加息]] — 央行2.5%→6%急速加息，"头孢配酒"刺破泡沫（status: current）
+- [[流动性消失术]] — 急速加息后流动性瞬间干枯，泡沫被刺破的机制（status: current）
+- [[窗口指导]] — 央行行政性信贷配额机制，计划经济遗留vs市场自由化（status: current）
 - [[欧洲货币体系]] — 1979-1999 EMS/ERM/ECU 货币合作机制，欧元的"前身"（status: current）
 - [[马斯特里赫特条约]] — 1992 马约法律基础、趋同标准、各国批准博弈（status: current）
 - [[欧元区主权债务危机]] — 2010-2012 欧债危机、PIIGS、ESM、OMT（status: current）
