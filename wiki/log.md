@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-13] ingest | 万科宝能股权之争【巫师资本战争系列】
+- Source: `.raw/articles/wangke-baoneng-equity-dispute-2026-07-13.md`
+- Summary: [[万科宝能股权之争]]
+- Pages created: [[王石]], [[姚振华]], [[华润]], [[安邦]], [[宝能系]], [[中国特色企业治理]], [[恶意收购]], [[白衣骑士]], [[杠杆收购]], [[万科宝能之争]]
+- Pages updated: [[万科]]
+- Key insight: 2015-2017年万科宝能之争揭示中国资本市场本质——控制权可脱离股权存在，人治穿插于规则之中
+
 ## [2026-07-13] ingest | 日本经济崩盘始末【巫师经济学04】
 - Source: `.raw/articles/日本经济崩盘始末-2020-04-25.md`（微信文章已读取并存入 wiki/sources/）
 - Summary: [[2020-04-25-日本经济崩盘始末-巫师财经]]
