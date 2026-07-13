@@ -3,7 +3,7 @@ type: entity
 created: 2026-06-03
 updated: 2026-06-26
 sources:
-- '[[sources/太不团结了|太不团结了]]'
+- '[[太不团结了]]'
 - '[[wiki/sources/崩溃的信徒|崩溃的信徒]]'
 - '[[wiki/sources/跌太惨，朋友都没了|跌太惨，朋友都没了]]'
 - '[[wiki/sources/触目惊心，都是血包|触目惊心，都是血包]]'
@@ -25,7 +25,7 @@ status: current
 ## 基本信息
 - Type: person
 - Sources:
-  - [[sources/太不团结了|太不团结了]]
+  - [[太不团结了]]
   - [[wiki/sources/崩溃的信徒|崩溃的信徒]]
   - [[wiki/sources/跌太惨，朋友都没了|跌太惨，朋友都没了]]
   - [[wiki/sources/触目惊心，都是血包|触目惊心，都是血包]]

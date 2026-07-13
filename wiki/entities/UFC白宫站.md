@@ -33,8 +33,8 @@ UFC 白宫站(UFC at the White House)是 2026 年 6 月在美国白宫举办的 
 
 | 选手 | 结果 | 备注 |
 |---|---|---|
-| [[entities/佩雷拉(UFC)|佩雷拉]] | 被 TKO | — |
-| [[entities/托普利亚(UFC)|托普利亚]] | 被 TKO(眼伤) | 医生建议不继续,托普利亚眼露恐惧 |
+| [[佩雷拉]] | 被 TKO | — |
+| [[托普利亚]] | 被 TKO(眼伤) | 医生建议不继续,托普利亚眼露恐惧 |
 
 ## moomoocat 的情绪反应
 
@@ -53,8 +53,8 @@ UFC 白宫站(UFC at the White House)是 2026 年 6 月在美国白宫举办的 
 
 ## 相关实体
 
-- [[entities/佩雷拉(UFC)|佩雷拉(UFC)]] — 被 TKO
-- [[entities/托普利亚(UFC)|托普利亚(UFC)]] — 被 TKO,眼伤
+- [[佩雷拉(UFC)]] — 被 TKO
+- [[托普利亚(UFC)]] — 被 TKO,眼伤
 
 ## 来源提及
 
