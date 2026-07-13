@@ -66,6 +66,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Sources
 
+- [[2020-04-25-日本经济崩盘始末-巫师财经]] — 2020-04-25 | 日本泡沫经济崩盘完整分析 | 巫师经济学04（status: current）
 - [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ repos | 8 wiki pages created
 
 ---
