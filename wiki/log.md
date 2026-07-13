@@ -25,6 +25,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-13] ingest | 二十届三中全会细节解析【巫师财经】
+- Source: `wiki/sources/2024-12-18-二十届三中全会细节解析-巫师财经.md`
+- Summary: [[二十届三中全会]]
+- Pages created: [[二十届三中全会]], [[人口结构]], [[全国统一大市场]], [[中国共产党]]
+- Pages updated: [[财税改革]], [[国企改革]], [[新质生产力]], [[金融体制改革]], [[收入分配]], [[房地产]], [[中国金融与改革]], [[index]], [[hot]]
+- Key insight: 二十届三中全会是二十大路线的延伸与细化，不是重开新路线；"债务不是手段而是目的"——债务转移到普通人身上驱动劳动意愿
+
 ## [2026-07-13] ingest | 万科宝能股权之争【巫师资本战争系列】
 - Source: `.raw/articles/wangke-baoneng-equity-dispute-2026-07-13.md`
 - Summary: [[万科宝能股权之争]]
