@@ -37,6 +37,11 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 - [[自杀式加息]] — 央行2.5%→6%急速加息，"头孢配酒"刺破泡沫（status: current）
 - [[流动性消失术]] — 急速加息后流动性瞬间干枯，泡沫被刺破的机制（status: current）
 - [[窗口指导]] — 央行行政性信贷配额机制，计划经济遗留vs市场自由化（status: current）
+- [[中国特色企业治理]] — 人治穿插于规则之中，控制权可脱离股权存在（status: current）
+- [[恶意收购]] — 不顾管理层反对的强行收购，杠杆资金驱动（status: current）
+- [[白衣骑士]] — 目标公司引入的友好第三方，用于对抗恶意收购（status: current）
+- [[杠杆收购]] — 以少量自有资金撬动大额收购，高风险高回报（status: current）
+- [[万科宝能之争]] — 2015-2017年中国资本市场最典型的控制权争夺战（status: current）
 - [[欧洲货币体系]] — 1979-1999 EMS/ERM/ECU 货币合作机制，欧元的"前身"（status: current）
 - [[马斯特里赫特条约]] — 1992 马约法律基础、趋同标准、各国批准博弈（status: current）
 - [[欧元区主权债务危机]] — 2010-2012 欧债危机、PIIGS、ESM、OMT（status: current）
