@@ -115,11 +115,11 @@ related:
 
 ### L3. wikilink 格式不一致(同 vault 既存问题,本次继承)
 
-**说明**:新增页面使用 `[[wiki/concepts/X|X]]` 全路径形式,而 vault 内其他页面常用 `[[concepts/X|X]]` 简写形式。
+**说明**:新增页面使用 `[[wiki/concepts/X|X]]` 全路径形式,而 vault 内其他页面常用 `[[X]]` 简写形式。
 
 **示例**:
 - 本次新增: `[[wiki/concepts/美伊备忘录|美伊备忘录]]`
-- vault 既有: `[[concepts/中东地缘新平衡|中东地缘新平衡]]`(类似但少 `wiki/`)
+- vault 既有: `[[中东地缘新平衡]]`(类似但少 `wiki/`)
 
 **影响**:Obsidian basename 解析都能找到,但会触发上游报告中的 H1.b 类型问题(路径前缀不统一)。
 
