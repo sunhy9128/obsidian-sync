@@ -58,6 +58,12 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Entities
 
+- [[王石]] — 万科创始人，持股不足0.1%的实际控制人（status: current）
+- [[姚振华]] — 宝能系老板，农贸生意起家，2015年收购万科的"狼群"（status: current）
+- [[华润]] — 万科原第一大股东，关键时刻袖手旁观的央企（status: current）
+- [[安邦]] — 安邦保险，王石引入的白衣骑士（status: current）
+- [[宝能系]] — 以姚振华为首的资本集团，恶意收购方（status: current）
+- [[万科]] — 中国房地产龙头，资本战争的主战场（status: current）
 - [[索尼]] — 泡沫期收购哥伦比亚影业，日本企业海外并购的代表（status: stub）
 - [[三菱集团]] — 泡沫期8.46亿美元收购洛克菲勒中心51%股权（status: stub）
 - [[黑田东彦]] — 前日本央行行长，明确指出广场协议非崩盘根源（status: stub）
