@@ -21,7 +21,7 @@ related:
  - "[[LLM Wiki Pattern]]"
  - "[[Compounding Knowledge]]"
  - "[[Hot Cache]]"
- - "[[concepts/_index]]"
+ - "[[_index]]"
 sources:
 ---
 

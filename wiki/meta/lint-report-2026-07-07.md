@@ -95,7 +95,7 @@ status: developing
 | `Foo` / `X` | 来自 `concepts/DragonScale Memory.md` line 160，测试占位符，应删除 |
 
 ### C. mBridge 相关死链
-`mBridge` 页面已存在（`wiki/concepts/mBridge.md`），但引用者使用了错误路径格式 `[[concepts/mBridge]]` 而非 `[[mBridge]]`。
+`mBridge` 页面已存在（`wiki/concepts/mBridge.md`），但引用者使用了错误路径格式 `[[mBridge]]` 而非 `[[mBridge]]`。
 
 ### D. 来源文档内部交叉引用
 来自 `raw/` 来源文档的 wikilink（这些 wikilink 不应在 wiki 知识库中解析）：

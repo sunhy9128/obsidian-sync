@@ -49,12 +49,12 @@ Wikilinks使用`[[folder/file]]`格式但实际文件在`wiki/folder/file.md`，
 
 | 问题格式 | 实际文件 | 建议 |
 |----------|----------|------|
-| [[concepts/GDP（国内生产总值）]] | concepts/GDP（国内生产总值）.md | 改为[[GDP（国内生产总值）]] |
-| [[concepts/mBridge]] | concepts/mBridge.md | 改为[[mBridge]] |
-| [[concepts/人民币国际化]] | concepts/人民币国际化.md | 改为[[人民币国际化]] |
-| [[concepts/套息交易]] | concepts/套息交易.md | 改为[[套息交易]] |
-| [[concepts/广场协议]] | concepts/广场协议.md | 改为[[广场协议]] |
-| [[entities/影子银行]] | entities/影子银行.md | 改为[[影子银行]] |
+| [[GDP（国内生产总值）]] | concepts/GDP（国内生产总值）.md | 改为[[GDP（国内生产总值）]] |
+| [[mBridge]] | concepts/mBridge.md | 改为[[mBridge]] |
+| [[人民币国际化]] | concepts/人民币国际化.md | 改为[[人民币国际化]] |
+| [[套息交易]] | concepts/套息交易.md | 改为[[套息交易]] |
+| [[广场协议]] | concepts/广场协议.md | 改为[[广场协议]] |
+| [[影子银行]] | entities/影子银行.md | 改为[[影子银行]] |
 
 ## Frontmatter Gaps (已修复)
 

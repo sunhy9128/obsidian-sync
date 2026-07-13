@@ -3,7 +3,7 @@ type: entity
 created: 2026-06-03
 updated: 2026-06-03
 sources:
-- '[[sources/太不团结了]]'
+- '[[太不团结了]]'
 tags:
 - organization
 aliases:

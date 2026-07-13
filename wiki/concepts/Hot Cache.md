@@ -19,7 +19,7 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[index]]"
   - "[[hot]]"
-  - "[[concepts/_index]]"
+  - "[[_index]]"
 sources:
 ---
 

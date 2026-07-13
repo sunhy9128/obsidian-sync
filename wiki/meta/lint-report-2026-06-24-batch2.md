@@ -59,7 +59,7 @@ related:
 
 ## MEDIUM Findings
 
-### M1. 死链:`[[entities/劳资协议]]`
+### M1. 死链:`[[劳资协议]]`
 
 **位置**:`wiki/entities/三星电子.md:47`
 - `[[劳资协议]] — 回购资金的制度源头`
@@ -72,7 +72,7 @@ related:
 
 **优先级**:MEDIUM — 单点引用,概念独立性待评估。
 
-### M2. 死链:`[[entities/创业板]]`
+### M2. 死链:`[[创业板]]`
 
 **位置**:
 - `wiki/entities/三星电子.md:48`
@@ -87,7 +87,7 @@ related:
 
 **优先级**:MEDIUM — 涉及 2 处引用。
 
-### M3. 死链:`[[entities/科创板]]`
+### M3. 死链:`[[科创板]]`
 
 **位置**:
 - `wiki/entities/三星电子.md:49`
@@ -228,9 +228,9 @@ related:
 | `wiki/sources/跌太惨，朋友都没了` | ✓ |
 | `wiki/sources/触目惊心，都是血包` | ✓ |
 | `wiki/concepts/国债缓冲机制` | ✓ |
-| **`[[entities/劳资协议]]`** | **✗ DEAD LINK**(M1) |
-| **`[[entities/创业板]]`** | **✗ DEAD LINK**(M2) |
-| **`[[entities/科创板]]`** | **✗ DEAD LINK**(M3) |
+| **`[[劳资协议]]`** | **✗ DEAD LINK**(M1) |
+| **`[[创业板]]`** | **✗ DEAD LINK**(M2) |
+| **`[[科创板]]`** | **✗ DEAD LINK**(M3) |
 | **`[[wiki/entities/微盘股指数]]`** | **✗ DEAD LINK**(M4,前缀错误) |
 
 **总计**:48 个出站链接,**44 个有效**,4 个死链。健康度:**92%**(略低于第一批的 95%,主要是 M2/M3 多处引用累积)。
@@ -283,7 +283,7 @@ related:
 ```
 1. 创建 wiki/entities/创业板指.md(简单 stub,5 行内容)
 2. 创建 wiki/entities/科创50.md(同上)
-3. 删除 [[entities/劳资协议]] 引用或创建 stub
+3. 删除 [[劳资协议]] 引用或创建 stub
 ```
 
 ### 简单修复(M4 路径错误)

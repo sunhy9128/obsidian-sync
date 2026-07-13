@@ -14,7 +14,7 @@ status: mature
 related:
   - "[[LLM Wiki Pattern]]"
   - "[[Compounding Knowledge]]"
-  - "[[entities/_index]]"
+  - "[[_index]]"
 sources:
 ---
 

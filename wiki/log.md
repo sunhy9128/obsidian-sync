@@ -10,7 +10,7 @@ related:
  - "[[index]]"
  - "[[hot]]"
  - "[[overview]]"
- - "[[sources/_index]]"
+ - "[[_index]]"
 ---
 
 # Operation Log

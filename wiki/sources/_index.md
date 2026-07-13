@@ -10,7 +10,7 @@ status: evergreen
 related:
   - "[[index]]"
   - "[[log]]"
-  - "[[entities/_index]]"
+  - "[[_index]]"
   - "[[Andrej Karpathy]]"
 created: 2026-04-07
 ---

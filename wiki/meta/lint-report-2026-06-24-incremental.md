@@ -191,7 +191,7 @@ related:
 | `wiki/concepts/A股风格轮动` | ✓ |
 | `wiki/concepts/跷跷板效应` | ✓ |
 | `entities/特朗普` | ✓ |
-| **[[entities/德国]]** | **✗ DEAD LINK**(M1) |
+| **[[德国]]** | **✗ DEAD LINK**(M1) |
 | **[[wiki/concepts/世界杯小组赛]]** | **✗ DEAD LINK**(M2) |
 | `raw/wechat/2026-06-15-美伊MoU签署与全球狂欢` | **⚠ 前向引用**(L1) |
 

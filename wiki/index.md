@@ -12,9 +12,9 @@ related:
   - "[[hot]]"
   - "[[dashboard]]"
   - "[[Wiki Map.canvas]]"
-  - "[[concepts/_index]]"
-  - "[[entities/_index]]"
-  - "[[sources/_index]]"
+  - "[[_index]]"
+  - "[[_index]]"
+  - "[[_index]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Compounding Knowledge]]"
@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-13 | Total pages: 39 | Sources ingested: 3
+Last updated: 2026-07-13 | Total pages: 45 | Sources ingested: 4
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 

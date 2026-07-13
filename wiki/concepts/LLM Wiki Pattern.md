@@ -20,7 +20,7 @@ related:
   - "[[Compounding Knowledge]]"
   - "[[Andrej Karpathy]]"
   - "[[index]]"
-  - "[[concepts/_index]]"
+  - "[[_index]]"
 sources:
 ---
 

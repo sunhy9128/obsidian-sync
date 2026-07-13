@@ -16,7 +16,7 @@ related:
   - "[[LLM Wiki Pattern]]"
   - "[[Hot Cache]]"
   - "[[Andrej Karpathy]]"
-  - "[[concepts/_index]]"
+  - "[[_index]]"
 sources:
 ---
 
