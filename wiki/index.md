@@ -33,6 +33,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 - [[二十届三中全会]] — 2024年7月深化改革总部署，延续二十大路线（status: current）
 - [[金融传导机制分析框架]] — 多链叠加、预期差、实际利率框架，解释"反直觉"价格现象（status: developing）
+- [[实际利率框架]] — 黄金/零息资产定价核心，名义利率-通胀预期（status: stub）
+- [[库存周期]] — 基钦周期，库存作为供需同步指标（status: stub）
+- [[预期差交易]] — "买预期卖事实"，price-in与靴子落地（status: stub）
+- [[价格传导非对称性]] — 涨价传导快/降价传导慢，易涨难跌的微观基础（status: stub）
 - [[财税改革]] — 央地财政关系调整，开源节流、事权上收中央（status: current）
 - [[国企改革]] — 从"做大"到"做强"，EVA取代利润考核（status: current）
 - [[新质生产力]] — 高质量发展的核心抓手，聚焦战略性新兴产业（status: current）
