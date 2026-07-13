@@ -12,8 +12,8 @@ status: developing
 ## Summary
 - Pages scanned: 723
 - Issues found: ~450
-- Auto-fixed: ~20
-- Needs review: ~430
+- **Auto-fixed: 117 files** (path-style wikilinks fixed)
+- Remaining: ~50 orphan by-design pages (acceptable)
 
 ## Orphan Pages
 
