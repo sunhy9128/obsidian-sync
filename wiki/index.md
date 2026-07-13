@@ -58,6 +58,9 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Entities
 
+- [[索尼]] — 泡沫期收购哥伦比亚影业，日本企业海外并购的代表（status: stub）
+- [[三菱集团]] — 泡沫期8.46亿美元收购洛克菲勒中心51%股权（status: stub）
+- [[黑田东彦]] — 前日本央行行长，明确指出广场协议非崩盘根源（status: stub）
 - [[欧元]] — 1999 年诞生的超主权货币，全球第二大储备货币，欧元区"未完成的货币联盟"（status: current）
 - [[Andrej Karpathy]] — AI researcher, creator of the LLM Wiki pattern, former Tesla AI director (status: developing)
 - [[Ar9av-obsidian-wiki]] — multi-agent compatible LLM Wiki plugin; delta tracking manifest (status: current)
