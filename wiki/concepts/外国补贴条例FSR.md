@@ -51,10 +51,10 @@ status: developing
 - [[域外管辖权]]
 
 ## 相关实体
-- [[entities/京东|京东]]
-- [[entities/Ceconomy|Ceconomy]]
-- [[entities/欧盟|欧盟]]
-- [[entities/欧委会|欧委会]]
+- [[京东]]
+- [[Ceconomy]]
+- [[欧盟]]
+- [[欧委会]]
 
 ## 来源提及
 - 2026年5月28日，欧盟首次启用《外国补贴条例（FSR）》立案审查京东收购德国Ceconomy

@@ -23,7 +23,7 @@ created: 2026-04-07
 
 # Concepts Index
 
-Navigation: [[index]] | [[entities/_index|Entities]] | [[sources/_index|Sources]]
+Navigation: [[index]] | [[Entities]] | [[sources/_index|Sources]]
 
 All concept pages — ideas, patterns, and frameworks extracted from sources.
 

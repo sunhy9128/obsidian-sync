@@ -17,7 +17,7 @@ created: 2026-04-07
 
 # Entities Index
 
-Navigation: [[index]] | [[concepts/_index|Concepts]] | [[sources/_index|Sources]]
+Navigation: [[index]] | [[Concepts]] | [[sources/_index|Sources]]
 
 All entity pages — people, organizations, products, and tools.
 

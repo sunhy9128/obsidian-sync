@@ -17,7 +17,7 @@ created: 2026-04-07
 
 # Sources Index
 
-Navigation: [[index]] | [[concepts/_index|Concepts]] | [[entities/_index|Entities]]
+Navigation: [[index]] | [[Concepts]] | [[entities/_index|Entities]]
 
 All source pages — summaries of ingested documents, transcripts, articles, and data.
 
