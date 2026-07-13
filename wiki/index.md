@@ -31,6 +31,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Concepts
 
+- [[二十届三中全会]] — 2024年7月深化改革总部署，延续二十大路线（status: current）
+- [[财税改革]] — 央地财政关系调整，开源节流、事权上收中央（status: current）
+- [[国企改革]] — 从"做大"到"做强"，EVA取代利润考核（status: current）
+- [[新质生产力]] — 高质量发展的核心抓手，聚焦战略性新兴产业（status: current）
+- [[金融体制改革]] — 提高直接融资比重，发展耐心资本（status: current）
+- [[收入分配]] — 三次分配体系，扩中等收入群体（status: current）
+- [[房地产]] — 债务转移逻辑，震荡托底调控（status: current）
+- [[人口结构]] — 老龄化+低生育率，东亚生育率诅咒（status: stub）
+- [[全国统一大市场]] — 公用事业定价改革，打破地方保护（status: stub）
 - [[泡沫经济]] — 1980年代日本资产泡沫形成与崩盘，股市从39,000点跌至14,000点（status: current）
 - [[广场协议]] — 1985年G5协议让美元贬值，日元三年升值50%，非崩盘根源（status: current）
 - [[金融自由化]] — 日本三大考点改革（利率/业务/外汇自由化），打开热钱大门（status: current）
