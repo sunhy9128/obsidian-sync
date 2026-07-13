@@ -76,7 +76,7 @@ status: developing
 - `2026-04-14-community-cta-rollout`
 - `2026-04-15-release-report-session`
 - `AI Marketing Hub Cover Images Canvas`
-- `Wiki Map`（系统页，应链接为 `[[Wiki Map]]` 而非 `[[Wiki Map.canvas]]`）
+- `Wiki Map`（系统页，应链接为 `[[Wiki Map.canvas]]` 而非 `[[Wiki Map.canvas]]`）
 
 ### B. 知识库概念/实体缺失
 这些是真正的死链，建议创建对应页面或移除链接：

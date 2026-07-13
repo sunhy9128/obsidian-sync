@@ -38,10 +38,10 @@ status: developing
 
 | 死链 | 来源页面 | 建议 |
 |------|----------|------|
-| [[.raw/.manifest.json]] | 多处 | 移除链接或修正路径 |
+|  | 多处 | 移除链接或修正路径 |
 | [[Claude Canvas]] | wiki/some.md | 移除或创建页面 |
-| [[Wiki Map]] | 多处 | 链接到实际canvas文件 |
-| [[claw-obsidian-ecosystem-research]] | wiki/hot.md | 修正为正确文件名 |
+| [[Wiki Map.canvas]] | 多处 | 链接到实际canvas文件 |
+| [[claude-obsidian-ecosystem-research]] | wiki/hot.md | 修正为正确文件名 |
 
 ## Path-Style Link Issues (路径格式不一致)
 

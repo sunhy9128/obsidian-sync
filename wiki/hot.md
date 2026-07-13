@@ -9,7 +9,7 @@ status: evergreen
 related:
   - "[[index]]"
   - "[[log]]"
-  - "[[Wiki Map]]"
+  - "[[Wiki Map.canvas]]"
   - "[[getting-started]]"
   - "[[DragonScale Memory]]"
 ---

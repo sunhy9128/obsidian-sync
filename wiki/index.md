@@ -11,7 +11,7 @@ related:
   - "[[log]]"
   - "[[hot]]"
   - "[[dashboard]]"
-  - "[[Wiki Map]]"
+  - "[[Wiki Map.canvas]]"
   - "[[concepts/_index]]"
   - "[[entities/_index]]"
   - "[[sources/_index]]"
@@ -25,7 +25,7 @@ related:
 
 Last updated: 2026-07-13 | Total pages: 39 | Sources ingested: 3
 
-Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
+Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 
 ---
 

@@ -552,4 +552,4 @@ status: completed
 - `[[index]]`
 - `[[hot]]`
 - `[[log]]`
-- `[[Wiki Map]]`
+- `[[Wiki Map.canvas]]`

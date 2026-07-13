@@ -36,7 +36,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Source: `.raw/articles/日本经济崩盘始末-2020-04-25.md`（微信文章已读取并存入 wiki/sources/）
 - Summary: [[2020-04-25-日本经济崩盘始末-巫师财经]]
 - Pages created: [[泡沫经济]], [[广场协议]], [[金融自由化]], [[自杀式加息]], [[流动性消失术]], [[窗口指导]], [[索尼]], [[三菱集团]], [[黑田东彦]]
-- Pages updated: [[wiki/index.md]], [[.raw/.manifest.json]]
+- Pages updated: [[wiki/index.md]], 
 - Key insight: 广场协议不是崩盘根源——真正原因是金融自由化+极度宽松货币政策+自杀式加息的"头孢配酒"组合
 
 ## [2026-07-07] wiki | 欧元专题：4 个核心页面已创建

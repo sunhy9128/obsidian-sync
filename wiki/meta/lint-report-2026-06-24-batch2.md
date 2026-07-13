@@ -6,7 +6,7 @@ updated: 2026-06-25
 tags: [meta, lint, incremental, batch2]
 status: developing
 related:
-  - "[[Wiki Map]]"
+  - "[[Wiki Map.canvas]]"
   - "[[index]]"
   - "[[log]]"
   - "[[lint-report-2026-06-24]]"

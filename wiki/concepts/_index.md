@@ -11,7 +11,7 @@ status: evergreen
 related:
   - "[[index]]"
   - "[[dashboard]]"
-  - "[[Wiki Map]]"
+  - "[[Wiki Map.canvas]]"
   - "[[Hot Cache]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Compounding Knowledge]]"
