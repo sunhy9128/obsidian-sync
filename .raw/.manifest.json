@@ -44,6 +44,27 @@
       "pages_updated": [
         "wiki/index.md"
       ]
+    },
+    "wiki/sources/2024-12-18-二十届三中全会细节解析-巫师财经.md": {
+      "hash": "二十届三中全会-2024-12-18",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/concepts/二十届三中全会.md",
+        "wiki/concepts/人口结构.md",
+        "wiki/concepts/全国统一大市场.md",
+        "wiki/entities/中国共产党.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/财税改革.md",
+        "wiki/concepts/国企改革.md",
+        "wiki/concepts/新质生产力.md",
+        "wiki/concepts/金融体制改革.md",
+        "wiki/concepts/收入分配.md",
+        "wiki/concepts/房地产.md",
+        "wiki/domains/中国金融与改革.md",
+        "wiki/index.md",
+        "wiki/hot.md"
+      ]
     }
   },
   "address_map": {
