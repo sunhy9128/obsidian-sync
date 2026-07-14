@@ -94,6 +94,13 @@ After 3–5 ingests, the graph starts to look like a real knowledge network. Cro
 - **[[LLM Wiki Pattern]]** — the pattern this vault is built on
 - **[[Wiki vs RAG]]** — why a wiki beats RAG at human scale
 - **[[dashboard]]** — live Dataview queries (requires Dataview plugin)
+- **[[methodology-modes]]** — choose your vault's organizational style (LYT / PARA / Zettelkasten / Generic)
+
+---
+
+## Vault Internals
+
+- **[[transport-fallback]]** — transport priority chain and troubleshooting (CLI > MCP > filesystem)
 
 ---
 
