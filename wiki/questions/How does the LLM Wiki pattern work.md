@@ -9,6 +9,8 @@ tags:
   - question
   - llm-wiki
   - knowledge-management
+aliases:
+  - "How does the LLM Wiki pattern work?"
 status: developing
 related:
   - "[[LLM Wiki Pattern]]"
