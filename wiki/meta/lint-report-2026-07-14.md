@@ -13,12 +13,12 @@ status: developing
 
 | 指标 | 数值 |
 |------|------|
-| 扫描页面 | 908 |
-| 扫描文件 | 923 |
+| 扫描页面 | 913 |
+| 扫描文件 | 931 |
 | 别名总数 | 2025 |
 | wikilink 引用总数 | 8839 |
-| **断链目标数** | **168** |
-| **断链引用处数** | **413** |
+| **断链目标数** | **165** |
+| **断链引用处数** | **403** |
 
 > **说明**：本报告已包含 Obsidian aliases 匹配——如果 wikilink 目标在某页面的 aliases 中，则视为有效链接。
 
@@ -28,26 +28,24 @@ status: developing
 |------|------|---------|
 | 误报 | 26 | 无需处理（canvas、反斜杠、代码块误读） |
 | 历史 | 2 | 无需处理（历史 lint 报告） |
-| 路径错误 | 27 | 建议修正（去掉路径前缀或 .md） |
+| 路径错误 | 29 | 建议修正（去掉路径前缀或 .md） |
 | 格式错误 | 2 | 建议修正（引号、大小写、标点、空格） |
-| 缺失 | 111 | 需新建 stub 页面或修正为已存在的概念 |
+| 缺失 | 106 | 需新建 stub 页面或修正为已存在的概念 |
 
 ---
 
 ## 📋 详细断链清单
 
-### 🚨 真实缺失（需新建）（111 个）
+### 🚨 真实缺失（需新建）（106 个）
 
 - `[[共建"一带一路"]]` (4 处) — 真实缺失，需新建
 - `[[wiki/entities/中央银行]]` (4 处) — 真实缺失，需新建
 - `[[wiki/concepts/存储三巨头]]` (4 处) — 真实缺失，需新建
-- `[[wiki/concepts/存储芯片]]` (4 处) — 真实缺失，需新建
 - `[[meta/dashboard]]` (4 处) — 真实缺失，需新建
 - `[[analysis/基金行业2025H1排名分析]]` (3 处) — 真实缺失，需新建
 - `[[analysis/基金年中排名对A股影响机制]]` (3 处) — 真实缺失，需新建
 - `[[Claude Canvas]]` (3 处) — 真实缺失，需新建
 - `[[Foo]]` (3 处) — 真实缺失，需新建
-- `[[MACD 指标]]` (3 处) — 真实缺失，需新建
 - `[[New Glenn]]` (3 处) — 真实缺失，需新建
 - `[[Three laws of motion]]` (3 处) — 真实缺失，需新建
 - `[[Turkey (土耳其)]]` (3 处) — 真实缺失，需新建
@@ -61,13 +59,10 @@ status: developing
 - `[[wiki-fold]]` (3 处) — 真实缺失，需新建
 - `[[为何日韩会"股牛汇弱"]]` (3 处) — 真实缺失，需新建
 - `[[为何日韩会"股牛汇弱"？.md]]` (3 处) — 真实缺失，需新建
-- `[[wiki/concepts/世界杯小组赛]]` (3 处) — 真实缺失，需新建
 - `[[raw/wechat/2026-06-15-美伊MoU签署与全球狂欢]]` (3 处) — 真实缺失，需新建
 - `[[《环球时报》]]` (3 处) — 真实缺失，需新建
 - `[[Entities]]` (3 处) — 真实缺失，需新建
 - `[[Sources]]` (3 处) — 真实缺失，需新建
-- `[[wiki/entities/苹果]]` (3 处) — 真实缺失，需新建
-- `[[wiki/entities/长江电力]]` (3 处) — 真实缺失，需新建
 - `[[Concepts]]` (3 处) — 真实缺失，需新建
 - `[[comparisons/回购vs分红]]` (3 处) — 真实缺失，需新建
 - `[[comparisons/港股vs美股vsA股]]` (2 处) — 真实缺失，需新建
@@ -88,9 +83,14 @@ status: developing
 - `[[DDX/DDY/DDZ 指标]]` (2 处) — 真实缺失，需新建
 - `[[cherry-picks#1. URL Ingestion in /wiki-ingest]]` (2 处) — 真实缺失，需新建
 - `[[cherry-picks#10. Marp Presentation Output]]` (2 处) — 真实缺失，需新建
-- ... 还有 61 个
+- `[[cherry-picks#11. obsidian-memory-mcp Integration]]` (2 处) — 真实缺失，需新建
+- `[[cherry-picks#12. obsidian-bases Skill (from kepano)]]` (2 处) — 真实缺失，需新建
+- `[[cherry-picks#13. Schema-Emergent Vault Mode]]` (2 处) — 真实缺失，需新建
+- `[[cherry-picks#2. Auto-Commit PostToolUse Hook]]` (2 处) — 真实缺失，需新建
+- `[[cherry-picks#3. defuddle Web Cleaning Skill]]` (2 处) — 真实缺失，需新建
+- ... 还有 56 个
 
-### 🔧 路径错误（建议修正）（27 个）
+### 🔧 路径错误（建议修正）（29 个）
 
 - `[[wiki/concepts/回购注销]]` (9 处) — 应为 [[回购注销]]（去掉路径前缀）
 - `[[wiki/concepts/土地财政]]` (9 处) — 应为 [[土地财政]]（去掉路径前缀）
@@ -100,6 +100,8 @@ status: developing
 - `[[wiki/concepts/巴塞尔协议]]` (4 处) — 应为 [[巴塞尔协议]]（去掉路径前缀）
 - `[[wiki/concepts/城投公司]]` (3 处) — 应为 [[城投公司]]（去掉路径前缀）
 - `[[wiki/entities/微盘股指数]]` (3 处) — 应为 [[微盘股指数]]（去掉路径前缀）
+- `[[wiki/entities/苹果]]` (3 处) — 应为 [[苹果]]（去掉路径前缀）
+- `[[wiki/entities/长江电力]]` (3 处) — 应为 [[长江电力]]（去掉路径前缀）
 - `[[wiki/concepts/1998年LTCM危机]]` (3 处) — 应为 [[1998年LTCM危机]]（去掉路径前缀）
 - `[[wiki/entities/财政部]]` (2 处) — 应为 [[财政部]]（去掉路径前缀）
 - `[[Clippings/837号令.md]]` (2 处) — 应为 [[837号令]]（去掉路径和 .md）
@@ -169,18 +171,16 @@ status: developing
 
 ## 🎯 修复优先级（HIGH ≥ 3 处引用）
 
-### HIGH 优先级（缺失，引用 ≥ 3 次）：32 个
+### HIGH 优先级（缺失，引用 ≥ 3 次）：27 个
 
 - `[[共建"一带一路"]]` (4 处)
 - `[[wiki/entities/中央银行]]` (4 处)
 - `[[wiki/concepts/存储三巨头]]` (4 处)
-- `[[wiki/concepts/存储芯片]]` (4 处)
 - `[[meta/dashboard]]` (4 处)
 - `[[analysis/基金行业2025H1排名分析]]` (3 处)
 - `[[analysis/基金年中排名对A股影响机制]]` (3 处)
 - `[[Claude Canvas]]` (3 处)
 - `[[Foo]]` (3 处)
-- `[[MACD 指标]]` (3 处)
 - `[[New Glenn]]` (3 处)
 - `[[Three laws of motion]]` (3 处)
 - `[[Turkey (土耳其)]]` (3 处)
@@ -194,13 +194,10 @@ status: developing
 - `[[wiki-fold]]` (3 处)
 - `[[为何日韩会"股牛汇弱"]]` (3 处)
 - `[[为何日韩会"股牛汇弱"？.md]]` (3 处)
-- `[[wiki/concepts/世界杯小组赛]]` (3 处)
 - `[[raw/wechat/2026-06-15-美伊MoU签署与全球狂欢]]` (3 处)
 - `[[《环球时报》]]` (3 处)
 - `[[Entities]]` (3 处)
 - `[[Sources]]` (3 处)
-- `[[wiki/entities/苹果]]` (3 处)
-- `[[wiki/entities/长江电力]]` (3 处)
 - `[[Concepts]]` (3 处)
 - `[[comparisons/回购vs分红]]` (3 处)
 
@@ -305,6 +302,8 @@ status: developing
 | `[[wiki/concepts/巴塞尔协议]]` | `[[巴塞尔协议]]` | 4 |
 | `[[wiki/concepts/城投公司]]` | `[[城投公司]]` | 3 |
 | `[[wiki/entities/微盘股指数]]` | `[[微盘股指数]]` | 3 |
+| `[[wiki/entities/苹果]]` | `[[苹果]]` | 3 |
+| `[[wiki/entities/长江电力]]` | `[[长江电力]]` | 3 |
 | `[[wiki/concepts/1998年LTCM危机]]` | `[[1998年LTCM危机]]` | 3 |
 | `[[wiki/entities/财政部]]` | `[[财政部]]` | 2 |
 | `[[Clippings/837号令.md]]` | `[[837号令]]` | 2 |
