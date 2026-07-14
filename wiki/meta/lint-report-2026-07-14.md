@@ -9,172 +9,163 @@ status: developing
 
 # Lint Report: 2026-07-14
 
+> [!info]
+> 本次 lint 并行启动了 5 个专项扫描 agent：orphans、dead links、frontmatter、DragonScale address validation、semantic tiling (peek)。
+
 ## Summary
 
-- Pages scanned: 734 (wiki/, concepts/, entities/, excluding wiki/meta/)
-- Issues found: ~1,460
-- Auto-fixed (this session): 15 stub pages created for `2013年钱荒` dead links
-- Needs review: ~1,445
-
-> [!info]
-> 本次lint并行启动了4个检查agent（orphans、dead links、frontmatter、empty sections），以及DragonScale和semantic tiling两项专项检查。
-
-### Issue Breakdown
-
-| 类别 | 数量 | 优先级 |
-|------|------|--------|
-| 孤儿页 (orphans) | 635 | MEDIUM |
-| 死链 (dead links) | 75 unique targets, 200+ refs | HIGH |
-| Frontmatter 缺口 | 20 | LOW |
-| 空章节 (empty sections) | 1,530 instances in 275 files | HIGH |
-| DragonScale address | 660 post-rollout pages missing address | BLOCKER |
-| Semantic tiling | skipped (ollama unreachable) | LOW |
+| 指标 | 数值 |
+|------|------|
+| 扫描页面数 | 719（排除 meta/、folds/） |
+| 孤立页面 | 9 |
+| 死链实例 | 453 |
+| 唯一缺失目标 | 159 |
+| Frontmatter 缺口 | 22 pages |
+| DragonScale 地址缺失（post-rollout） | 675 |
+| 语义平铺 | 跳过（ollama 不可达） |
 
 ---
 
-## 1. Orphan Pages (635 / 83.9%)
+## 1. Orphan Pages — 9 个
 
-> [!warning]
-> 孤儿页比例极高(83.9%)，但多数是source导入页面天然缺乏内部交叉引用，非结构错误。
+> 孤立页面比例极低（1.3%），vault 整体链接健康度良好。
 
-### 完全孤立 (0 inbound + 0 outbound) — 3 pages
-- `meta/retrieval-benchmark-v1.7`
-- `meta/tiling-report-2026-04-24`
-- `strategies/_index`
+| 页面 | 类型 | 建议 |
+|------|------|------|
+| `2026-06-23-股份回购后注销对股票有什么影响` | source | 从[[回购注销]]链接 |
+| `methodology-modes` | meta | 确认是否有意孤立（plugin 参考页） |
+| `transport-fallback` | meta | 确认是否有意孤立（plugin 参考页） |
+| `公募基金行业2025H1排名分析` | analysis | 从[[基金年中排名对A股影响机制]]链接 |
+| `军工航空产业` | concept | 从[[国防军工]]或[[地缘政治]]链接 |
+| `实体页` | entity | 名称疑似测试残留，建议确认或删除 |
+| `恒生科技指数` | entity | 从[[港股vs美股vsA股]]链接 |
+| `邓小平` | entity | 从[[改革开放]]或[[中国金融与改革]]链接 |
+| `金砖支付系统` | concept | 从[[金砖国家]]或[[去美元化]]链接 |
 
-### 分布
-| 目录 | 孤儿数 |
-|------|--------|
-| concepts/ | 287 |
-| entities/ | 282 |
-| sources/ | 24 |
-| meta/ | 23 |
-| comparisons/ | 4 |
-| analysis/ | 3 |
-| references/ | 2 |
-| questions/ | 2 |
-| strategies/ | 1 |
-
-**建议:** 优先处理 crisis history (1992欧洲货币危机、1997亚洲金融危机、2008全球金融危机等) → monetary policy (利率走廊、SHIBOR、DR007等) → regulatory reform (资管新规、8号文等) 的交叉链接。
+**注**：与昨日报告（635 orphans）差异巨大，原因是今日扫描采用严格定义（0 inbound 且 0 outbound 才算孤立），而昨日可能将所有无 inbound 的页面全部计入。
 
 ---
 
-## 2. Dead Links (75 unique targets)
+## 2. Dead Links — 453 实例 / 159 唯一目标
 
-### 高优先级 — 真实缺失页面 (stub未创建)
+### 高优先级 — 真实缺失页面（未创建 stub）
 
-| 死链 | 被引用页面 (部分) |
-|------|-----------------|
-| `1998年LTCM危机` | 2023年SVB危机, 最后贷款人 |
+| 死链目标 | 典型来源页 |
+|----------|-----------|
+| `1998年LTCM危机` | 最后贷款人、2023年SVB危机 |
 | `2015瑞郎危机` | 瑞士央行 |
 | `2023 SVB危机` | 沃尔克规则 |
 | `CDS信用违约互换` | 影子银行 |
-| `CIPS` | 国债逆回购, 美元霸权 |
-| `SDR` | 巴塞尔协议III, IMF |
-| `TARGET2` | (multiple lint-reports) |
 | `AIG` | 影子银行 |
 | `Bundesbank` | 法国1983年转向 |
 | `Ludwig Erhard` | 德国马克 |
-| `Volkswagen轧空事件` | 轧空, 卖空机制 |
-| `三元悖论` | 1992欧洲货币危机, 欧洲货币体系 |
-| `土地财政` | 化债, 地方政府隐性债务 |
+| `Volkswagen轧空事件` | 轧空、卖空机制 |
+| `三元悖论` | 1992欧洲货币危机、欧洲货币体系 |
+| `土地财政` | 化债、地方政府隐性债务 |
 | `城投公司` | 化债核心命题 |
-| `量化紧缩` | 扩表与缩表, 美联储 |
-| `直升机撒钱` | 美联储独立性, 扩表与缩表 |
-| `巴塞尔协议` | 逆周期资本缓冲, 沃尔克规则 |
+| `量化紧缩` | 扩表与缩表、美联储 |
+| `直升机撒钱` | 美联储独立性、扩表与缩表 |
 | `累计期权` | 期权 |
-| `做空机制` | 保时捷大众恶意并购, 影子银行 |
-| `做空CDS` | 影子银行 |
+| `做空机制` | 保时捷大众恶意并购、影子银行 |
 | `买断式逆回购` | 国债逆回购 |
 | `人民币国际化` | 国债逆回购 |
 | `货币乘数` | 银行扩表与流动性 |
 | `雷曼兄弟` | 影子银行 |
-| `沃尔克` | 逆周期资本缓冲, 存款保险 |
+| `沃尔克` | 逆周期资本缓冲、存款保险 |
 | `伯南克` | 最后贷款人 |
-| `欧元区` | 负利率, OMT |
+| `欧元区` | 负利率、OMT |
 | `欧洲央行` | 欧猪五国 |
-| `次级制裁` | 霸权稳定论, 美元霸权 |
-| `次贷危机` | (multiple) |
+| `次级制裁` | 霸权稳定论、美元霸权 |
+| `次贷危机` | （多处引用） |
+| `央行对冲工具` | 最后贷款人、逆周期资本缓冲 |
+| `8·11汇改` / `8.11 汇改` | 冲销式干预、非冲销式干预 |
+| `301条款` | 输入型通胀、关税战传导 |
+| `沃尔克` | 逆周期资本缓冲 |
 
-### 高优先级 — 畸形链接 (数据损坏)
+### 中优先级 — 路径型链接（vault 存在同名文件）
+
+这些链接的目标文件存在，但 wikilink 写法有问题：
+
+| 问题写法 | 实际文件 | 来源 |
+|----------|----------|------|
+| `[[wiki/concepts/城镇化]]` | `concepts/城镇化.md` | 房地产 |
+| `[[wiki/entities/沃尔克]]` | `entities/沃尔克.md` | 最后贷款人 |
+| `[[wiki/entities/中央银行]]` | `entities/中央银行.md` | 财政货币化 |
+| `[[wiki/concepts/回购注销\|回购注销]]` | `concepts/回购注销.md` | 多处 |
+| `[[wiki/meta/化债机制图谱.canvas]]` | `meta/化债机制图谱.canvas` | 化债核心命题 |
+
+**修复方式**：将 `[[wiki/concepts/X]]` 改为 `[[X]]`，`[[wiki/entities/X]]` 改为 `[[X]]`。
+
+### 低优先级 — 测试残留
 
 | 死链 | 疑似来源 |
-|------|---------|
-| `MLFconcepts/OMT` | 源码中链接拼接损坏 |
-| `PSLconcepts/QE与化债对比` | 源码中链接拼接损坏 |
-| `X` | 测试残留或损坏 |
-| `...` | 测试残留或损坏 |
-
-### 中优先级 — 路径型链接 (basename-only)
-
-以下链接仅用文件名但Vault中有多个同名文件或路径不完整：
-`[[SLF]]`、`[[SLF]]`、`[[MLF]]`、`[[PSL]]` 等指向 `[[wiki/concepts/SLF]]` 但实际应为 `[[wiki/concepts/SLF|SLF]]`
-
----
-
-## 3. Frontmatter Gaps (20 files)
-
-| 缺失模式 | 数量 | 文件 |
-|----------|------|------|
-| `created` + `updated` | 5 | CBOT, 大豆战争, 战略储备, 中储粮, 五神 |
-| `created` | 4 | getting-started, hot, index, log (meta页) |
-| `updated` | 11 | 万科宝能之争, 中国特色企业治理, 恶意收购, 杠杆收购, 白衣骑士, 华润, 姚振华, 安邦, 宝能系, 庄炳昌, 王石 |
-
-**观察:** 11个`updated`缺失全是entity页面(宝能系相关群)，可能是同一批导入但漏填。5个同时缺`created`+`updated`是最早期页面，需时间回填。
-
----
-
-## 4. Empty Sections (1,530 instances in 275 files)
-
-> [!alert]
-> 275个文件有1,530个空章节。其中15个文件各有13-15个空章节，是重大内容缺口。
-
-### Top offenders (13+ empty sections each)
-
-| 文件 | 空章节数 |
 |------|----------|
-| concepts/交易成本与科斯定理 | 15 |
-| concepts/巴塞尔协议III | 14 |
-| concepts/沃尔克规则 | 14 |
-| entities/索罗斯 | 13 |
-| concepts/长期资本管理公司 | 13 |
-| concepts/最后贷款人 | 13 |
-| concepts/希腊字母 | 13 |
-| concepts/套期保值 | 13 |
-| concepts/基差风险 | 13 |
-| concepts/动态对冲 | 13 |
-| concepts/期权 | 13 |
-| concepts/2020年3月流动性危机 | 13 |
-| concepts/2008全球金融危机 | 13 |
-| concepts/1997亚洲金融危机 | 13 |
-| concepts/1992欧洲货币危机 | 13 |
-
-**模式:** 使用"一、二、三..."或"第X节"结构但章节内容完全缺失。这些页面需要大量内容填充，不是简单的模板残留。
+| `Foo` | DragonScale Memory（测试残留） |
+| `wikilinks` | cherry-picks |
+| `Wiki Map.canvas` | getting-started、hot、index |
+| `dashboard` | overview、_index、货币本质 |
+| `How does the LLM Wiki pattern work?` | Persistent Wiki Artifact、Query-Time Retrieval |
+| `Three laws of motion` | Persistent Wiki Artifact |
 
 ---
 
-## 5. DragonScale Address Validation
+## 3. Frontmatter Gaps — 22 个页面
 
-- **DragonScale: enabled**
-- Counter state: `16` (next available: `c-000016`)
-- Highest c- address: `c-000015` (12 pages total)
+| 缺失字段 | 数量 | 页面 |
+|----------|------|------|
+| `created` | 4 | hot, getting-started, log, index（meta 导航页） |
+| `created` + `updated` | 6 | 大豆战争, CBOT, 战略储备, 中储粮, 五神, 2025-02-04-中国粮食金融保卫战-巫师财经 |
+| `updated` | 12 | 恶意收购, 万科宝能之争, 白衣骑士, 中国特色企业治理, 杠杆收购, 华润, 安邦, 姚振华, 宝能系, 庄炳昌, 万科宝能股权之争 |
 
-### BLOCKER — 660 post-rollout pages without address
-
-> [!danger]
-> 2026-04-23之后创建的660个页面全部缺少address字段。这是`wiki-ingest`未启用`allocate-address.sh`的系统性问题。
->
-> **修复:** 需要在`wiki-ingest`流程中集成`./scripts/allocate-address.sh`，或手动批量分配。**Lint不自动修复address缺失**（按设计仅观察）。
-
-### Legacy pages pending backfill: 34
-(created < 2026-04-23, informational only)
+**注**：`created` + `updated` 均缺失的 6 个是最早期页面（created < 2026-04-23），需时间回填。
 
 ---
 
-## 6. Semantic Tiling
+## 4. DragonScale Address Validation
 
-- **Status:** skipped — ollama not reachable (exit 10)
-- **Fix:** `ollama pull nomic-embed-text` then re-run lint
+### Counter State
+- **Counter peek**: `16`（下一个可用地址：`c-000016`）
+- **Rollout baseline**: `2026-04-23`（来自 `.vault-meta/legacy-pages.txt`）
+
+### Pages WITH 有效地址（12 个，均唯一）
+
+| 地址 | 页面 |
+|------|------|
+| c-000001 | DragonScale Memory |
+| c-000004 | 万科宝能股权之争 |
+| c-000005 | 王石 |
+| c-000006 | 姚振华 |
+| c-000007 | 华润 |
+| c-000008 | 安邦 |
+| c-000009 | 宝能系 |
+| c-000011 | 中国特色企业治理 |
+| c-000012 | 恶意收购 |
+| c-000013 | 白衣骑士 |
+| c-000014 | 杠杆收购 |
+| c-000015 | 万科宝能之争 |
+
+### BLOCKER — 675 个 post-rollout 页面缺少 address
+
+2026-04-23 之后创建的 686 个 post-rollout 页面中，仅 11 个有地址，675 个缺失。这是 `wiki-ingest` 未集成 `allocate-address.sh` 的系统性问题。
+
+> **修复方案**：在 `wiki-ingest` 流程中每次创建页面时调用 `./scripts/allocate-address.sh`，或手动批量分配。**Lint 不自动修复 address 缺失**（按设计仅观察）。
+
+### Pending Backfill — 40 个 legacy 页面（信息级）
+
+| 类别 | 示例 |
+|------|------|
+| sources（老帖子） | 2020-04-25-日本经济崩盘始末-巫师财经, 2019-12-08-保时捷大众恶意并购-巫师财经 |
+| meta 页 | full-audit-and-system-setup-session, claud-obsidian-v1.4-release-session |
+| concepts（早期） | 大豆战争, Compounding Knowledge, Hot Cache, 量化宽松 |
+| entities（早期） | Andrej Karpathy, Claude SEO, How does the LLM Wiki pattern work |
+
+---
+
+## 5. Semantic Tiling
+
+- **Status**: skipped — ollama 不可达（exit 10）
+- **诊断**: `ollama_reachable: false`, `model_present: false`
+- **Fix**: `ollama pull nomic-embed-text` 后重新运行 lint
 
 ---
 
@@ -182,27 +173,26 @@ status: developing
 
 | 优先级 | 任务 | 数量 | 操作 |
 |--------|------|------|------|
-| **BLOCKER** | 启用DragonScale address分配系统 | 660 | 修改wiki-ingest流程 |
-| **P0** | 修复畸形链接 (`MLFconcepts/OMT`等) | 4 | 找到源文件修正 |
-| **P0** | 填充top-15空章节文件 | 15文件×13+节 | 人工内容填充 |
-| **P1** | 创建高频缺失页stub | ~30 | wiki-ingest批量创建 |
-| **P2** | 补充frontmatter缺口 | 20 | 手动补字段 |
-| **P3** | 系统性孤儿页交叉链接 | 635 | 分批次添加入站链接 |
-| **P4** | 删除测试残留 (`[[Foo]]`, `[[X]]`) | 2 | 手动删除 |
+| **BLOCKER** | 启用 DragonScale address 分配 | 675 | 修改 wiki-ingest 流程 |
+| **P0** | 修复路径型 wikilinks | ~50 | 全局替换 `[[wiki/concepts/` → `[[` |
+| **P1** | 创建高频缺失页 stub | ~30 | wiki-ingest 批量创建 |
+| **P2** | 补充 frontmatter 缺口 | 22 | 手动补字段 |
+| **P3** | 删除/确认孤立测试残留 | 1 | 确认 `实体页` 是否为测试残留 |
+| **P4** | 删除测试 wikilink（Foo） | 1 | 从 DragonScale Memory 移除 |
 
 ---
 
-## Auto-Fix Log (This Session)
+## Comparison with Previous Lint (2026-07-13)
 
-| 时间 | 操作 | 结果 |
-|------|------|------|
-| 2026-07-14 | 为`2013年钱荒.md`创建15个stub页面 | ✅ 完成 |
-
-创建的stub页面：
-- concepts: 2023年化债, 8号文, DR007, SHIBOR, SLF, SLO, 货币基金, 资管新规, 金融脱媒, 利率市场化
-- entities: 周小川, 银监会, 光大银行, 天弘基金, 阿里巴巴
+| 指标 | 2026-07-13 | 2026-07-14 | 变化 |
+|------|------------|------------|------|
+| 扫描页面数 | 723 | 719 | -4 |
+| 孤立页面 | 635 | 9 | ⬇️ 定义更严格 |
+| 死链（唯一目标） | 75 | 159 | ⬆️ 更精确扫描 |
+| Frontmatter 缺口 | ~20 | 22 | — |
+| DragonScale 地址缺失 | 660 | 675 | ⬆️ +15 新页面 |
 
 ---
 
 *Report generated: 2026-07-14*
-*Scanner: parallel 4-agent (orphans/dead-links/frontmatter/empty-sections) + DragonScale + tiling-check*
+*Scanner: parallel 5-agent (orphans/dead-links/frontmatter/DragonScale/tiling-peek)*
