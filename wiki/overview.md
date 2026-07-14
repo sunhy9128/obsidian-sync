@@ -40,6 +40,7 @@ Run `/wiki` to scaffold this vault for your own domain and replace this overview
 
 **Entities seeded:**
 - [[Andrej Karpathy]] — originated the pattern
+- [[实体页]] — auto-generated entity stub placeholder (system recognized but not yet classified)
 
 **Sources seeded:**
 - [[claude-obsidian-ecosystem-research]] — 16+ projects, 13 cherry-picks identified (2026-04-08)
