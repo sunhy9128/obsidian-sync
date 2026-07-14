@@ -175,4 +175,4 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 - [[wiki/concepts/化债]] — 化债主页面
 - [[wiki/sources/2024-化债政策包]] — 化债政策汇总（已修复死链）
 - [[wiki/meta/lint-report-2026-06-26]] — 上一次 lint 报告
-- [[wiki/meta/化债机制图谱.canvas]] — 知识网络可视化
+- [[化债机制图谱 1.canvas]] — 知识网络可视化

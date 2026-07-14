@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"title","type":"text","text":"# ECB 100 年传承时间线（1923-2026）\n\n**欧洲中央银行的百年基因**——从 Rentenmark 改革到欧元的完整演化链\n\n## 核心命题\n\n- **信用是货币的锚**：100 年反复验证\n- **马克基因的国际化**：从 DM 到 EUR\n- **央行独立是稳定的前提**：1957-1998-至今\n- **Whatever it takes**：央行承诺是历史上最强大的工具\n\n## 节点布局\n\n- **顶层（绿色）= 时间线**：13 个关键年份（1923→2026）\n- **第二层（黄色）= 理论层**：5 个核心理论\n- **第三层（紫色）= 文化/经济层**：核心文化与经济模式\n- **第四层（蓝色）= 货币层**：6 个核心货币/工具\n- **第五层（红色）= 机构层**：核心机构与人物","x":-100,"y":-1000,"width":520,"height":280,"color":"5"},
-
 		{"id":"t1-1923","type":"text","text":"**1923.11.15**\n\n**Rentenmark 改革**\n\nHans Luther 24 小时终结通胀\n\n1 美元 = 4.2 万亿马克 → 1:1 旧马克","x":-1100,"y":-700,"width":240,"height":120,"color":"5"},
 		{"id":"t2-1948","type":"text","text":"**1948.6.20**\n\n**DM 改革**\n\n美英 + Erhard\n\n推出 Deutsche Mark\n\n+ 取消 80% 价格管制","x":-850,"y":-700,"width":240,"height":120,"color":"5"},
 		{"id":"t3-1957","type":"text","text":"**1957.7.1**\n\n**Bundesbank**\n\n联邦银行法生效\n\n央行独立 + 8 年任期\n\n法律化","x":-600,"y":-700,"width":240,"height":120,"color":"5"},
@@ -15,19 +14,16 @@
 		{"id":"t11-2012","type":"text","text":"**2012.7.26**\n\n**\"Whatever it takes\"**\n\nDraghi 拯救欧元\n\nOMT 设计","x":1400,"y":-700,"width":240,"height":120,"color":"5"},
 		{"id":"t12-2020","type":"text","text":"**2020.3**\n\n**PEPP 启动**\n\n1.85 万亿欧元\n\n突破 Capital Key","x":1650,"y":-700,"width":240,"height":120,"color":"5"},
 		{"id":"t13-2026","type":"text","text":"**2024-2026**\n\n**降息周期**\n\nDFR 4.0% → 2.5%\n\n稳定文化 2.0","x":1900,"y":-700,"width":240,"height":120,"color":"5"},
-
 		{"id":"layer-理论","type":"text","text":"## 第二层：理论层\n\n5 个核心理论","x":-1100,"y":-500,"width":200,"height":80,"color":"3"},
 		{"id":"c1-魏玛","type":"file","file":"wiki/concepts/魏玛恶性通胀.md","x":-850,"y":-500,"width":200,"height":120,"color":"3"},
 		{"id":"c2-秩序","type":"file","file":"wiki/concepts/秩序自由主义.md","x":-600,"y":-500,"width":200,"height":120,"color":"3"},
 		{"id":"c3-MMT","type":"file","file":"wiki/concepts/现代货币理论 (MMT).md","x":-350,"y":-500,"width":200,"height":120,"color":"3"},
 		{"id":"c4-制度学习","type":"file","file":"wiki/concepts/制度学习.md","x":-100,"y":-500,"width":200,"height":120,"color":"3"},
 		{"id":"c5-霸权","type":"file","file":"wiki/concepts/美元霸权.md","x":150,"y":-500,"width":200,"height":120,"color":"3"},
-
 		{"id":"layer-文化经济","type":"text","text":"## 第三层：文化/经济层\n\n文化基因 + 经济模式","x":-1100,"y":-300,"width":200,"height":80,"color":"2"},
 		{"id":"k1-稳定文化","type":"file","file":"wiki/concepts/稳定文化.md","x":-850,"y":-300,"width":200,"height":120,"color":"2"},
 		{"id":"k2-莱茵","type":"file","file":"wiki/concepts/莱茵资本主义.md","x":-600,"y":-300,"width":200,"height":120,"color":"2"},
 		{"id":"k3-铆钉马克","type":"file","file":"wiki/concepts/铆钉德国马克.md","x":-350,"y":-300,"width":200,"height":120,"color":"2"},
-
 		{"id":"layer-货币","type":"text","text":"## 第四层：货币层\n\n货币改革 + 危机工具","x":-1100,"y":-100,"width":200,"height":80,"color":"1"},
 		{"id":"m1-Rentenmark","type":"file","file":"wiki/concepts/Rentenmark改革.md","x":-850,"y":-100,"width":200,"height":120,"color":"1"},
 		{"id":"m2-1948DM","type":"file","file":"wiki/entities/1948货币改革.md","x":-600,"y":-100,"width":200,"height":120,"color":"1"},
@@ -35,7 +31,6 @@
 		{"id":"m4-OMT","type":"file","file":"wiki/concepts/OMT.md","x":-100,"y":-100,"width":200,"height":120,"color":"1"},
 		{"id":"m5-量化宽松","type":"file","file":"wiki/concepts/量化宽松.md","x":150,"y":-100,"width":200,"height":"120","color":"1"},
 		{"id":"m6-负利率","type":"file","file":"wiki/concepts/负利率.md","x":400,"y":-100,"width":200,"height":120,"color":"1"},
-
 		{"id":"layer-机构","type":"text","text":"## 第五层：机构层\n\n央行 + 行长 + 关键人物","x":-1100,"y":100,"width":200,"height":80,"color":"6"},
 		{"id":"i1-ECB","type":"file","file":"wiki/entities/ECB.md","x":-850,"y":100,"width":200,"height":120,"color":"6"},
 		{"id":"i2-Luther","type":"file","file":"wiki/entities/Hans Luther.md","x":-600,"y":100,"width":200,"height":120,"color":"6"},
@@ -47,7 +42,6 @@
 		{"id":"i8-BIS","type":"file","file":"wiki/entities/BIS.md","x":900,"y":100,"width":200,"height":120,"color":"6"},
 		{"id":"i9-密特朗","type":"file","file":"wiki/entities/密特朗.md","x":1150,"y":100,"width":200,"height":120,"color":"6"},
 		{"id":"i10-德国","type":"file","file":"wiki/entities/德国.md","x":1400,"y":100,"width":200,"height":120,"color":"6"},
-
 		{"id":"legend","type":"text","text":"## 图例\n\n- 🟢 **绿色** = 时间线（关键年份）\n- 🟡 **黄色** = 理论层（核心理论）\n- 🟣 **紫色** = 文化/经济层（文化基因 + 经济模式）\n- 🔵 **蓝色** = 货币层（货币改革 + 危机工具）\n- 🔴 **红色** = 机构层（央行 + 关键人物）\n\n## 核心洞察\n\n### 1. 信用是货币的锚\n1923 Rentenmark 改革 → 1948 DM → 2008 QE → 2024 降息\n**100 年反复验证**\n\n### 2. 马克基因的国际化\n魏玛教训 → Bundesbank 独立 → ECB 章程\n**\"马克的幽灵\"成为欧元**\n\n### 3. 央行承诺的力量\n2012.7.26 \"Whatever it takes\"\n**改变历史但未实际花一分钱**\n\n### 4. 货币联盟需要财政联盟\n2010-2012 欧债危机\n**\"原生缺陷\"从未真正解决**","x":1700,"y":-300,"width":420,"height":440,"color":"6"}
 	],
 	"edges":[
@@ -63,27 +57,22 @@
 		{"id":"e-flow-10","fromNode":"t10-2002","fromSide":"bottom","toNode":"t11-2012","toSide":"top","color":"5","label":"10 年"},
 		{"id":"e-flow-11","fromNode":"t11-2012","fromSide":"bottom","toNode":"t12-2020","toSide":"top","color":"5","label":"8 年"},
 		{"id":"e-flow-12","fromNode":"t12-2020","fromSide":"bottom","toNode":"t13-2026","toSide":"top","color":"5","label":"6 年"},
-
 		{"id":"e-魏玛-层","fromNode":"c1-魏玛","fromSide":"right","toNode":"layer-文化经济","toSide":"top","color":"3","label":""},
 		{"id":"e-秩序-层","fromNode":"c2-秩序","fromSide":"right","toNode":"layer-文化经济","toSide":"top","color":"3","label":""},
 		{"id":"e-MMT-层","fromNode":"c3-MMT","fromSide":"right","toNode":"layer-文化经济","toSide":"top","color":"3","label":""},
 		{"id":"e-制度-层","fromNode":"c4-制度学习","fromSide":"right","toNode":"layer-文化经济","toSide":"top","color":"3","label":""},
 		{"id":"e-霸权-层","fromNode":"c5-霸权","fromSide":"right","toNode":"layer-文化经济","toSide":"top","color":"3","label":""},
-
 		{"id":"e-魏玛-源头","fromNode":"t1-1923","fromSide":"bottom","toNode":"c1-魏玛","toSide":"top","color":"5","label":"源头创伤"},
 		{"id":"e-魏玛-秩序","fromNode":"c1-魏玛","fromSide":"bottom","toNode":"c2-秩序","toSide":"top","color":"3","label":"理论反思"},
 		{"id":"e-魏玛-稳定","fromNode":"c1-魏玛","fromSide":"bottom","toNode":"k1-稳定文化","toSide":"top","color":"3","label":"文化根源"},
 		{"id":"e-魏玛-Rentenmark","fromNode":"c1-魏玛","fromSide":"bottom","toNode":"m1-Rentenmark","toSide":"top","color":"3","label":"终结"},
 		{"id":"e-魏玛-Luther","fromNode":"c1-魏玛","fromSide":"bottom","toNode":"i2-Luther","toSide":"top","color":"3","label":"终结者"},
-
 		{"id":"e-秩序-莱茵","fromNode":"c2-秩序","fromSide":"bottom","toNode":"k2-莱茵","toSide":"top","color":"3","label":"经济基础"},
 		{"id":"e-莱茵-铆钉","fromNode":"k2-莱茵","fromSide":"bottom","toNode":"k3-铆钉马克","toSide":"top","color":"2","label":"货币化身"},
 		{"id":"e-稳定-铆钉","fromNode":"k1-稳定文化","fromSide":"bottom","toNode":"k3-铆钉马克","toSide":"top","color":"2","label":"文化基因"},
-
 		{"id":"e-MMT-Rentenmark","fromNode":"c3-MMT","fromSide":"bottom","toNode":"m1-Rentenmark","toSide":"top","color":"3","label":"先驱实验"},
 		{"id":"e-制度-密特朗","fromNode":"c4-制度学习","fromSide":"bottom","toNode":"i9-密特朗","toSide":"top","color":"3","label":"经典案例"},
 		{"id":"e-霸权-ECB","fromNode":"c5-霸权","fromSide":"bottom","toNode":"i1-ECB","toSide":"top","color":"3","label":"挑战者"},
-
 		{"id":"e-Rentenmark-1948","fromNode":"m1-Rentenmark","fromSide":"bottom","toNode":"m2-1948DM","toSide":"top","color":"1","label":"25 年后"},
 		{"id":"e-1948-德国马克","fromNode":"m2-1948DM","fromSide":"bottom","toNode":"m3-德国马克","toSide":"top","color":"1","label":"货币化身"},
 		{"id":"e-1948-Luther","fromNode":"m1-Rentenmark","fromSide":"bottom","toNode":"i2-Luther","toSide":"top","color":"1","label":"设计者"},
@@ -94,14 +83,11 @@
 		{"id":"e-Draghi-Lagarde","fromNode":"i3-Draghi","fromSide":"bottom","toNode":"i4-Lagarde","toSide":"top","color":"6","label":"继任"},
 		{"id":"e-Duisenberg-Trichet","fromNode":"i5-Duisenberg","fromSide":"bottom","toNode":"i6-Trichet","toSide":"top","color":"6","label":"继任"},
 		{"id":"e-Trichet-Draghi","fromNode":"i6-Trichet","fromSide":"bottom","toNode":"i3-Draghi","toSide":"top","color":"6","label":"继任"},
-
 		{"id":"e-ESM-ECB","fromNode":"i7-ESM","fromSide":"left","toNode":"i1-ECB","toSide":"right","color":"6","label":"合作伙伴"},
 		{"id":"e-BIS-ECB","fromNode":"i8-BIS","fromSide":"left","toNode":"i1-ECB","toSide":"right","color":"6","label":"国际机构"},
 		{"id":"e-密特朗-ECB","fromNode":"i9-密特朗","fromSide":"left","toNode":"i1-ECB","toSide":"right","color":"6","label":"政治意愿"},
-
 		{"id":"e-量化宽松-ECB","fromNode":"m5-量化宽松","fromSide":"left","toNode":"i1-ECB","toSide":"right","color":"1","label":"工具"},
 		{"id":"e-负利率-ECB","fromNode":"m6-负利率","fromSide":"left","toNode":"i1-ECB","toSide":"right","color":"1","label":"工具"},
-
 		{"id":"e-legend","fromNode":"i1-ECB","fromSide":"right","toNode":"legend","toSide":"left","color":"6","label":""}
 	]
 }
