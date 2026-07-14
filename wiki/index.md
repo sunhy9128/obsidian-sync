@@ -134,6 +134,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 ## Questions
 
 - [[财政货币化]] — 什么是财政货币化？它与化债、QE有什么区别？（status: completed）
+- [[美元收割全球的机制是什么]] — 美联储加息/降息如何收割新兴市场？三步收割拆解（status: developing）
 
 ---
 
