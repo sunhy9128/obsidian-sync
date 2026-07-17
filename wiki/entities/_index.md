@@ -32,7 +32,7 @@ All entity pages — people, organizations, products, and tools.
 
 ## Organizations
 
-<!-- Add organization pages here -->
+- [[淡马锡|Temasek Holdings]] — 新加坡主权财富基金，财政部全资持股，1974 成立，USD 289 b 组合，主权基金里"积极股东型" 标杆（status: developing）
 
 ---
 
