@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "AI虹吸效应"
+address: c-000042
 created: 2026-06-24
 updated: 2026-06-24
 tags: [concept, a股, ai, market-structure]
@@ -9,6 +10,7 @@ aliases:
   - "AI Liquidity Siphoning"
   - "AI吸血效应"
   - "AI板块虹吸"
+  - "wiki/concepts/AI虹吸效应"
 ---
 
 # AI虹吸效应

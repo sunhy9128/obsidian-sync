@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "AI Marketing Hub Cover Images Canvas"
+address: c-000041
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

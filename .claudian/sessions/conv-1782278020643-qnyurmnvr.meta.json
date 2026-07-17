@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782278020643-qnyurmnvr",
+  "providerId": "claude",
+  "title": "Set up claude-obsidian wiki plugin",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782278020643,
+  "updatedAt": 1782286956187,
+  "lastResponseAt": 1782286919349,
+  "sessionId": "0f9361fc-0893-4233-abb7-6f18132e678f",
+  "providerState": {
+    "providerSessionId": "0f9361fc-0893-4233-abb7-6f18132e678f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

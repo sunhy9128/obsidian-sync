@@ -1,22 +1,13 @@
 ---
 title: "Jean-Claude Trichet"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - person
-  - central-banker
-  - ecb
-  - euro
-aliases:
-  - "特里谢"
-  - "Jean-Claude Trichet"
-  - "ECB 第二任行长"
-  - "法国前财长"
-sources:
-  - "[[wiki/entities/ECB]]"
+address: "c-000510"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Jean-Claude Trichet（让-克洛德·特里谢）

@@ -3,5 +3,17 @@
     "vault-colors",
     "ITS-Dataview-Cards",
     "ITS-Image-Adjustments"
-  ]
+  ],
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "theme": "system",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "interfaceFontFamily": "苹方-简",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "HarmonyOS Sans SC",
+  "nativeMenus": true,
+  "translucency": true
 }

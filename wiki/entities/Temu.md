@@ -1,15 +1,14 @@
 ---
-type: entity
-created: 2026-06-05
-updated: 2026-06-05
-sources:
-- '[[欧盟要与中国打贸易战]]'
-tags:
-- product
-aliases:
-- 拼多多跨境平台
-- Temu跨境电商平台
-status: current
+
+address: "c-000529"
+type: "entity"
+title: "Temu"
+created: "2026-06-05"
+updated: "2026-06-05"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

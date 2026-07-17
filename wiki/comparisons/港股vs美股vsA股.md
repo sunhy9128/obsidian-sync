@@ -1,11 +1,11 @@
 ---
 title: "港股 vs 美股 vs A 股"
-created: 2026-05-21
-updated: 2026-05-21
-type: comparison
-status: developing
-tags:
-  - comparison
+address: "c-000020"
+created: "2026-05-21"
+updated: "2026-05-21"
+type: "comparison"
+status: "developing"
+tags: []
 ---
 
 # 港股 vs 美股 vs A 股：市场结构对比

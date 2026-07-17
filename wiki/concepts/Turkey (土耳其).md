@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Turkey (土耳其)"
+address: c-000084
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

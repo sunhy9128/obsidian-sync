@@ -1,28 +1,14 @@
 ---
-type: concept
-created: 2026-06-05
-updated: 2026-06-15
-sources: null
-tags:
-- term
-aliases:
-- DDX/DDY/DDZ 指标
-- 大单指标
-- DDX DDY DDZ 指标
-- DDX指标
-- 大单动向指标
-- DDX/DDY/DDZ指标
-- 大单动向系列
-- 通达信资金流指标
-- 主力资金动向指标
-- 大单净流入指标
-- Large Order Direction Indicator
-- 通达信大单指标
-- 大单动向
-- 资金流指标
-- 通达信特色指标
-- Tongdaxin 指标
-status: developing
+
+address: "c-000049"
+type: "concept"
+title: "DDXDDYDDZ-指标"
+created: "2026-06-05"
+updated: "2026-06-15"
+sources: "null"
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 

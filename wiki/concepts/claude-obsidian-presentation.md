@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "claude-obsidian-presentation"
+address: c-000091
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

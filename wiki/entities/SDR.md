@@ -1,23 +1,15 @@
 ---
-type: entity
+type: "entity"
 title: "SDR（特别提款权）"
-created: 2026-05-21
-updated: 2026-05-21
-tags:
-  - entity
-  - domain/国际金融
-status: developing
-entity_type: instrument
-aliases:
-  - Special Drawing Rights
-  - 特别提款权
-related:
-  - "[[布雷顿森林体系]]"
-  - "[[特里芬难题]]"
-  - "[[人民币国际化]]"
-  - "[[外汇储备]]"
-  - "[[IMF]]"
-sources: []
+address: "c-000524"
+created: "2026-05-21"
+updated: "2026-05-21"
+tags: []
+status: "developing"
+entity_type: "instrument"
+aliases: ""
+related: ""
+sources: "[]"
 ---
 
 # SDR（特别提款权）

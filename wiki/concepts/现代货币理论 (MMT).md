@@ -1,29 +1,13 @@
 ---
 title: "现代货币理论 (MMT)"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: concept
-tags:
-  - concept
-  - monetary-theory
-  - mmt
-  - modern-monetary-theory
-  - fiat-currency
-  - heterodox-economics
-  - fiscal-policy
-aliases:
-  - "MMT"
-  - "Modern Monetary Theory"
-  - "现代货币理论"
-  - "Neochartalism"
-  - "新货币论"
-  - "信用货币理论"
-  - "Fiat Money Theory"
-  - "现代货币与财政理论"
-sources:
-  - "[[wiki/concepts/Rentenmark改革]]"
-  - "[[wiki/entities/Hans Luther]]"
+address: "c-000337"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # 现代货币理论（Modern Monetary Theory / MMT）

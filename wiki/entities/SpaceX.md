@@ -1,16 +1,14 @@
 ---
-type: entity
-created: 2026-06-03
-updated: 2026-06-03
-sources:
-- '[[太不团结了]]'
-tags:
-- organization
-aliases:
-- 太空探索技术公司
-- 马斯克的火箭公司
-- spaceX
-status: current
+
+address: "c-000528"
+type: "entity"
+title: "SpaceX"
+created: "2026-06-03"
+updated: "2026-06-03"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

@@ -1,10 +1,13 @@
 ---
+
 type: concept
 title: "PCE"
+address: c-000070
 created: 2026-06-26
 updated: 2026-06-26
 tags: [concept, usa, inflation, fed, monetary-policy]
 status: developing
+related: "[[宏观经济]]"
 aliases:
   - "PCE Price Index"
   - "个人消费支出价格指数"
@@ -12,6 +15,7 @@ aliases:
   - "Core PCE"
   - "PCE Inflation"
   - "核心PCE"
+  - "wiki/concepts/PCE"
 ---
 
 # PCE

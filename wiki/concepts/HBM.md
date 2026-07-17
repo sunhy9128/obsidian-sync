@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "HBM"
+address: c-000059
 created: 2026-06-26
 updated: 2026-06-26
 tags: [concept, semiconductor, memory, ai]
@@ -12,6 +13,7 @@ aliases:
   - "HBM4"
   - "HBM2E"
   - "AI 内存"
+  - "wiki/concepts/HBM"
 ---
 
 # HBM

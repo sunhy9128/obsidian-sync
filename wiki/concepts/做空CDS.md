@@ -1,10 +1,13 @@
 ---
+
 type: concept
 title: "做空CDS"
+address: c-000144
 created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, derivatives, cds, stub]
 status: stub
+related: "[[银行体系与金融监管]]"
 sources: []
 ---
 

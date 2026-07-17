@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "mcp-setup"
+address: c-000098
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

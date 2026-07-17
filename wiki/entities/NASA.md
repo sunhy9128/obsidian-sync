@@ -1,16 +1,14 @@
 ---
-type: entity
-created: 2026-06-03
-updated: 2026-06-03
-sources:
-- '[[太不团结了]]'
-tags:
-- organization
-aliases:
-- 美国国家航空航天局
-- 美国宇航局
-- National Aeronautics and Space Administration
-status: current
+
+address: "c-000520"
+type: "entity"
+title: "NASA"
+created: "2026-06-03"
+updated: "2026-06-03"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

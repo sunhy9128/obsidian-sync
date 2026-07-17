@@ -9,5 +9,14 @@
     "CLAUDE.md",
     "WIKI.md",
     "Welcome.md"
-  ]
+  ],
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "promptDelete": false,
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true
 }

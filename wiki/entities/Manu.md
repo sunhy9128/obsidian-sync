@@ -1,15 +1,14 @@
 ---
-type: entity
-created: 2026-06-02
-updated: 2026-06-02
-sources:
-- '[[837号令]]'
-tags:
-- organization
-aliases:
-- Manu公司
-- Meta收购标的Manu
-status: current
+
+address: "c-000516"
+type: "entity"
+title: "Manu"
+created: "2026-06-02"
+updated: "2026-06-02"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

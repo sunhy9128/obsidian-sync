@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783579731058-qfxeenstu",
+  "providerId": "claude",
+  "title": "解释利率与汇率的联动机制",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783579731067,
+  "updatedAt": 1783580653955,
+  "lastResponseAt": 1783579801241,
+  "sessionId": "421b1f8d-801f-4d2b-a166-168d61bc9703",
+  "providerState": {
+    "providerSessionId": "421b1f8d-801f-4d2b-a166-168d61bc9703"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 25967,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20480,
+    "contextWindow": 200000,
+    "contextTokens": 46447,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}

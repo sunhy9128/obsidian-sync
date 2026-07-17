@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Lint Report 2026-06-24 (Incremental)"
+address: c-000922
 created: 2026-06-24
 updated: 2026-06-24
 tags: [meta, lint, incremental]

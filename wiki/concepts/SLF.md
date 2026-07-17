@@ -1,19 +1,13 @@
 ---
 title: "SLF"
-created: 2026-07-14
-updated: 2026-07-14
-status: stub
-type: concept
-tags:
-  - concept
-  - monetary-policy
-  - central-bank-tools
-  - china-market
-aliases:
-  - "常备借贷便利"
-  - "Standing Lending Facility"
-sources:
-  - "[[wiki/concepts/2013年钱荒]]"
+address: "c-000078"
+created: "2026-07-14"
+updated: "2026-07-14"
+status: "stub"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # SLF

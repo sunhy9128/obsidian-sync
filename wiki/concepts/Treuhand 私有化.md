@@ -1,29 +1,14 @@
 ---
-type: concept
+type: "concept"
 title: "Treuhand 私有化"
-created: 2026-07-07
-updated: 2026-07-07
-sources:
-tags:
-  - concept
-  - domain/宏观经济
-  - domain/经济转型
-  - domain/私有化
-status: developing
-related:
-  - "[[两德合并]]"
-  - "[[货币兑换（1990东德）]]"
-  - "[[团结税]]"
-  - "[[东德]]"
-  - "[[德国]]"
-  - "[[科尔]]"
-aliases:
-  - "Treuhandanstalt"
-  - "Treuhand Agency"
-  - "托管局"
-  - "信托局"
-  - "Treuhand 信托局"
-  - "Treuhand Privatization"
+address: "c-000083"
+created: "2026-07-07"
+updated: "2026-07-07"
+sources: ""
+tags: []
+status: "developing"
+related: ""
+aliases: ""
 ---
 
 # Treuhand 私有化

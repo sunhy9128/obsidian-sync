@@ -1,24 +1,15 @@
 ---
+
 title: "OMT"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: concept
-tags:
-  - concept
-  - ecb
-  - monetary-policy
-  - crisis-management
-  - euro
-  - sovereign-debt
-aliases:
-  - "Outright Monetary Transactions"
-  - "直接货币交易"
-  - "OMT 计划"
-  - "ECB 直接购买政府债券"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/concepts/欧元区主权债务危机]]"
+address: "c-000069"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+related: "[[货币政策与中央银行]]"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # OMT（Outright Monetary Transactions / 直接货币交易）

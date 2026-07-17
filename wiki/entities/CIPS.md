@@ -1,30 +1,15 @@
 ---
-type: entity
+type: "entity"
 title: "CIPS"
-created: 2026-07-07
-updated: 2026-07-07
-sources:
-tags:
-  - entity
-  - domain/国际金融
-  - domain/中国金融
-status: developing
-entity_type: infrastructure
-related:
-  - "[[人民币国际化]]"
-  - "[[SWIFT]]"
-  - "[[CHIPS]]"
-  - "[[美元霸权]]"
-  - "[[离岸人民币]]"
-  - "[[俄罗斯人民币结算]]"
-  - "[[央行数字货币]]"
-  - "[[共建一带一路]]"
-aliases:
-  - "Cross-border Interbank Payment System"
-  - "人民币跨境支付系统"
-  - "人民币跨境支付"
-  - "跨境支付系统"
-  - "人民币清算系统"
+address: "c-000493"
+created: "2026-07-07"
+updated: "2026-07-07"
+sources: ""
+tags: []
+status: "developing"
+entity_type: "infrastructure"
+related: ""
+aliases: ""
 ---
 
 # CIPS（人民币跨境支付系统）

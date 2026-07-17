@@ -1,3 +1,9 @@
+---
+
+title: "tiling-report-2026-04-24"
+address: c-000934
+---
+
 # Semantic Tiling Report
 
 - generated: 2026-04-24T09:20:59Z

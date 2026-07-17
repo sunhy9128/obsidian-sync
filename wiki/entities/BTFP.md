@@ -1,19 +1,13 @@
 ---
-title: BTFP
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "BTFP"
+address: "c-000490"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Bank Term Funding Program"
-  - "银行定期融资计划"
-  - "Federal Reserve Bank Term Funding Program"
-  - "Fed Bank Term Funding Program"
-  - "美联储银行定期融资计划"
-  - "BTFP Program"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # BTFP

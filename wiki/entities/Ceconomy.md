@@ -1,15 +1,14 @@
 ---
-type: entity
-created: 2026-06-05
-updated: 2026-06-05
-sources:
-- '[[欧盟要与中国打贸易战]]'
-tags:
-- organization
-aliases:
-- Ceconomy AG
-- Ceconomy 集团
-status: current
+
+address: "c-000494"
+type: "entity"
+title: "Ceconomy"
+created: "2026-06-05"
+updated: "2026-06-05"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782452122602-b5k0le9kx",
+  "providerId": "claude",
+  "title": "分析影子银行在风险下仍存续的原因",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782452122602,
+  "updatedAt": 1783404589980,
+  "lastResponseAt": 1783404566741,
+  "sessionId": "9da3d463-16cc-48dc-870d-66ade71761bb",
+  "providerState": {
+    "providerSessionId": "9da3d463-16cc-48dc-870d-66ade71761bb"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 413,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 163840,
+    "contextWindow": 200000,
+    "contextTokens": 164253,
+    "percentage": 82,
+    "contextWindowIsAuthoritative": true
+  }
+}

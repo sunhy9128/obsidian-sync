@@ -1,19 +1,12 @@
 ---
 title: "市场风险与VaR模型"
-created: 2026-05-21
-updated: 2026-05-21
-type: concept
-status: developing
-tags:
-  - concept
-aliases:
-  - "Value at Risk (VaR)"
-  - "Market Risk and Value at Risk Models"
-  - "市场风险管理"
-  - "风险价值模型"
-  - "FRTB (Fundamental Review of the Trading Book)"
-  - "Expected Shortfall (ES)"
-  - "Market Risk Management"
+address: "c-000258"
+created: "2026-05-21"
+updated: "2026-05-21"
+type: "concept"
+status: "developing"
+tags: []
+aliases: ""
 ---
 
 # 市场风险与VaR模型

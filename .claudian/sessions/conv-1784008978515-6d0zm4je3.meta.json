@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784008978515-6d0zm4je3",
+  "providerId": "claude",
+  "title": "解释QE与QT的央行资产负债表机制",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784008978515,
+  "updatedAt": 1784016989643,
+  "lastResponseAt": 1784011395428,
+  "sessionId": "be5e64e3-3a92-4a2a-b010-b5db552d9c1e",
+  "providerState": {
+    "providerSessionId": "be5e64e3-3a92-4a2a-b010-b5db552d9c1e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 793,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 83200,
+    "contextWindow": 200000,
+    "contextTokens": 83993,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

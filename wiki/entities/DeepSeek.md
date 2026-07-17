@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "DeepSeek (深度求索)"
+address: c-000497
 created: 2026-06-24
 updated: 2026-06-24
 tags: [entity, ai, llm, china]

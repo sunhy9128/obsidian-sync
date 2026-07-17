@@ -1,29 +1,13 @@
 ---
 title: "Rentenmark改革"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: concept
-tags:
-  - concept
-  - monetary-reform
-  - germany
-  - hyperinflation
-  - weimar
-  - currency-reform
-  - central-bank-history
-aliases:
-  - "Rentenmark"
-  - "地租马克"
-  - "1923年货币改革"
-  - "Weimar Currency Reform"
-  - "Hans Luther 改革"
-  - "德国1923货币改革"
-  - "Rentenbank"
-  - "地租银行"
-sources:
-  - "[[wiki/concepts/魏玛恶性通胀]]"
-  - "[[wiki/concepts/稳定文化]]"
+address: "c-000076"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Rentenmark 改革（1923.11.15）

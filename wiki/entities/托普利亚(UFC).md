@@ -1,18 +1,14 @@
 ---
-type: entity
-created: 2026-06-24
-updated: 2026-06-24
-sources:
-- '[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]'
-tags:
-- person
-- mma
-- ufc
-aliases:
-- Ilia Topuria
-- 托普利亚
-- El Matador
-status: current
+
+address: "c-000656"
+type: "entity"
+title: "托普利亚(UFC)"
+created: "2026-06-24"
+updated: "2026-06-24"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 # 托普利亚 (UFC)

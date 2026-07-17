@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "港股 vs 美股 vs A 股"
+address: c-000708
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

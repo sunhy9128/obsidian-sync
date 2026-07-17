@@ -1,24 +1,13 @@
 ---
 title: "BIS"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - international-organization
-  - central-bank
-  - banking
-  - finance
-aliases:
-  - "Bank for International Settlements"
-  - "国际清算银行"
-  - "国际清算银行"
-  - "巴塞尔银行监管委员会所在地"
-  - "央行中的央行"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/entities/美联储]]"
+address: "c-000489"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # BIS（Bank for International Settlements / 国际清算银行）

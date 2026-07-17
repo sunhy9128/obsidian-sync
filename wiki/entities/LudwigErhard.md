@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "路德维希·艾哈德（Ludwig Erhard）"
+address: c-000515
 created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, economics, germany, entity, stub]

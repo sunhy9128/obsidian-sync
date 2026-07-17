@@ -1,19 +1,12 @@
 ---
 title: "A 股市场结构"
-created: 2026-05-21
-updated: 2026-05-21
-type: concept
-status: developing
-tags:
-  - concept
-aliases:
-  - "China A-Share Market Structure"
-  - "中国股票市场结构"
-  - "多层次资本市场"
-  - "A股板块分类"
-  - "A-Share Trading Rules"
-  - "中国资本市场体系"
-  - "A股投资者结构"
+address: "c-000043"
+created: "2026-05-21"
+updated: "2026-05-21"
+type: "concept"
+status: "developing"
+tags: []
+aliases: ""
 ---
 
 # A 股市场结构

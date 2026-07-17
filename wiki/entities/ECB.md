@@ -1,30 +1,13 @@
 ---
 title: "ECB"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - finance
-  - central-bank
-  - monetary-policy
-  - euro
-  - european-union
-  - emu
-  - eurosystem
-aliases:
-  - "European Central Bank"
-  - "欧洲中央银行"
-  - "欧央行"
-  - "欧洲央行"
-  - "Eurosystem"
-  - "欧元体系"
-  - "欧元系统"
-  - "ECB Frankfurt"
-sources:
-  - "[[wiki/entities/欧元]]"
-  - "[[wiki/concepts/欧元区主权债务危机]]"
+address: "c-000498"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # ECB（欧洲中央银行 / European Central Bank）

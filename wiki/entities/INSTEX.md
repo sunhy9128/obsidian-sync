@@ -1,30 +1,15 @@
 ---
-type: entity
+type: "entity"
 title: "INSTEX"
-created: 2026-07-07
-updated: 2026-07-07
-sources:
-tags:
-  - entity
-  - domain/国际金融
-  - domain/欧盟
-status: developing
-entity_type: infrastructure
-related:
-  - "[[金融制裁]]"
-  - "[[金融武器化]]"
-  - "[[SWIFT]]"
-  - "[[CIPS]]"
-  - "[[SPFS]]"
-  - "[[伊朗]]"
-  - "[[欧盟]]"
-  - "[[伊朗石油欧元计价]]"
-aliases:
-  - "Instrument in Support of Trade Exchanges"
-  - "贸易互换支持工具"
-  - "INSTEX SAS"
-  - "欧盟-伊朗贸易结算机制"
-  - "欧洲特别目的载体"
+address: "c-000508"
+created: "2026-07-07"
+updated: "2026-07-07"
+sources: ""
+tags: []
+status: "developing"
+entity_type: "infrastructure"
+related: ""
+aliases: ""
 ---
 
 # INSTEX（贸易互换支持工具）

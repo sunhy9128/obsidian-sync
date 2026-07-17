@@ -1,15 +1,14 @@
 ---
-type: entity
-created: 2026-06-02
-updated: 2026-06-02
-sources:
-- '[[837号令]]'
-tags:
-- organization
-aliases:
-- Meta Platforms
-- Meta公司
-status: current
+
+address: "c-000518"
+type: "entity"
+title: "Meta"
+created: "2026-06-02"
+updated: "2026-06-02"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

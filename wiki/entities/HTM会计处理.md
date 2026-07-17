@@ -1,21 +1,13 @@
 ---
-title: HTM会计处理
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "HTM会计处理"
+address: "c-000505"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Held-to-Maturity Accounting"
-  - "HTM Accounting Treatment"
-  - "持有至到期投资会计处理"
-  - "HTM Securities Accounting"
-  - "摊余成本计量"
-  - "Amortized Cost Accounting for HTM"
-  - "持有至到期金融资产"
-  - "HTM分类会计"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # HTM会计处理

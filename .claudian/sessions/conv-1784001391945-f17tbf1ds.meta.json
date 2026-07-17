@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784001391945-f17tbf1ds",
+  "providerId": "claude",
+  "title": "解析索罗斯做空英镑的制度漏洞",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784001391947,
+  "updatedAt": 1784017867746,
+  "lastResponseAt": 1784017867746,
+  "sessionId": "bfb36b49-4a3d-4e87-8aa2-e6abf3036c72",
+  "providerState": {
+    "providerSessionId": "bfb36b49-4a3d-4e87-8aa2-e6abf3036c72"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 245,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 192256,
+    "contextWindow": 200000,
+    "contextTokens": 192501,
+    "percentage": 96,
+    "contextWindowIsAuthoritative": true
+  }
+}

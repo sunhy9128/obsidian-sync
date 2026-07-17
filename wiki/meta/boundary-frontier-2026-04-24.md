@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Boundary Frontier Snapshot (2026-04-24)"
+address: c-000916
 updated: 2026-04-24
 tags:
   - meta

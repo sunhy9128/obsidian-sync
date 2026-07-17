@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "MACD 指标"
+address: c-000066
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

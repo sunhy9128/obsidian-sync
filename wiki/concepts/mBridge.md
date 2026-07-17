@@ -1,31 +1,14 @@
 ---
-type: concept
+type: "concept"
 title: "mBridge"
-created: 2026-07-07
-updated: 2026-07-07
-sources:
-tags:
-  - concept
-  - domain/国际金融
-  - domain/数字货币
-status: developing
-related:
-  - "[[央行数字货币]]"
-  - "[[CIPS]]"
-  - "[[SPFS]]"
-  - "[[SWIFT]]"
-  - "[[金融武器化]]"
-  - "[[金融制裁]]"
-  - "[[人民币国际化]]"
-  - "[[去美元化]]"
-aliases:
-  - "mBridge Project"
-  - "多边央行数字货币桥"
-  - "Multi-CBDC Bridge"
-  - "BIS Innovation Hub mBridge"
-  - "Project mBridge"
-  - "多边数字货币桥"
-  - "CBDC Bridge"
+address: "c-000097"
+created: "2026-07-07"
+updated: "2026-07-07"
+sources: ""
+tags: []
+status: "developing"
+related: ""
+aliases: ""
 ---
 
 # mBridge（多边央行数字货币桥）

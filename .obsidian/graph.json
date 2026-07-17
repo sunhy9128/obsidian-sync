@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "path:wiki",
+  "search": "path:wiki/concepts  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -29,44 +29,23 @@
       }
     },
     {
-      "query": "path:wiki/questions",
-      "color": {
-        "a": 1,
-        "rgb": 14474410
-      }
-    },
-    {
-      "query": "path:wiki/comparisons",
-      "color": {
-        "a": 1,
-        "rgb": 13724009
-      }
-    },
-    {
       "query": "path:wiki/meta",
       "color": {
         "a": 1,
         "rgb": 5676246
       }
-    },
-    {
-      "query": "path:wiki",
-      "color": {
-        "a": 1,
-        "rgb": 4473924
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 2,
-  "lineSizeMultiplier": 0.8,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.390078125,
+  "lineSizeMultiplier": 0.547890625,
   "collapse-forces": false,
-  "centerStrength": 0.25,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 80,
-  "scale": 0.5191098990818888,
-  "close": true
+  "centerStrength": 0.143923611111111,
+  "repelStrength": 8.97743055555556,
+  "linkStrength": 0.37109375,
+  "linkDistance": 179,
+  "scale": 0.06653944880608903,
+  "close": false
 }

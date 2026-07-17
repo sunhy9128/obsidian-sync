@@ -1,27 +1,13 @@
 ---
 title: "Mario Draghi"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - person
-  - central-banker
-  - ecb
-  - euro
-  - european-union
-  - crisis-manager
-aliases:
-  - "德拉吉"
-  - "Mario Draghi"
-  - "Super Mario"
-  - "Mr. Whatever It Takes"
-  - "前 ECB 行长"
-  - "意大利前总理"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/concepts/欧元区主权债务危机]]"
+address: "c-000517"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Mario Draghi（马里奥·德拉吉）

@@ -1,15 +1,14 @@
 ---
-type: entity
-created: 2026-06-02
-sources:
-- '[[石油美元体系]]'
-updated: 2026-06-02
-tags:
-- other
-aliases:
-- 石油输出国组织
-- 欧佩克
-status: current
+
+address: "c-000521"
+type: "entity"
+title: "OPEC"
+created: "2026-06-02"
+sources: ""
+updated: "2026-06-02"
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

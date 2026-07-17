@@ -1,19 +1,13 @@
 ---
-title: CHIPS
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "CHIPS"
+address: "c-000492"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Clearing House Interbank Payments System"
-  - "美元同行清算系统"
-  - "CHIPS Clearing System"
-  - "CHIPS Payment System"
-  - "美元清算系统"
-  - "NYCHA CHIPS"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # CHIPS

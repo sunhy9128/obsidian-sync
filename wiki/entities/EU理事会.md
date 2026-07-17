@@ -1,23 +1,13 @@
 ---
 title: "EU理事会"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - international-organization
-  - european-union
-  - governance
-aliases:
-  - "EU Council"
-  - "Council of the European Union"
-  - "欧洲理事会"
-  - "欧盟理事会"
-  - "部长理事会"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/entities/欧盟]]"
+address: "c-000500"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # EU 理事会（Council of the European Union）

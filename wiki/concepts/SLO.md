@@ -1,19 +1,13 @@
 ---
 title: "SLO"
-created: 2026-07-14
-updated: 2026-07-14
-status: stub
-type: concept
-tags:
-  - concept
-  - monetary-policy
-  - central-bank-tools
-  - china-market
-aliases:
-  - "短期流动性调节工具"
-  - "Short-term Liquidity Operations"
-sources:
-  - "[[wiki/concepts/2013年钱荒]]"
+address: "c-000079"
+created: "2026-07-14"
+updated: "2026-07-14"
+status: "stub"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # SLO

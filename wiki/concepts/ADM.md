@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "ADM"
+address: c-000040
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

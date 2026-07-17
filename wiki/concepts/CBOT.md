@@ -1,19 +1,13 @@
 ---
-type: concept
+type: "concept"
 title: "CBOT"
-aliases:
-  - "芝加哥期货交易所"
-  - "Chicago Board of Trade"
-tags:
-  - 期货
-  - 大豆
-  - 定价权
-  - 金融
-status: stub
-related:
-  - "[[大豆战争]]"
-  - "[[五神]]"
-  - "[[2025-02-04-中国粮食金融保卫战-巫师财经]]"
+address: "c-000877"
+aliases: ""
+tags: []
+status: "stub"
+related: ""
+created: "2026-07-16"
+updated: "2026-07-16"
 ---
 
 # CBOT

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "数字服务法 (DSA)"
+address: c-000284
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

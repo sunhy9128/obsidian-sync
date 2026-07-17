@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Karpathy LLM Wiki Pattern"
+address: c-000063
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

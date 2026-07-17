@@ -1,16 +1,14 @@
 ---
-type: entity
-created: 2026-06-04
-updated: 2026-06-04
-sources:
-- '[[股牛汇弱]]'
-tags:
-- organization
-aliases:
-- SK Hynix
-- 海力士
-- SK hynix Inc.
-status: current
+
+address: "c-000525"
+type: "entity"
+title: "SK海力士"
+created: "2026-06-04"
+updated: "2026-06-04"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

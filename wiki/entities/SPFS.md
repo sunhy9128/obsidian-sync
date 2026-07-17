@@ -1,29 +1,15 @@
 ---
-type: entity
+type: "entity"
 title: "SPFS"
-created: 2026-07-07
-updated: 2026-07-07
-sources:
-tags:
-  - entity
-  - domain/国际金融
-  - domain/俄罗斯金融
-status: developing
-entity_type: infrastructure
-related:
-  - "[[SWIFT]]"
-  - "[[CIPS]]"
-  - "[[俄罗斯人民币结算]]"
-  - "[[美元霸权]]"
-  - "[[俄罗斯]]"
-  - "[[普京]]"
-aliases:
-  - "System for Transfer of Financial Messages"
-  - "俄罗斯版 SWIFT"
-  - "SPFS 支付系统"
-  - "俄央行金融信息传输系统"
-  - "СПФС"
-  - "System of Transfer of Financial Messages"
+address: "c-000526"
+created: "2026-07-07"
+updated: "2026-07-07"
+sources: ""
+tags: []
+status: "developing"
+entity_type: "infrastructure"
+related: ""
+aliases: ""
 ---
 
 # SPFS（俄罗斯金融信息传输系统）

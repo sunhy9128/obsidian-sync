@@ -1,16 +1,14 @@
 ---
-type: concept
-created: 2026-06-04
-updated: 2026-06-04
-sources:
-- '[[为何日韩会股牛汇弱]]'
-tags:
-- term
-aliases:
-- 韩国股市ICT集中度
-- 韩国半导体双巨头格局
-- Korea ICT Industry Concentration
-status: developing
+
+address: "c-000462"
+type: "concept"
+title: "韩国ICT产业集中度"
+created: "2026-06-04"
+updated: "2026-06-04"
+sources: ""
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 

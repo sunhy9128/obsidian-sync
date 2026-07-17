@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "德国央行（Bundesbank）"
+address: c-000491
 created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, central-bank, eurozone, entity, stub]

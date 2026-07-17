@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Volkswagen 轧空事件"
+address: c-000085
 created: 2026-07-06
 updated: 2026-07-06
 status: current
@@ -13,6 +14,8 @@ aliases:
   - "VW 2008 轧空"
   - "Porsche VW Squeeze"
   - "大众汽车股价 1000 欧元"
+  - "wiki/concepts/Volkswagen轧空事件"
+  - "wiki/entities/Volkswagen轧空事件"
 ---
 
 # Volkswagen 轧空事件（2008年10月）

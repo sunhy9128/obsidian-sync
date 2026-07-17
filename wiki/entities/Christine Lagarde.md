@@ -1,27 +1,13 @@
 ---
 title: "Christine Lagarde"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - person
-  - central-banker
-  - ecb
-  - euro
-  - lawyer
-  - imf
-aliases:
-  - "拉加德"
-  - "Christine Lagarde"
-  - "克里斯蒂娜·拉加德"
-  - "ECB 现任行长"
-  - "前 IMF 总裁"
-  - "前法国财长"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/entities/IMF]]"
+address: "c-000495"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Christine Lagarde（克里斯蒂娜·拉加德）

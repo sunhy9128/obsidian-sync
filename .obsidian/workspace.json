@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "477f1cf965ca606e",
+        "id": "1d98ce0be1edf11e",
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "86965abc34d1f482",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/存款保险.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "存款保险"
+            }
+          },
+          {
+            "id": "3c366b9e6d38d50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/2025-12-25-巫师财经-中国财经年度盘点Top10.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-25-巫师财经-中国财经年度盘点Top10"
             }
           }
         ]
@@ -40,24 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "832ab43d08cf9e30",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              "title": "文件列表"
             }
           },
           {
@@ -67,14 +68,31 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d363a9d7c0ce6bab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "崩溃的信徒",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.5
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/存款保险.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "存款保险 的反向链接列表"
             }
           },
           {
@@ -108,15 +127,43 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/concepts/存款保险.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "存款保险 的出链列表"
             }
           },
           {
-            "id": "ed8ccb323a603d61",
+            "id": "111a21e12ab1a293",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/AI虹吸效应.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AI虹吸效应 的大纲"
+            }
+          },
+          {
+            "id": "73516f129b42396e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "fc38ef2d05a86582",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,11 +174,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "b140a331162907cf",
+            "id": "cf5eb634195dea2a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,51 +188,97 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
-            "id": "111a21e12ab1a293",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "20a272e103b5d792",
+            "id": "82785cd97f7377a5",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 795.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "bases:新建数据库": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": true,
+      "realclaudian:Open Claudian": true,
+      "omnisearch:Omnisearch": true
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "86965abc34d1f482",
+  "lastOpenFiles": [
+    "wiki/concepts/美元潮汐量化实证.md",
+    "wiki/concepts/Exorbitant Privilege（过度特权）.md",
+    "wiki/concepts/武器化相互依存.md",
+    "wiki/concepts/特里芬难题.md",
+    "wiki/concepts/Original Sin（原罪）.md",
+    "wiki/questions/研究：美元如何收割新兴市场.md",
+    "wiki/concepts/美元潮汐历史案例.md",
+    "wiki/concepts/脆弱五国（Fragile Five）.md",
+    "wiki/concepts/美元周期.md",
+    "wiki/concepts/美元潮汐.md",
+    "wiki/concepts/美元收割全球的机制.md",
+    "scripts/link-orphans.py",
+    "scripts/add-titles.py",
+    "wiki/sessions",
+    "wiki/concepts/KOSPI.md",
+    "wiki/concepts/美联储点阵图.md",
+    "wiki/concepts/高质量发展.md",
+    "wiki/concepts/财政部.md",
+    "wiki/concepts/回购注销.md",
+    "wiki/entitys/美联储点阵图.md",
+    "wiki/entitys",
+    "wiki/concepts/外汇管理.md",
+    "wiki/concepts/_1.md",
+    "wiki/concepts/二级制裁.md",
+    "conversations/conv-1784260697518",
+    "conversations",
+    "wiki/meta/lint-report-2026-07-17.md",
+    "wiki/concepts/存储芯片.md",
+    "wiki/concepts/本币升值.md",
+    "wiki/entities/8-11汇改.md",
+    "wiki/concepts/半冲销.md",
+    "wiki/concepts/2020美国财政刺激.md",
+    "scripts/fix-alias-indentation.py",
+    "wiki/meta/lint-report-2026-07-16.md.tmp.10579.0b16919f20e3",
+    "wiki/entities/潘功胜.md.tmp.10579.851177dbd0ab",
+    "wiki/entities/易纲.md.tmp.10579.dc35885c8288",
+    "wiki/canvases/化债机制图谱 1.canvas",
+    "wiki/canvases/ECB 100年传承.canvas",
+    "wiki/canvases/化债机制图谱.canvas",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/canvases/youtube-explainer.canvas",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_044.gif",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_041.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_042.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_043.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_039.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_038.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_037.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_040.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_036.jpeg",
+    "raw/wechat/【巫师】军工航空产业拆解，81192，如你所愿/images/img_035.jpeg",
+    "wiki/meta/overview.canvas",
+    "wiki/canvases/301调查.canvas"
+  ]
 }

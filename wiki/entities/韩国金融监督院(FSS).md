@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "韩国金融监督院(FSS)"
+address: c-000827
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

@@ -1,20 +1,13 @@
 ---
-title: FDIC
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "FDIC"
+address: "c-000501"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Federal Deposit Insurance Corporation"
-  - "联邦存款保险公司"
-  - "FDIC保险"
-  - "FDIC存款保险"
-  - "Federal Deposit Insurance Corp"
-  - "FDIC接管"
-  - "FDIC监管"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # FDIC

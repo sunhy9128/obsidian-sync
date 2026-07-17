@@ -1,20 +1,13 @@
 ---
-title: SWIFT
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "SWIFT"
+address: "c-000527"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Society for Worldwide Interbank Financial Telecommunication"
-  - "Society for Worldwide Interbank Financial Telecommunications"
-  - "全球银行间金融电信协会"
-  - "环球银行间金融电讯协会"
-  - "环球同业银行金融电讯协会"
-  - "SWIFT Network"
-  - "SWIFT System"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # SWIFT

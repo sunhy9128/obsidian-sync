@@ -1,19 +1,13 @@
 ---
 title: "SHIBOR"
-created: 2026-07-14
-updated: 2026-07-14
-status: stub
-type: concept
-tags:
-  - concept
-  - money-market
-  - interest-rate
-  - china-market
-aliases:
-  - "上海银行间同业拆借利率"
-  - "上海银行间同业拆借利率"
-sources:
-  - "[[wiki/concepts/2013年钱荒]]"
+address: "c-000077"
+created: "2026-07-14"
+updated: "2026-07-14"
+status: "stub"
+type: "concept"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # SHIBOR

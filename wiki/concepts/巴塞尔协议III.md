@@ -1,5 +1,6 @@
 ---
 title: "巴塞尔协议 III"
+address: c-000253
 created: 2026-07-07
 updated: 2026-07-07
 status: current
@@ -16,6 +17,7 @@ aliases:
   - "国际银行监管框架"
   - "BCBS"
   - "Basel Committee on Banking Supervision"
+  - "wiki/concepts/巴塞尔协议III"
 ---
 
 # 巴塞尔协议 III（Basel III）

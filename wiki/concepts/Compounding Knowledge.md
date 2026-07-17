@@ -1,23 +1,16 @@
 ---
-type: concept
+type: "concept"
 title: "Compounding Knowledge"
-complexity: basic
-domain: knowledge-management
-aliases:
-  - "Knowledge Compounding"
-  - "Persistent Synthesis"
-created: 2026-04-07
-updated: 2026-04-07
-tags:
-  - concept
-  - knowledge-management
-status: mature
-related:
-  - "[[LLM Wiki Pattern]]"
-  - "[[Hot Cache]]"
-  - "[[Andrej Karpathy]]"
-  - "[[_index]]"
-sources:
+address: "c-000878"
+complexity: "basic"
+domain: "knowledge-management"
+aliases: ""
+created: "2026-04-07"
+updated: "2026-04-07"
+tags: []
+status: "mature"
+related: ""
+sources: ""
 ---
 
 # Compounding Knowledge

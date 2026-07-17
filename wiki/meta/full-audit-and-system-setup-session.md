@@ -1,6 +1,7 @@
 ---
 type: session
 title: "Full Audit, System Setup & Plugin Installation"
+address: c-000920
 created: 2026-04-07
 updated: 2026-04-07
 tags:

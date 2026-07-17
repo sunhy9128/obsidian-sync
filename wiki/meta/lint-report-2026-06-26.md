@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Lint Report 2026-06-26"
+address: c-000924
 created: 2026-06-26
 updated: 2026-06-26
 tags: [meta, lint, 化债]

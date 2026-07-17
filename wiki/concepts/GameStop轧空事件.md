@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "GameStop 轧空事件"
+address: c-000058
 created: 2026-07-06
 updated: 2026-07-06
 status: current
@@ -14,6 +15,7 @@ aliases:
   - "WallStreetBets 轧空"
   - "WSB 轧空"
   - "Gamestop 轧空事件"
+  - "wiki/concepts/GameStop轧空事件"
 ---
 
 # GameStop 轧空事件（2021年1月）

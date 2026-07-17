@@ -1,6 +1,7 @@
 ---
 type: session
 title: "claude-obsidian v1.4 Release Session"
+address: c-000918
 created: 2026-04-08
 updated: 2026-04-08
 tags:

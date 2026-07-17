@@ -1,11 +1,11 @@
 ---
 title: "巴塞尔协议IV - Credit Risk 修订要点"
-created: 2026-05-09
-updated: 2026-05-21
-type: source
-status: developing
-tags:
-  - source
+address: "c-000852"
+created: "2026-05-09"
+updated: "2026-05-21"
+type: "source"
+status: "developing"
+tags: []
 ---
 
 # 巴塞尔协议IV - Credit Risk 修订要点

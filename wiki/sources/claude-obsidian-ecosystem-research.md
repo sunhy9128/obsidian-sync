@@ -1,17 +1,12 @@
 ---
-type: source
+type: "source"
 title: "Claude + Obsidian Ecosystem Research"
-created: 2026-04-08
-updated: 2026-04-08
-tags:
-  - research
-  - ecosystem
-  - competitive-analysis
-status: current
-related:
-  - "[[claude-obsidian-ecosystem]]"
-  - "[[cherry-picks]]"
-  - "[[LLM Wiki Pattern]]"
+address: "c-000946"
+created: "2026-04-08"
+updated: "2026-04-08"
+tags: []
+status: "current"
+related: ""
 raw_file: ".raw/claude-obsidian-ecosystem-research.md"
 ---
 

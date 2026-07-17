@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "FAI（固定资产投资）"
+address: c-000054
 created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, macro, investment, stub]

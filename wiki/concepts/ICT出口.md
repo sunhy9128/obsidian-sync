@@ -1,15 +1,14 @@
 ---
-type: concept
-created: 2026-06-04
-updated: 2026-06-04
-sources:
-- '[[股牛汇弱]]'
-tags:
-- term
-aliases:
-- ICT exports
-- 信息通信技术出口
-status: developing
+
+address: "c-000061"
+type: "concept"
+title: "ICT出口"
+created: "2026-06-04"
+updated: "2026-06-04"
+sources: ""
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 

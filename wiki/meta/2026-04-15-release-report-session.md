@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Claude SEO v1.9.0 Release Report Session"
+address: c-000913
 updated: 2026-04-15
 tags:
   - meta

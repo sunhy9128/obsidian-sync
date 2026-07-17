@@ -1,0 +1,30 @@
+- application [ref=e1]:
+  - banner "菜单栏" [ref=e2]:
+    - generic [ref=e5]:
+      - link "文档首页" [ref=e7] [cursor=pointer]:
+        - /url: https://docs.google.com/document/?pli=1&usp=docs_web
+      - generic [ref=e14]:
+        - generic "香港金融保卫战：罗斯狙击英国泰国，决战香港" [ref=e16]:
+          - button "文档状态：已保存到云端硬盘。" [ref=e22]:
+            - generic [ref=e23] [cursor=pointer]: 已保存到云端硬盘
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - button "共享" [disabled] [ref=e32]
+            - button "“快速分享”操作" [ref=e34]
+          - link "登录" [ref=e38] [cursor=pointer]:
+            - /url: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://docs.google.com/document/d/1UwkoudzDGGmu5zhzT_VsfhgpE1dolQvf0nNZwAUSTSM/edit?pli%3D1%26tab%3Dt.0&followup=https://docs.google.com/document/d/1UwkoudzDGGmu5zhzT_VsfhgpE1dolQvf0nNZwAUSTSM/edit?pli%3D1%26tab%3Dt.0&ltmpl=docs&ec=GAZAGQ
+    - menubar [ref=e41]:
+      - menuitem "文件" [ref=e42] [cursor=pointer]
+      - menuitem "编辑" [ref=e43] [cursor=pointer]
+      - menuitem "查看" [ref=e44] [cursor=pointer]
+      - menuitem "工具" [ref=e45] [cursor=pointer]
+      - menuitem "帮助" [ref=e46] [cursor=pointer]
+  - generic [ref=e51]:
+    - generic:
+      - tooltip "第3页，共29页"
+  - iframe [active] [ref=e58]:
+    - textbox "文档内容" [active] [ref=f1e1]
+    - group
+  - link "开启屏幕阅读器支持" [ref=e59] [cursor=pointer]:
+    - /url: "#"
+  - region [ref=e60]: 要启用屏幕阅读器支持，请按⌘+Option+Z。要了解键盘快捷键，请按⌘斜杠。

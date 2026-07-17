@@ -1,0 +1,22 @@
+{
+  "id": "conv-1783401896561-85t2n6f9v",
+  "providerId": "claude",
+  "title": "Explain the Belt and Road initiative",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783401896562,
+  "updatedAt": 1783492127995,
+  "lastResponseAt": 1783416198160,
+  "sessionId": "11526258-1cd1-4dc0-9356-965612daae3b",
+  "providerState": {
+    "providerSessionId": "11526258-1cd1-4dc0-9356-965612daae3b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 248504,
+    "contextWindow": 200000,
+    "contextTokens": 248504,
+    "percentage": 100
+  }
+}

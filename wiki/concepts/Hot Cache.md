@@ -1,26 +1,16 @@
 ---
-type: concept
+type: "concept"
 title: "Hot Cache"
-complexity: basic
-domain: knowledge-management
-aliases:
-  - "hot.md"
-  - "Session Cache"
-  - "Context Cache"
-created: 2026-04-07
-updated: 2026-04-07
-tags:
-  - concept
-  - knowledge-management
-  - context
-status: mature
-related:
-  - "[[LLM Wiki Pattern]]"
-  - "[[Compounding Knowledge]]"
-  - "[[index]]"
-  - "[[hot]]"
-  - "[[_index]]"
-sources:
+address: "c-000879"
+complexity: "basic"
+domain: "knowledge-management"
+aliases: ""
+created: "2026-04-07"
+updated: "2026-04-07"
+tags: []
+status: "mature"
+related: ""
+sources: ""
 ---
 
 # Hot Cache

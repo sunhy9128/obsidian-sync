@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "LPR (贷款市场报价利率)"
+address: c-000065
 created: 2026-06-24
 updated: 2026-06-24
 tags: [concept, monetary-policy, china]
@@ -9,6 +10,7 @@ aliases:
   - "Loan Prime Rate"
   - "贷款市场报价利率"
   - "LPR利率"
+  - "wiki/concepts/LPR"
 ---
 
 # LPR (贷款市场报价利率)

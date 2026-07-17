@@ -1,5 +1,8 @@
 ---
+
+address: c-000067
 type: concept
+title: "MLF"
 created: 2026-06-02
 updated: 2026-07-06
 status: current
@@ -11,6 +14,7 @@ aliases:
   - "麻辣粉"
   - "MLF利率"
   - "MLF续作"
+  - "wiki/concepts/MLF"
 ---
 
 

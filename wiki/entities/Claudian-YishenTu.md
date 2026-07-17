@@ -1,18 +1,13 @@
 ---
-type: entity
+type: "entity"
 title: "Claudian (YishenTu/claudian)"
-created: 2026-04-08
-updated: 2026-04-08
-tags:
-  - github-repo
-  - native-obsidian-plugin
-  - embedded-ai
-status: current
-related:
-  - "[[cherry-picks]]"
-  - "[[claude-obsidian-ecosystem]]"
-sources:
-  - "[[claude-obsidian-ecosystem-research]]"
+address: "c-000895"
+created: "2026-04-08"
+updated: "2026-04-08"
+tags: []
+status: "current"
+related: ""
+sources: ""
 ---
 
 # Claudian (YishenTu/claudian)

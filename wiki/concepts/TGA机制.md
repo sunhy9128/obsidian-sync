@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "TGA机制"
+address: c-000081
 created: 2026-06-24
 updated: 2026-06-24
 tags: [concept, fed, treasury, monetary-mechanics, usa]
@@ -11,6 +12,7 @@ aliases:
   - "财政部总账户"
   - "Treasury General Account at the Fed"
   - "美联储财政部账户"
+  - "wiki/concepts/TGA机制"
 ---
 
 # TGA机制

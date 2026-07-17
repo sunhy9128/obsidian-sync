@@ -1,20 +1,13 @@
 ---
-title: 成长股vs价值股
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "成长股vs价值股"
+address: "c-000655"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Growth vs Value Stocks"
-  - "Growth Stocks vs Value Stocks"
-  - "Value vs Growth Investing"
-  - "Growth and Value Stocks"
-  - "Growth vs Value Investing"
-  - "G/V Stocks"
-  - "Growth-Value Comparison"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # 成长股vs价值股

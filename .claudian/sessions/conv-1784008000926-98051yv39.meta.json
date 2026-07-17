@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784008000926-98051yv39",
+  "providerId": "claude",
+  "title": "Compare Federal Reserve and PBOC policy frameworks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784008000926,
+  "updatedAt": 1784008766536,
+  "lastResponseAt": 1784008446873,
+  "sessionId": "7e5efccb-a111-406b-b24e-3448e55249bc",
+  "providerState": {
+    "providerSessionId": "7e5efccb-a111-406b-b24e-3448e55249bc"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 35,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 104321,
+    "contextWindow": 200000,
+    "contextTokens": 104356,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

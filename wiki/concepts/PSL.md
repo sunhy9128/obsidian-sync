@@ -1,5 +1,8 @@
 ---
+
+address: c-000071
 type: concept
+title: "PSL"
 created: 2026-06-26
 updated: 2026-07-06
 status: current
@@ -11,6 +14,7 @@ aliases:
   - "Pledged Supplementary Lending"
   - "PSL"
   - "央行PSL"
+  - "wiki/concepts/PSL"
 ---
 
 # PSL（抵押补充贷款）

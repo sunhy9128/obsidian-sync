@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "methodology-modes-guide"
+address: c-000099
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783914609604-ldwpfnnq3",
+  "providerId": "claude",
+  "title": "解析大豆与猪肉价格背离的逻辑链条",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783914609604,
+  "updatedAt": 1783996510421,
+  "lastResponseAt": 1783915722896,
+  "sessionId": "a491c5b2-ddc1-4e18-90de-229763e4f29a",
+  "providerState": {
+    "providerSessionId": "a491c5b2-ddc1-4e18-90de-229763e4f29a"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 141,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 112896,
+    "contextWindow": 200000,
+    "contextTokens": 113037,
+    "percentage": 57,
+    "contextWindowIsAuthoritative": true
+  }
+}

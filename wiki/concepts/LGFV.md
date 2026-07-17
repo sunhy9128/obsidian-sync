@@ -1,5 +1,8 @@
 ---
+
+address: c-000064
 type: concept
+title: "LGFV"
 created: 2026-06-26
 updated: 2026-06-26
 status: evergreen
@@ -8,6 +11,7 @@ aliases:
   - "地方政府融资平台"
   - "Local Government Financing Vehicle"
   - "城投公司英文"
+  - "wiki/concepts/LGFV"
 ---
 
 # LGFV

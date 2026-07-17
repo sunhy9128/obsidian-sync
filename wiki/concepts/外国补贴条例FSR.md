@@ -1,19 +1,14 @@
 ---
-type: concept
-created: 2026-06-05
-updated: 2026-06-15
-sources: null
-tags:
-- term
-aliases:
-- 《外国补贴条例》(FSR)
-- FSR
-- Foreign Subsidies Regulation
-- 外国补贴条例
-- 外国补贴条例-FSR
-- 欧盟外国补贴条例
-- FSR条例
-status: developing
+
+address: "c-000218"
+type: "concept"
+title: "外国补贴条例FSR"
+created: "2026-06-05"
+updated: "2026-06-15"
+sources: "null"
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 

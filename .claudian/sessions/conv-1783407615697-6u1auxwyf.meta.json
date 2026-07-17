@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783407615697-6u1auxwyf",
+  "providerId": "claude",
+  "title": "生成欧元背景谈判与财政演变 wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783407615698,
+  "updatedAt": 1783410102259,
+  "lastResponseAt": 1783408300252,
+  "sessionId": "9e5c81b3-cc71-426e-ba45-2cda83c2070c",
+  "providerState": {
+    "providerSessionId": "9e5c81b3-cc71-426e-ba45-2cda83c2070c"
+  },
+  "currentNote": "wiki/entities/IMF.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 352,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 102748,
+    "contextWindow": 200000,
+    "contextTokens": 103100,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

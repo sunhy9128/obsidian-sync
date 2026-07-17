@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "How does the LLM Wiki pattern work?"
+address: c-000060
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

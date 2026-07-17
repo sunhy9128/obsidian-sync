@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Lint Report 2026-07-06"
+address: c-000925
 created: 2026-07-06
 updated: 2026-07-06
 tags: [meta, lint, 化债, debt-resolution, lint-fixed]

@@ -1,22 +1,14 @@
 ---
-type: entity
-created: 2026-06-03
-updated: 2026-06-26
-sources:
-- '[[太不团结了]]'
-- '[[wiki/sources/崩溃的信徒|崩溃的信徒]]'
-- '[[wiki/sources/跌太惨，朋友都没了|跌太惨，朋友都没了]]'
-- '[[wiki/sources/触目惊心，都是血包|触目惊心，都是血包]]'
-- '[[wiki/sources/不结婚，也不消费，谁有办法|不结婚，也不消费，谁有办法]]'
-- '[[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]'
-- '[[wiki/sources/2026-06-24-4000亿回购竟然是真的|2026-06-24-4000亿回购竟然是真的]]'
-- '[[wiki/sources/2026-06-25-逼疯|2026-06-25-逼疯]]'
-tags:
-- person
-aliases:
-- 猫笔刀
-- MoomooCat
-status: current
+
+address: "c-000532"
+type: "entity"
+title: "moomoocat"
+created: "2026-06-03"
+updated: "2026-06-26"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

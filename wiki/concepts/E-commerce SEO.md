@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "E-commerce SEO"
+address: c-000053
 created: 2026-06-24
 updated: 2026-06-24
 tags: [concept]

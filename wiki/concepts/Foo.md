@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Foo"
+address: c-000056
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

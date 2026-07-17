@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Lint Report 2026-06-24 (Batch 2)"
+address: c-000921
 created: 2026-06-25
 updated: 2026-06-25
 tags: [meta, lint, incremental, batch2]

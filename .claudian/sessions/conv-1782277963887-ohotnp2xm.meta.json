@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782277963887-ohotnp2xm",
+  "providerId": "claude",
+  "title": "Generate greeting response in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782277963889,
+  "updatedAt": 1782278016777,
+  "lastResponseAt": 1782277992716,
+  "sessionId": "e3cfa4d9-9471-4445-9ddb-48e6cf7fa347",
+  "providerState": {
+    "providerSessionId": "e3cfa4d9-9471-4445-9ddb-48e6cf7fa347"
+  },
+  "currentNote": "wiki/entities/影子银行.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 40518,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 128,
+    "contextWindow": 200000,
+    "contextTokens": 40646,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

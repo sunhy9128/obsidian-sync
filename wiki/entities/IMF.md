@@ -1,24 +1,13 @@
 ---
-title: IMF
-created: 2026-04-29
-updated: 2026-07-07
-type: entity
-status: current
+title: "IMF"
+address: "c-000507"
+created: "2026-04-29"
+updated: "2026-07-07"
+type: "entity"
+status: "current"
 sources: "[]"
-aliases:
-  - "国际货币基金组织"
-  - "International Monetary Fund"
-  - "货币基金组织"
-  - "国际货币基金"
-  - "IMF组织"
-  - "International Monetary Fund (IMF)"
-  - "基金组织"
-  - "The Fund"
-tags:
-  - entity
-  - international-org
-  - finance
-  - crisis-management
+aliases: ""
+tags: []
 ---
 
 # IMF（国际货币基金组织）

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "外国补贴条例-FSR"
+address: c-000216
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

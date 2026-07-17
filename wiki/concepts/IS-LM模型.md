@@ -1,19 +1,13 @@
 ---
-type: concept
-created: 2026-06-03
-updated: 2026-06-03
-tags:
-- 宏观
-- IS-LM
-- 总需求
-- 货币政策
-aliases:
-- IS-LM模型
-- IS-LM Model
-- IS曲线
-- LM曲线
-- 凯恩斯交叉
-status: developing
+
+address: "c-000062"
+type: "concept"
+title: "IS-LM模型"
+created: "2026-06-03"
+updated: "2026-06-03"
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 # IS-LM模型

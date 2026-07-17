@@ -1,16 +1,12 @@
 ---
-type: reference
+type: "reference"
 title: "Methodology Modes — Quick Decision Tree"
-tags:
-  - reference
-  - methodology
-  - wiki-mode
-status: evergreen
-related:
-  - "[[methodology-modes-guide]]"
-  - "[[wiki-mode]]"
-created: 2026-05-17
-updated: 2026-06-24
+address: "c-000843"
+tags: []
+status: "evergreen"
+related: ""
+created: "2026-05-17"
+updated: "2026-06-24"
 ---
 
 # Methodology Modes — Quick Decision Tree

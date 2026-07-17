@@ -1,5 +1,8 @@
 ---
+
+address: c-000073
 type: concept
+title: "QE与化债对比"
 created: 2026-06-26
 updated: 2026-07-06
 status: current
@@ -13,6 +16,7 @@ aliases:
   - "QBS"
   - "Quantity with Bank Shrinkage"
   - "Quantitative Easing vs Debt Resolution"
+  - "wiki/concepts/QE与化债对比"
 ---
 
 # QE 与化债对比

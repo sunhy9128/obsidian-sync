@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782286959777-22t0w3lnz",
+  "providerId": "claude",
+  "title": "摄取 moomoocat 6月15日体育日记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782286959781,
+  "updatedAt": 1782452055362,
+  "lastResponseAt": 1782446072387,
+  "sessionId": "6d916373-5a34-4811-a191-8b1675998026",
+  "providerState": {
+    "providerSessionId": "6d916373-5a34-4811-a191-8b1675998026"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 348,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 284040,
+    "contextWindow": 200000,
+    "contextTokens": 284388,
+    "percentage": 100,
+    "contextWindowIsAuthoritative": true
+  }
+}

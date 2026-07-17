@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "CDS信用违约互换"
+address: c-000046
 created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, derivatives, credit, stub]

@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "Three laws of motion"
+address: c-000082
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

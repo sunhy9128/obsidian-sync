@@ -1,25 +1,16 @@
 ---
-type: question
+type: "question"
 title: "How does the LLM Wiki pattern work?"
+address: "c-000937"
 question: "How does the LLM Wiki pattern work and why is it better than RAG?"
-answer_quality: definitive
-created: 2026-04-07
-updated: 2026-07-14
-tags:
-  - question
-  - llm-wiki
-  - knowledge-management
-aliases:
-  - "How does the LLM Wiki pattern work?"
-status: developing
-related:
-  - "[[LLM Wiki Pattern]]"
-  - "[[Compounding Knowledge]]"
-  - "[[Hot Cache]]"
-  - "[[index]]"
-  - "[[Wiki vs RAG]]"
-sources: []
-  - "How does the LLM Wiki pattern work?"
+answer_quality: "definitive"
+created: "2026-04-07"
+updated: "2026-07-14"
+tags: []
+aliases: ""
+status: "developing"
+related: ""
+sources: "[]"
 ---
 
 # How does the LLM Wiki pattern work?

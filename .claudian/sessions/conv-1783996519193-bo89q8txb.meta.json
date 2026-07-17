@@ -1,0 +1,22 @@
+{
+  "id": "conv-1783996519193-bo89q8txb",
+  "providerId": "claude",
+  "title": "检查并修复金融知识库健康问题",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783996519193,
+  "updatedAt": 1784001354288,
+  "lastResponseAt": 1783997616817,
+  "sessionId": "830845da-2bb7-464e-aea6-272dd2634d04",
+  "providerState": {
+    "providerSessionId": "830845da-2bb7-464e-aea6-272dd2634d04"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

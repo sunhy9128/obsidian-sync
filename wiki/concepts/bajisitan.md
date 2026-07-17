@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "bajisitan"
+address: c-000089
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

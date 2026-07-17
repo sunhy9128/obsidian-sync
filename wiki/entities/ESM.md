@@ -1,25 +1,13 @@
 ---
 title: "ESM"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - finance
-  - crisis-management
-  - european-union
-  - euro
-  - bailout
-aliases:
-  - "European Stability Mechanism"
-  - "欧洲稳定机制"
-  - "欧洲稳定基金"
-  - "ESM 永久救助机制"
-  - "欧元救助基金"
-sources:
-  - "[[wiki/entities/ECB]]"
-  - "[[wiki/concepts/欧元区主权债务危机]]"
+address: "c-000499"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # ESM（European Stability Mechanism / 欧洲稳定机制）

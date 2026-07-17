@@ -1,16 +1,14 @@
 ---
-type: entity
-created: 2026-06-02
-updated: 2026-06-02
-sources:
-- '[[837号令]]'
-tags:
-- event
-aliases:
-- Meta-Manu收购审查
-- Meta收购Manu事件
-- Meta-Manu Acquisition Review
-status: current
+
+address: "c-000519"
+type: "entity"
+title: "Meta收购Manu审查"
+created: "2026-06-02"
+updated: "2026-06-02"
+sources: ""
+tags: []
+aliases: ""
+status: "current"
 ---
 
 

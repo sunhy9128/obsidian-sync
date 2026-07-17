@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "韩国央行(BOK)"
+address: c-000823
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

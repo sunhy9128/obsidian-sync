@@ -1,6 +1,7 @@
 ---
 type: concept
 title: "target"
+address: c-000100
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

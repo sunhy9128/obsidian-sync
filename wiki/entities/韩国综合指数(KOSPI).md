@@ -1,6 +1,7 @@
 ---
 type: entity
 title: "韩国综合指数(KOSPI)"
+address: c-000825
 status: stub
 created: 2026-07-14
 updated: 2026-07-14

@@ -1,23 +1,13 @@
 ---
 title: "Wim Duisenberg"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - person
-  - central-banker
-  - ecb
-  - euro
-aliases:
-  - "杜伊森贝赫"
-  - "Wim Duisenberg"
-  - "ECB 首任行长"
-  - "Mr. Euro"
-  - "欧元先生"
-sources:
-  - "[[wiki/entities/ECB]]"
+address: "c-000531"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Wim Duisenberg（维姆·杜伊森贝赫）

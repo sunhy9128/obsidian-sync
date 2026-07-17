@@ -1,15 +1,11 @@
 ---
-type: analysis
+type: "analysis"
 title: "基金年中排名对A股影响机制"
-created: 2026-05-22
-updated: 2026-05-22
-tags:
-  - 公募基金
-  - A股
-  - 市场影响
-  - 机构行为
-  - 排名效应
-status: developing
+address: "c-000016"
+created: "2026-05-22"
+updated: "2026-05-22"
+tags: []
+status: "developing"
 ---
 
 # 基金年中排名对A股影响机制

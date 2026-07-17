@@ -1,25 +1,12 @@
 ---
 title: "美联储 vs 中国央行"
-created: 2026-07-14
-updated: 2026-07-14
-type: comparison
-status: developing
-tags:
-  - comparison
-  - 央行对比
-  - 美联储
-  - 中国央行
-  - 货币政策
-  - fed
-  - pboc
-aliases:
-  - "Fed vs PBOC"
-  - "美联储vs人民银行"
-  - "中美央行对比"
-  - "Federal Reserve vs People's Bank of China"
-  - "中美央行比较"
-  - "两大央行对比"
-  - "Central Bank Comparison US China"
+address: "c-000021"
+created: "2026-07-14"
+updated: "2026-07-14"
+type: "comparison"
+status: "developing"
+tags: []
+aliases: ""
 ---
 
 # 美联储 vs 中国央行：制度范式全面对比

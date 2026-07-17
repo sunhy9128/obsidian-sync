@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
+address: c-000908
 updated: 2026-04-07
 tags:
   - meta
@@ -31,6 +32,15 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Concepts
 
+- [[美元潮汐]] — 美联储货币政策周期驱动的全球资本大进大出+EM泡沫积累破裂的8阶段收割循环（status: current）
+- [[美元周期]] — 美联储扩表/缩表+加息/降息的周期规律，是EM命运的总开关（status: current）
+- [[美元收割全球的机制]] — 美元通过放水→抽水→抄底三步收割新兴市场的结构性机制（status: current）
+- [[美元潮汐历史案例]] — 1980s以来11个EM危机案例：拉美/龙舌兰/亚洲/俄罗斯/阿根廷/Taper Tantrum/土耳其/斯里兰卡（status: current）
+- [[脆弱五国（Fragile Five）]] — 摩根士丹利2013年提出的高风险EM组合：巴西/印度/印尼/土耳其/南非（status: current）
+- [[Original Sin（原罪）]] — Eichengreen-Hausmann 1999：EM 无法以本币借长期债务，是美元收割 EM 的微观金融基础（status: current）
+- [[Exorbitant Privilege（过度特权）]] — Giscard 1965 + Gourinchas-Rey 2007：美国因美元储备地位获得约 2% GDP/年的超额收益（status: current）
+- [[武器化相互依存]] — Farrell-Newman 2019：SWIFT/CHIPS 作为咽喉节点，2022 俄罗斯制裁是最大实证（status: current）
+- [[美元潮汐量化实证]] — 资本流动 + DXY 轨迹 + COFER 储备份额 + Fed 资产负债表全量量化数据（status: current）
 - [[二十届三中全会]] — 2024年7月深化改革总部署，延续二十大路线（status: current）
 - [[金融传导机制分析框架]] — 多链叠加、预期差、实际利率框架，解释"反直觉"价格现象（status: developing）
 - [[豆粕期货涨价对短期猪价格的影响机制]] — 三条传导链方向冲突，短期猪价影响不确定（status: developing）
@@ -121,15 +131,19 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 - [[Wiki vs RAG]] — when to use a wiki knowledge base versus RAG; verdict: wiki wins at <1000 pages
 - [[claude-obsidian-ecosystem]] — feature matrix of 16+ Claude+Obsidian projects; where claude-obsidian wins and gaps
+- [[comparisons/港股vs美股vsA股]] — 港股、美股、A股三大市场的制度与估值对比
+- [[comparisons/回购vs分红]] — 上市公司回报股东两种方式的对比
+- [[comparisons/中俄联合声明2021vs2026]] — 中俄联合声明五年对比
+- [[comparisons/美联储vs中国央行]] — 两大央行的政策框架对比
 
 ---
 
 ## Decisions
 
-- [[2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
-- [[2026-04-15-slides-and-release-session]] - Claude SEO v1.9.0 slides (15-slide HTML deck) + GitHub release v1.9.0 with PDF asset (status: complete)
-- [[2026-04-15-release-report-session]] - Claude SEO v1.9.0 Release Report PDF: dark theme, 13 pages, WeasyPrint layout fixes, Challenge v2 added (status: complete)
-- [[2026-04-14-claude-seo-v190-session]] - Claude SEO v1.9.0 Pro Hub Challenge integration: 5 submissions, 4 new skills, 4 review rounds, cybersecurity audit (status: complete)
+- [[meta/2026-04-14-community-cta-rollout]] - Skool community CTA footer added to 6 skill repos with per-tool frequency rules (status: active)
+- [[meta/2026-04-15-slides-and-release-session]] - Claude SEO v1.9.0 slides (15-slide HTML deck) + GitHub release v1.9.0 with PDF asset (status: complete)
+- [[meta/2026-04-15-release-report-session]] - Claude SEO v1.9.0 Release Report PDF: dark theme, 13 pages, WeasyPrint layout fixes, Challenge v2 added (status: complete)
+- [[meta/2026-04-14-claude-seo-v190-session]] - Claude SEO v1.9.0 Pro Hub Challenge integration: 5 submissions, 4 new skills, 4 review rounds, cybersecurity audit (status: complete)
 
 ---
 
@@ -138,9 +152,18 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[财政货币化]] — 什么是财政货币化？它与化债、QE有什么区别？（status: completed）
 - [[美元收割全球的机制是什么]] — 美联储加息/降息如何收割新兴市场？三步收割拆解（status: developing）
 - [[新兴市场为避免被美国薅羊毛采取了哪些措施]] — 去美元化、资本管制、区域联盟、汇率弹性四大类措施（status: developing）
+- [[研究：美元如何收割新兴市场]] — 8阶段收割循环+三大传导机制+11个历史案例+2026新一轮周期观察的完整研究报告（status: current）
+- [[研究：美元如何收割新兴市场（增强版）]] — 加入四大理论框架+量化实证+mermaid可视化+操作手册+2024-2026最新动态（status: current）
 
 ---
 
 ## Domains
 
-<!-- Add domain entries here after scaffold -->
+- [[宏观经济]] — 经济周期、财政政策、增长理论
+- [[货币政策与中央银行]] — 美联储、利率工具、量化宽松
+- [[债券与利率市场]] — 债券定价、收益率、久期
+- [[股票与行业分析]] — 股票估值、行业轮动
+- [[国际金融与汇率]] — 汇率、美元、资本流动、贸易
+- [[银行体系与金融监管]] — 银行监管、巴塞尔协议
+- [[风险管理]] — 市场、信用、流动性、操作风险
+- [[中国金融与改革]] — 财政改革、货币制度

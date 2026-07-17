@@ -1,20 +1,13 @@
 ---
-title: AFS会计处理
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "AFS会计处理"
+address: "c-000487"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Available-for-Sale Accounting"
-  - "AFS Accounting Treatment"
-  - "可供出售金融资产会计处理"
-  - "Available-for-Sale Securities Accounting"
-  - "AFS Securities Accounting"
-  - "可供出售证券会计处理"
-  - "AFS Accounting"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # AFS会计处理

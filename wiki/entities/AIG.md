@@ -1,10 +1,12 @@
 ---
-type: entity
+type: "entity"
 title: "AIG（美国国际集团）"
-created: 2026-07-14
-updated: 2026-07-14
-tags: [finance, insurance, entity, stub]
-sources: []
+address: "c-000488"
+created: "2026-07-14"
+updated: "2026-07-14"
+tags: "[finance, insurance, entity, stub]"
+sources: "[]"
+status: "developing"
 ---
 
 # AIG（美国国际集团）

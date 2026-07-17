@@ -1,21 +1,12 @@
 ---
 title: "回购 vs 分红"
-created: 2026-06-23
-updated: 2026-06-23
-type: comparison
-status: seedling
-tags:
-  - comparison
-  - 股票
-  - 公司金融
-  - 股东回报
-aliases:
-  - "Stock Buyback vs Dividend"
-  - "Share Repurchase vs Cash Dividend"
-  - "回购与分红对比"
-  - "库存股与股息"
-  - "回购替代分红"
-  - "Capital Return Policy"
+address: "c-000019"
+created: "2026-06-23"
+updated: "2026-06-23"
+type: "comparison"
+status: "seedling"
+tags: []
+aliases: ""
 ---
 
 # 回购 vs 分红：资本回报方式全面对比

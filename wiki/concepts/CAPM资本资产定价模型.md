@@ -1,18 +1,13 @@
 ---
-type: concept
-created: 2026-06-03
-updated: 2026-06-03
-tags:
-- finance
-- asset-pricing
-- CAPM
-- beta
-aliases:
-- Capital Asset Pricing Model
-- 资本资产定价模型
-- CAPM模型
-- Sharpe-Lintner-Mossin 模型
-status: developing
+
+address: "c-000045"
+type: "concept"
+title: "CAPM资本资产定价模型"
+created: "2026-06-03"
+updated: "2026-06-03"
+tags: []
+aliases: ""
+status: "developing"
 ---
 
 > 由 AI 系统化整理（2026-06-03），待补充原始来源素材

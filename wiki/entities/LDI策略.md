@@ -1,18 +1,13 @@
 ---
-title: LDI策略
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "LDI策略"
+address: "c-000513"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "Liability-Driven Investment"
-  - "Liability Driven Investment"
-  - "负债驱动投资"
-  - "LDI"
-  - "负债驱动型投资"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # LDI策略

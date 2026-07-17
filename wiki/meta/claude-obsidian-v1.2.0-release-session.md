@@ -1,6 +1,7 @@
 ---
 type: session
 title: "claude-obsidian v1.2.0 Release Session"
+address: c-000917
 created: 2026-04-07
 updated: 2026-04-07
 tags:

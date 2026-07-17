@@ -1,5 +1,6 @@
 ---
 title: IRB 内部评级法
+address: c-000509
 created: 2026-05-09
 updated: 2026-05-21
 tags: [信用风险, 资本模型]

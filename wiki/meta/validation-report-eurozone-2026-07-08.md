@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "欧元区知识网络验证报告 2026-07-08"
+address: c-000935
 created: 2026-07-08
 updated: 2026-07-08
 tags: [meta, validation, eurozone]

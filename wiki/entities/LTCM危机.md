@@ -1,20 +1,13 @@
 ---
-title: LTCM危机
-created: 2026-04-29
-updated: 2026-05-21
-type: entity
-status: developing
+title: "LTCM危机"
+address: "c-000514"
+created: "2026-04-29"
+updated: "2026-05-21"
+type: "entity"
+status: "developing"
 sources: "[]"
-aliases:
-  - "LTCM Crisis"
-  - "Long-Term Capital Management Crisis"
-  - "LTCM崩盘"
-  - "长期资本管理公司危机"
-  - "1998 LTCM Bailout"
-  - "Long-Term Capital Management"
-  - "LTCM Near-Collapse"
-tags:
-  - entity
+aliases: ""
+tags: []
 ---
 
 # LTCM危机

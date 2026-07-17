@@ -1,28 +1,13 @@
 ---
 title: "Hans Luther"
-created: 2026-07-08
-updated: 2026-07-08
-status: current
-type: entity
-tags:
-  - entity
-  - person
-  - central-banker
-  - german-politician
-  - bundesbank
-  - rentenmark
-  - monetary-reform
-aliases:
-  - "汉斯·路德"
-  - "路德"
-  - "Hans Luther"
-  - "Reichsbank 行长"
-  - "德国前总理"
-  - "1923 货币改革设计者"
-  - "Rentenmark 之父"
-sources:
-  - "[[wiki/concepts/Rentenmark改革]]"
-  - "[[wiki/entities/1948货币改革]]"
+address: "c-000506"
+created: "2026-07-08"
+updated: "2026-07-08"
+status: "current"
+type: "entity"
+tags: []
+aliases: ""
+sources: ""
 ---
 
 # Hans Luther（汉斯·路德 / 1879-1962）
