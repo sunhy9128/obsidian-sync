@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/存款保险.md",
+                "file": "wiki/concepts/主权财富基金.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "存款保险"
+              "title": "主权财富基金"
             }
           },
           {
@@ -225,6 +225,12 @@
   },
   "active": "86965abc34d1f482",
   "lastOpenFiles": [
+    "wiki/entities/淡马锡.md",
+    "wiki/concepts/存款保险.md",
+    "wiki/entities/挪威主权基金.md",
+    "wiki/entities/中投.md",
+    "wiki/entities/GIC.md",
+    "wiki/concepts/主权财富基金.md",
     "wiki/concepts/美元潮汐量化实证.md",
     "wiki/concepts/Exorbitant Privilege（过度特权）.md",
     "wiki/concepts/武器化相互依存.md",
@@ -251,12 +257,6 @@
     "wiki/concepts/二级制裁.md",
     "conversations/conv-1784260697518",
     "conversations",
-    "wiki/meta/lint-report-2026-07-17.md",
-    "wiki/concepts/存储芯片.md",
-    "wiki/concepts/本币升值.md",
-    "wiki/entities/8-11汇改.md",
-    "wiki/concepts/半冲销.md",
-    "wiki/concepts/2020美国财政刺激.md",
     "scripts/fix-alias-indentation.py",
     "wiki/meta/lint-report-2026-07-16.md.tmp.10579.0b16919f20e3",
     "wiki/entities/潘功胜.md.tmp.10579.851177dbd0ab",
