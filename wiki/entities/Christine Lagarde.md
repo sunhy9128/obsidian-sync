@@ -26,8 +26,8 @@ sources: ""
 | **专业背景** | 国际律师、反垄断专家 |
 | **学历** | 巴黎第十大学（Université Paris-Nanterre）法学硕士 |
 | **ECB 行长任期** | 2019.11.1 - 至今（2026 已担任 7 年） |
-| **前任** | [[wiki/entities/Mario Draghi]]（2011-2019，"Whatever it takes"承诺者） |
-| **更早前任** | [[wiki/entities/Jean-Claude Trichet]]（2003-2011）、[[wiki/entities/Wim Duisenberg]]（1998-2003，ECB 首任行长） |
+| **前任** | [[Mario Draghi]]（2011-2019，"Whatever it takes"承诺者） |
+| **更早前任** | [[Jean-Claude Trichet]]（2003-2011）、[[Wim Duisenberg]]（1998-2003，ECB 首任行长） |
 | **前 IMF 总裁任期** | 2011.7.5 - 2019.9.1（8 年） |
 | **前法国财长任期** | 2007.6.18 - 2011.6.29（4 年） |
 | **绰号** | "Christine"、"Madame Lagarde"、"Christian Lagarde"（其英式绰号） |
@@ -179,7 +179,7 @@ sources: ""
 
 ### 3.3 Lagarde 的"治理遗产"
 
-⭐ Lagarde 担任 [[wiki/entities/欧央行执行委员会]] 行长，是 ECB 治理的核心。详细治理结构参见 [[wiki/entities/欧央行执行委员会]] 页面。
+⭐ Lagarde 担任 [[欧央行执行委员会]] 行长，是 ECB 治理的核心。详细治理结构参见 [[欧央行执行委员会]] 页面。
 
 ```
 
@@ -398,35 +398,35 @@ Tiff Macklem 离职后：Tiff Macklem（仍是央行行长）
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — Lagarde 担任行长的机构
-- [[wiki/entities/欧元]] — Lagarde 守护的货币
-- [[wiki/entities/Mario Draghi]] — Lagarde 的前任
-- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长
-- [[wiki/entities/Jean-Claude Trichet]] — Draghi 的前任
-- [[wiki/entities/IMF]] — Lagarde 担任总裁 8 年的机构
+- [[ECB]] — Lagarde 担任行长的机构
+- [[欧元]] — Lagarde 守护的货币
+- [[Mario Draghi]] — Lagarde 的前任
+- [[Wim Duisenberg]] — ECB 首任行长
+- [[Jean-Claude Trichet]] — Draghi 的前任
+- [[IMF]] — Lagarde 担任总裁 8 年的机构
 
 ### 政策工具
-- [[wiki/concepts/扩表与缩表]] — Lagarde 时代的 PEPP
-- [[wiki/concepts/量化宽松]] — ECB 的 APP
-- [[wiki/concepts/负利率]] — Lagarde 时代的负利率退出
-- [[wiki/concepts/利率走廊]] — ECB 的利率体系
+- [[扩表与缩表]] — Lagarde 时代的 PEPP
+- [[量化宽松]] — ECB 的 APP
+- [[负利率]] — Lagarde 时代的负利率退出
+- [[利率走廊]] — ECB 的利率体系
 
 ### 危机与改革
-- [[wiki/concepts/欧元区主权债务危机]] — Lagarde 时代的危机应对
-- [[wiki/concepts/2020年3月流动性危机]] — Lagarde 时代最大危机
-- [[wiki/concepts/2008全球金融危机]] — Lagarde 在法国财长任期的危机
-- [[wiki/concepts/马斯特里赫特条约]] — ECB 成立的法律基础
+- [[欧元区主权债务危机]] — Lagarde 时代的危机应对
+- [[2020年3月流动性危机]] — Lagarde 时代最大危机
+- [[2008全球金融危机]] — Lagarde 在法国财长任期的危机
+- [[马斯特里赫特条约]] — ECB 成立的法律基础
 
 ### 国际对比
-- [[wiki/entities/美联储]] — Lagarde 与 Powell 协调
-- [[wiki/entities/中国央行]] — Lagarde 与中国央行协调
-- [[wiki/entities/日本银行]] — Lagarde 与日本银行协调
-- [[wiki/entities/英格兰银行]] — Lagarde 与 Bailey 协调
-- [[wiki/entities/BIS]] — Lagarde 与 BIS 合作
+- [[美联储]] — Lagarde 与 Powell 协调
+- [[中国央行]] — Lagarde 与中国央行协调
+- [[日本银行]] — Lagarde 与日本银行协调
+- [[英格兰银行]] — Lagarde 与 Bailey 协调
+- [[BIS]] — Lagarde 与 BIS 合作
 
 ### 法国政治
-- [[wiki/entities/欧盟]] — Lagarde 政治生涯的母体
-- [[wiki/entities/世界银行]] — Lagarde 在 IMF 时的合作伙伴
+- [[欧盟]] — Lagarde 政治生涯的母体
+- [[世界银行]] — Lagarde 在 IMF 时的合作伙伴
 
 ### 跨学科
-- [[wiki/entities/IMF]] — Lagarde 的"专业背景"
+- [[IMF]] — Lagarde 的"专业背景"

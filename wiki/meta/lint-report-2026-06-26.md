@@ -21,19 +21,19 @@ status: developing
 ## Scanned Pages
 
 ### 概念页（6 个）
-1. [[wiki/concepts/化债]] — 化债核心机制（已更新）
-2. [[wiki/concepts/化债核心命题]] — 化债核心命题
-3. [[wiki/concepts/化债的成本转嫁与道德风险]] — 化债的伦理问题
-4. [[wiki/concepts/QE与化债对比]] — QE 与化债的本质对比
-5. [[wiki/concepts/银行扩表与流动性]] — 银行扩表的两种本质
-6. [[wiki/concepts/地方政府隐性债务]] — 隐性债务
-7. [[wiki/concepts/特殊再融资债券]] — 化债核心工具
+1. [[化债]] — 化债核心机制（已更新）
+2. [[化债核心命题]] — 化债核心命题
+3. [[化债的成本转嫁与道德风险]] — 化债的伦理问题
+4. [[QE与化债对比]] — QE 与化债的本质对比
+5. [[银行扩表与流动性]] — 银行扩表的两种本质
+6. [[地方政府隐性债务]] — 隐性债务
+7. [[特殊再融资债券]] — 化债核心工具
 
 ### 实体页（1 个）
-8. [[wiki/entities/城投公司]] — 隐性债务的主要承载主体
+8. [[城投公司]] — 隐性债务的主要承载主体
 
 ### Source 页（1 个）
-9. [[wiki/sources/2024-化债政策包]] — 化债政策汇总
+9. [[2024-化债政策包]] — 化债政策汇总
 
 ---
 
@@ -41,15 +41,15 @@ status: developing
 
 | 页面 | 入链数 | 评级 |
 |------|--------|------|
-| [[wiki/concepts/化债]] | 10 | ✅ 优秀 |
-| [[wiki/concepts/化债核心命题]] | 10 | ✅ 优秀 |
-| [[wiki/concepts/化债的成本转嫁与道德风险]] | 10 | ✅ 优秀 |
-| [[wiki/entities/城投公司]] | 10 | ✅ 优秀 |
-| [[wiki/concepts/地方政府隐性债务]] | 9 | ✅ 良好 |
-| [[wiki/concepts/特殊再融资债券]] | 9 | ✅ 良好 |
-| [[wiki/sources/2024-化债政策包]] | 9 | ✅ 良好 |
-| [[wiki/concepts/QE与化债对比]] | 8 | ✅ 良好 |
-| [[wiki/concepts/银行扩表与流动性]] | 8 | ✅ 良好 |
+| [[化债]] | 10 | ✅ 优秀 |
+| [[化债核心命题]] | 10 | ✅ 优秀 |
+| [[化债的成本转嫁与道德风险]] | 10 | ✅ 优秀 |
+| [[城投公司]] | 10 | ✅ 优秀 |
+| [[地方政府隐性债务]] | 9 | ✅ 良好 |
+| [[特殊再融资债券]] | 9 | ✅ 良好 |
+| [[2024-化债政策包]] | 9 | ✅ 良好 |
+| [[QE与化债对比]] | 8 | ✅ 良好 |
+| [[银行扩表与流动性]] | 8 | ✅ 良好 |
 
 > **评估**：所有页面均有充足的入链，知识网络高度互联。
 
@@ -57,29 +57,29 @@ status: developing
 
 ## Issues Found
 
-### Issue 1 (LOW): 死链 `[[wiki/concepts/LGFV]]`
+### Issue 1 (LOW): 死链 `[[LGFV]]`
 
 - **Status**: Dead link
 - **Referenced in**: 
-  - [[wiki/concepts/城投公司]]
-  - [[wiki/concepts/地方政府隐性债务]]
-- **Issue**: `LGFV` 是 [[wiki/entities/城投公司|城投公司]] 的英文表达别名，但当前没有独立页面
-- **Suggestion**: 在 [[wiki/entities/城投公司|城投公司]] 的 `aliases` 中已包含 "LGFV"，建议创建独立页面 `wiki/concepts/LGFV.md` 作为简短的概念页或保持作为别名（前者更规范）
+  - [[城投公司]]
+  - [[地方政府隐性债务]]
+- **Issue**: `LGFV` 是 [[城投公司]] 的英文表达别名，但当前没有独立页面
+- **Suggestion**: 在 [[城投公司]] 的 `aliases` 中已包含 "LGFV"，建议创建独立页面 `wiki/concepts/LGFV.md` 作为简短的概念页或保持作为别名（前者更规范）
 
-### Issue 2 (LOW): 缺失页面 `[[wiki/entities/财政部]]`
+### Issue 2 (LOW): 缺失页面 `[[财政部]]`
 
 - **Status**: Missing page
 - **Mentioned in**: 
-  - [[wiki/concepts/化债]] — 提到"财政部批准限额"
-  - [[wiki/concepts/特殊再融资债券]] — 提到"财政部"
+  - [[化债]] — 提到"财政部批准限额"
+  - [[特殊再融资债券]] — 提到"财政部"
 - **Suggestion**: 财政部是化债的关键角色，建议创建 `wiki/entities/中华人民共和国财政部.md` 实体页
 
-### Issue 3 (LOW): 缺失页面 `[[wiki/concepts/财政货币化]]`
+### Issue 3 (LOW): 缺失页面 `[[财政货币化]]`
 
 - **Status**: Missing page
 - **Referenced in**: 
-  - [[wiki/concepts/QE与化债对比]]
-  - [[wiki/concepts/银行扩表与流动性]]
+  - [[QE与化债对比]]
+  - [[银行扩表与流动性]]
 - **Suggestion**: 财政货币化是化债的重要概念边界，建议创建独立概念页
 
 ---
@@ -161,7 +161,7 @@ status: developing
 
 1. **补充 `status` 字段** — 在所有化债页面中加入 `status: evergreen` 或 `developing`
 2. **创建 `wiki/concepts/LGFV.md`** — 作为城投公司的英文表达
-3. **补充源页 `[[wiki/entities/财政部]]` 的引用** — 在化债页面中强化财政部角色
+3. **补充源页 `[[财政部]]` 的引用** — 在化债页面中强化财政部角色
 
 ---
 

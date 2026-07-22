@@ -131,10 +131,10 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 - [[Wiki vs RAG]] — when to use a wiki knowledge base versus RAG; verdict: wiki wins at <1000 pages
 - [[claude-obsidian-ecosystem]] — feature matrix of 16+ Claude+Obsidian projects; where claude-obsidian wins and gaps
-- [[comparisons/港股vs美股vsA股]] — 港股、美股、A股三大市场的制度与估值对比
-- [[comparisons/回购vs分红]] — 上市公司回报股东两种方式的对比
-- [[comparisons/中俄联合声明2021vs2026]] — 中俄联合声明五年对比
-- [[comparisons/美联储vs中国央行]] — 两大央行的政策框架对比
+- [[港股vs美股vsA股]] — 港股、美股、A股三大市场的制度与估值对比
+- [[回购vs分红]] — 上市公司回报股东两种方式的对比
+- [[中俄联合声明2021vs2026]] — 中俄联合声明五年对比
+- [[美联储vs中国央行]] — 两大央行的政策框架对比
 
 ---
 

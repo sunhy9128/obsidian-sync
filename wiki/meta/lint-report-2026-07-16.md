@@ -38,7 +38,7 @@ status: current
 
 ## Dead Wikilinks (448 targets, 2,720 occurrences)
 
-**Root cause**: Mostly cross-directory path variants — e.g. `[[wiki/entities/X]]` linking to a page that lives in `wiki/concepts/X.md`. Aliases resolve 314 of these.
+**Root cause**: Mostly cross-directory path variants — e.g. `[[X]]` linking to a page that lives in `wiki/concepts/X.md`. Aliases resolve 314 of these.
 
 **314 aliases added** across 294 canonical pages — example:
 - `wiki/concepts/长期资本管理公司.md` gained alias `wiki/entities/长期资本管理公司`

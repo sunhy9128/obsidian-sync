@@ -9,11 +9,11 @@ tags: [finance, swf, singapore, entity, sovereign-wealth]
 aliases: ["GIC", "Government of Singapore Investment Corporation", "新加坡政府投资公司"]
 sources: []
 related:
-  - "[[wiki/entities/淡马锡]]"
-  - "[[wiki/concepts/主权财富基金]]"
-  - "[[wiki/entities/央行]]"
-  - "[[wiki/entities/外汇储备]]"
-  - "[[wiki/entities/IMF]]"
+  - "[[淡马锡]]"
+  - "[[主权财富基金]]"
+  - "[[央行]]"
+  - "[[外汇储备]]"
+  - "[[IMF]]"
 ---
 
 # GIC（新加坡政府投资公司）
@@ -299,16 +299,16 @@ GIC 每 3 年发布一次的"长期报告" 包含：
 ## 相关条目
 
 ### SWF 体系
-- [[wiki/concepts/主权财富基金]]，SWF 总概念 + 横向对比矩阵
-- [[wiki/entities/淡马锡]]，新加坡国资股权 SWF，与 GIC 并列互补
-- [[wiki/entities/中投]]，中国外汇储备分流 SWF
-- [[wiki/entities/挪威主权基金]]，NBIM，被动 + ESG 楷模
+- [[主权财富基金]]，SWF 总概念 + 横向对比矩阵
+- [[淡马锡]]，新加坡国资股权 SWF，与 GIC 并列互补
+- [[中投]]，中国外汇储备分流 SWF
+- [[挪威主权基金]]，NBIM，被动 + ESG 楷模
 
 ### 机构与治理
-- [[wiki/entities/央行]]，央行外汇储备 vs GIC 的关系
-- [[wiki/entities/外汇储备]]，GIC 的资金来源
-- [[wiki/entities/IMF]]，Santiago Principle 框架
+- [[央行]]，央行外汇储备 vs GIC 的关系
+- [[外汇储备]]，GIC 的资金来源
+- [[IMF]]，Santiago Principle 框架
 
 ### 风格与哲学
-- [[wiki/concepts/长期主义]]（待建），长期视角机构资金
-- [[wiki/concepts/Santiago Principle]]（待建），SWF 透明度框架
+- [[长期主义]]（待建），长期视角机构资金
+- [[Santiago Principle]]（待建），SWF 透明度框架

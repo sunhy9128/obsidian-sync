@@ -37,17 +37,17 @@ sources: ""
 
 ### 1.2 历任行长
 
-[[wiki/entities/Wim Duisenberg]]（杜伊森贝赫，荷兰）
+[[Wim Duisenberg]]（杜伊森贝赫，荷兰）
   - 任期：1998.6 - 2003.10
   - 任期背景：欧元诞生、欧元区早期整合
   - 绰号："Mr. Euro"
        ↓
-[[wiki/entities/Jean-Claude Trichet]]（特里谢，法国）
+[[Jean-Claude Trichet]]（特里谢，法国）
   - 任期：2003.11 - 2011.10
   - 任期背景：**全球金融危机、欧债危机开端**
   - 关键事件：2010.5 启动 SMP（证券市场计划），救市希腊
        ↓
-[[wiki/entities/Mario Draghi]]（德拉吉，意大利）
+[[Mario Draghi]]（德拉吉，意大利）
   - 任期：2011.11 - 2019.10
   - 任期背景：**欧债危机高峰期、QE、负利率**
   - **关键贡献**：2012.7.26 "Whatever it takes" 演讲
@@ -55,7 +55,7 @@ sources: ""
   - 2014.6 进入负利率
   - 2012.9 启动 OMT（直接货币交易）
        ↓
-[[wiki/entities/Christine Lagarde]]（拉加德，法国）
+[[Christine Lagarde]]（拉加德，法国）
   - 任期：2019.11 - 至今
   - 任期背景：COVID 危机、通胀飙升、加息周期、降息周期
   - 关键事件：2020 PEPP（疫情紧急购买计划）1.85 万亿欧元
@@ -64,10 +64,10 @@ sources: ""
 
 
 详细页面：
-- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长（1998-2003）
-- [[wiki/entities/Jean-Claude Trichet]] — ECB 第二任行长（2003-2011）
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes"承诺者（2011-2019）
-- [[wiki/entities/Christine Lagarde]] — 现任行长（2019-至今）
+- [[Wim Duisenberg]] — ECB 首任行长（1998-2003）
+- [[Jean-Claude Trichet]] — ECB 第二任行长（2003-2011）
+- [[Mario Draghi]] — "Whatever it takes"承诺者（2011-2019）
+- [[Christine Lagarde]] — 现任行长（2019-至今）
 
 ### 1.3 核心定位
 
@@ -164,7 +164,7 @@ ECB 明确不做的事：
 
 ### 3.1 三大决策机构
 
-详细页面：[[wiki/entities/欧央行执行委员会]]
+详细页面：[[欧央行执行委员会]]
 
 ```
 ECB 的治理结构（2026）：
@@ -240,9 +240,9 @@ ECB 行长的特殊性：
    - 在 BIS（国际清算银行）、FSB（金融稳定委员会）有重要话语权
 
 ⭐ **"政治意愿协调者"角色**：
-   - ECB 货币政策独立性受 [[wiki/entities/EU理事会]]（ECOFIN、Eurogroup）政治协调
+   - ECB 货币政策独立性受 [[EU理事会]]（ECOFIN、Eurogroup）政治协调
    - 欧元区治理 = ECB（货币端） + EU理事会（政治端）双层结构
-   - 详细治理框架见 [[wiki/entities/EU理事会]] 页面
+   - 详细治理框架见 [[EU理事会]] 页面
 ```
 
 ---
@@ -841,7 +841,7 @@ ECB 关键时间线：
 
 ## 十二、历史回顾：从 Rentenmark 到 ECB（1923-2026）
 
-⭐ 完整历史链：[[wiki/concepts/Rentenmark改革]] → [[wiki/entities/1948货币改革]] → [[wiki/entities/ECB]]
+⭐ 完整历史链：[[Rentenmark改革]] → [[1948货币改革]] → [[ECB]]
 
 ### 12.1 1921-1923：源头创伤——魏玛恶性通胀
 
@@ -864,7 +864,7 @@ ECB 关键时间线：
   - "央行独立 = 必需"
   - ⭐ "稳定文化"的源头创伤
        ↓
-详见：[[wiki/concepts/魏玛恶性通胀]]
+详见：[[魏玛恶性通胀]]
 ```
 
 ### 12.2 1923.11.15：精神起点——Rentenmark 改革
@@ -886,7 +886,7 @@ ECB 关键时间线：
   - "市场信心"是货币的真正基础
   - ⭐ 100 年前就揭示了 MMT 的核心真理
        ↓
-详见：[[wiki/concepts/Rentenmark改革]] + [[wiki/entities/Hans Luther]]
+详见：[[Rentenmark改革]] + [[Hans Luther]]
 ```
 
 ### 12.3 1948.6.20：制度化——Deutsche Mark 改革
@@ -911,7 +911,7 @@ ECB 关键时间线：
   - 1999 马克"换装"为欧元
   - ⭐ DM 使用 53 年 8 个月（1948-2002）
        ↓
-详见：[[wiki/entities/1948货币改革]]
+详见：[[1948货币改革]]
 ```
 
 ### 12.4 1957.7.1：法律化——Bundesbank 成立
@@ -936,7 +936,7 @@ ECB 关键时间线：
   - 拒绝救助
   - ⭐ "反通胀"是制度化承诺
        ↓
-详见：[[wiki/concepts/稳定文化]] + [[wiki/entities/德国马克]]
+详见：[[稳定文化]] + [[德国马克]]
 ```
 
 ### 12.5 1992-1999：欧元区诞生
@@ -961,7 +961,7 @@ ECB 关键时间线：
   - 独立于任何政府
   - ⭐ "马克的幽灵"成为欧元
        ↓
-详见：[[wiki/concepts/铆钉德国马克]] + [[wiki/concepts/马斯特里赫特条约]] + [[wiki/concepts/莱茵资本主义]]
+详见：[[铆钉德国马克]] + [[马斯特里赫特条约]] + [[莱茵资本主义]]
 ```
 
 ### 12.6 2010-2012：欧债危机——"马克基因"的挑战
@@ -991,7 +991,7 @@ ECB 关键时间线：
   - 累计购买 2.6 万亿欧元
   - ⭐ "马克基因"被 QE 突破
        ↓
-详见：[[wiki/entities/Mario Draghi]] + [[wiki/concepts/OMT]] + [[wiki/concepts/欧元区主权债务危机]]
+详见：[[Mario Draghi]] + [[OMT]] + [[欧元区主权债务危机]]
 ```
 
 ### 12.7 2020-2022：COVID 与 PEPP 极限
@@ -1019,7 +1019,7 @@ ECB 关键时间线：
   - 2023.9 DFR 4.00%（历史峰值）
   - ⭐ 11 次加息共 +450bp
        ↓
-详见：[[wiki/entities/Christine Lagarde]] + [[wiki/concepts/欧债危机]]
+详见：[[Christine Lagarde]] + [[欧债危机]]
 ```
 
 ### 12.8 2024-2026：降息周期与"稳定文化 2.0"
@@ -1044,7 +1044,7 @@ ECB 关键时间线：
   - 数字欧元创新
   - ⭐ "稳定文化"的当代演绎
        ↓
-详见：[[wiki/entities/Christine Lagarde]] + [[wiki/concepts/扩表与缩表]] + [[wiki/concepts/利率走廊]]
+详见：[[Christine Lagarde]] + [[扩表与缩表]] + [[利率走廊]]
 ```
 
 ### 12.9 100 年传承的"五大核心洞察"
@@ -1165,56 +1165,56 @@ ECB 关键时间线：
 ## 相关条目
 
 ### 货币与央行
-- [[wiki/entities/欧元]] — ECB 发行管理的货币
-- [[wiki/entities/美联储]] — 全球第一大央行对比
-- [[wiki/entities/中国央行]] — 中国央行对比
-- [[wiki/entities/日本银行]] — 全球第三大央行对比
-- [[wiki/entities/英格兰银行]] — 全球第四大央行对比
-- [[wiki/concepts/铆钉德国马克]] — 欧元 = 马克的"幽灵化身"，ECB 政策基因的源头
-- [[wiki/concepts/稳定文化]] — ECB 单一目标的价格稳定偏好的文化根源
-- [[wiki/concepts/莱茵资本主义]] — 欧元区制度设计的底层经济模式
-- [[wiki/concepts/秩序自由主义]] — 欧元区政策的理论根源（弗莱堡学派）
-- [[wiki/concepts/魏玛恶性通胀]] — ECB 制度设计的"历史根源"
-- [[wiki/concepts/Rentenmark改革]] — 1923.11.15 信用货币改革，是 ECB 央行独立性的"精神起点"
-- [[wiki/entities/1948货币改革]] — 1948.6.20 Deutsche Mark 改革，是 ECB 模式的"直接前身"
-- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者，ECB 精神的"先驱"
+- [[欧元]] — ECB 发行管理的货币
+- [[美联储]] — 全球第一大央行对比
+- [[中国央行]] — 中国央行对比
+- [[日本银行]] — 全球第三大央行对比
+- [[英格兰银行]] — 全球第四大央行对比
+- [[铆钉德国马克]] — 欧元 = 马克的"幽灵化身"，ECB 政策基因的源头
+- [[稳定文化]] — ECB 单一目标的价格稳定偏好的文化根源
+- [[莱茵资本主义]] — 欧元区制度设计的底层经济模式
+- [[秩序自由主义]] — 欧元区政策的理论根源（弗莱堡学派）
+- [[魏玛恶性通胀]] — ECB 制度设计的"历史根源"
+- [[Rentenmark改革]] — 1923.11.15 信用货币改革，是 ECB 央行独立性的"精神起点"
+- [[1948货币改革]] — 1948.6.20 Deutsche Mark 改革，是 ECB 模式的"直接前身"
+- [[Hans Luther]] — Rentenmark 改革设计者，ECB 精神的"先驱"
 
 ### 历史与传承
-- [[wiki/concepts/Rentenmark改革]] — 1923.11.15 终结魏玛通胀，ECB 精神起点
-- [[wiki/entities/1948货币改革]] — 1948.6.20 推出 DM，ECB 制度前身
-- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者
-- [[wiki/entities/德国马克]] — DM 1948-2002 使用 53 年，欧元前身
-- [[wiki/entities/密特朗]] — 1983 法国"马克投降"关键人物
+- [[Rentenmark改革]] — 1923.11.15 终结魏玛通胀，ECB 精神起点
+- [[1948货币改革]] — 1948.6.20 推出 DM，ECB 制度前身
+- [[Hans Luther]] — Rentenmark 改革设计者
+- [[德国马克]] — DM 1948-2002 使用 53 年，欧元前身
+- [[密特朗]] — 1983 法国"马克投降"关键人物
 
 ### 危机与改革
-- [[wiki/concepts/欧元区主权债务危机]] — ECB 的"生死时刻"
-- [[wiki/concepts/1992欧洲货币危机]] — 欧元前身 ERM 危机
-- [[wiki/concepts/2008全球金融危机]] — 全球危机对 ECB 的影响
-- [[wiki/concepts/马斯特里赫特条约]] — ECB 成立的法律基础
-- [[wiki/concepts/欧债危机]] — 2010-2012 主权债务危机
+- [[欧元区主权债务危机]] — ECB 的"生死时刻"
+- [[1992欧洲货币危机]] — 欧元前身 ERM 危机
+- [[2008全球金融危机]] — 全球危机对 ECB 的影响
+- [[马斯特里赫特条约]] — ECB 成立的法律基础
+- [[欧债危机]] — 2010-2012 主权债务危机
 
 ### 工具与政策
-- [[wiki/concepts/扩表与缩表]] — ECB 的 APP/PEPP 量化宽松
-- [[wiki/concepts/量化宽松]] — ECB QE 的具体机制
-- [[wiki/concepts/最后贷款人]] — OMT 的理论基础
-- [[wiki/concepts/负利率]] — ECB 2014-2022 的实验
-- [[wiki/concepts/利率走廊]] — ECB 的 DFR/MRO/MLF 三层结构
+- [[扩表与缩表]] — ECB 的 APP/PEPP 量化宽松
+- [[量化宽松]] — ECB QE 的具体机制
+- [[最后贷款人]] — OMT 的理论基础
+- [[负利率]] — ECB 2014-2022 的实验
+- [[利率走廊]] — ECB 的 DFR/MRO/MLF 三层结构
 
 ### 关键人物
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes" 的承诺者
-- [[wiki/entities/Christine Lagarde]] — 现任行长
-- [[wiki/entities/Jean-Claude Trichet]] — 欧债危机开端行长
-- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长
+- [[Mario Draghi]] — "Whatever it takes" 的承诺者
+- [[Christine Lagarde]] — 现任行长
+- [[Jean-Claude Trichet]] — 欧债危机开端行长
+- [[Wim Duisenberg]] — ECB 首任行长
 
 ### 国际对比
-- [[wiki/concepts/化债]] — 中国化债与欧元区救助对比
-- [[wiki/entities/IMF]] — ECB 的合作伙伴
-- [[wiki/entities/世界银行]] — ECB 的合作伙伴
-- [[wiki/entities/BIS]] — ECB 加入的国际清算银行
+- [[化债]] — 中国化债与欧元区救助对比
+- [[IMF]] — ECB 的合作伙伴
+- [[世界银行]] — ECB 的合作伙伴
+- [[BIS]] — ECB 加入的国际清算银行
 
 ### 实体
-- [[wiki/entities/欧盟]] — ECB 的法律框架提供方
-- [[wiki/entities/ESM]] — 欧洲稳定机制（ECB 的补充机构）
-- [[wiki/entities/欧央行执行委员会]] — ECB 日常运作机构
-- [[wiki/entities/EU理事会]] — ECB 政策协调对象
-- [[wiki/entities/欧洲议会]] — ECB 监督机构
+- [[欧盟]] — ECB 的法律框架提供方
+- [[ESM]] — 欧洲稳定机制（ECB 的补充机构）
+- [[欧央行执行委员会]] — ECB 日常运作机构
+- [[EU理事会]] — ECB 政策协调对象
+- [[欧洲议会]] — ECB 监督机构

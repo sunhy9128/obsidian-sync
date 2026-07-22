@@ -32,20 +32,20 @@ related:
 ### 新创建页面（19 个）
 
 **ECB 知识网络（13 个）**：
-- [[wiki/entities/ECB]]（核心实体页）
-- [[wiki/entities/Mario Draghi]]、[[wiki/entities/Christine Lagarde]]、[[wiki/entities/Wim Duisenberg]]、[[wiki/entities/Jean-Claude Trichet]]（4 位 ECB 行长）
-- [[wiki/entities/ESM]]、[[wiki/entities/BIS]]（核心机构）
-- [[wiki/entities/英格兰银行]]、[[wiki/entities/欧央行执行委员会]]、[[wiki/entities/EU理事会]]（对比与治理）
-- [[wiki/concepts/欧债危机]]、[[wiki/concepts/量化宽松]]、[[wiki/concepts/利率走廊]]、[[wiki/concepts/负利率]]（核心概念）
+- [[ECB]]（核心实体页）
+- [[Mario Draghi]]、[[Christine Lagarde]]、[[Wim Duisenberg]]、[[Jean-Claude Trichet]]（4 位 ECB 行长）
+- [[ESM]]、[[BIS]]（核心机构）
+- [[英格兰银行]]、[[欧央行执行委员会]]、[[EU理事会]]（对比与治理）
+- [[欧债危机]]、[[量化宽松]]、[[利率走廊]]、[[负利率]]（核心概念）
 
 **中国金融（2 个）**：
-- [[wiki/concepts/国债逆回购]]
-- [[wiki/concepts/2013年钱荒]]
+- [[国债逆回购]]
+- [[2013年钱荒]]
 
 **Lint 修复（3 个）**：
-- [[wiki/concepts/OMT]]
-- [[wiki/entities/瑞士央行]]
-- [[wiki/entities/瑞典央行]]
+- [[OMT]]
+- [[瑞士央行]]
+- [[瑞典央行]]
 
 ---
 
@@ -55,15 +55,15 @@ related:
 
 | 死链目标 | 引用源 | 修复状态 |
 |----------|--------|----------|
-| `[[wiki/concepts/OMT]]` | Mario Draghi:431、ESM:598 | ✅ 已创建 OMT 概念页 |
-| `[[wiki/entities/瑞士央行]]` | 负利率:408、利率走廊:443 | ✅ 已创建 SNB 实体页 |
-| `[[wiki/entities/瑞典央行]]` | 负利率:409 | ✅ 已创建 Riksbank 实体页 |
+| `[[OMT]]` | Mario Draghi:431、ESM:598 | ✅ 已创建 OMT 概念页 |
+| `[[瑞士央行]]` | 负利率:408、利率走廊:443 | ✅ 已创建 SNB 实体页 |
+| `[[瑞典央行]]` | 负利率:409 | ✅ 已创建 Riksbank 实体页 |
 
 ### P0 误报澄清（1 个）
 
 | 报告死链 | 实际情况 |
 |----------|----------|
-| `[[wiki/entities/欧洲议会]]`（欧央行执行委员会:373） | ✅ **实际存在**（`wiki/entities/欧洲议会.md`），agent 报告误判 |
+| `[[欧洲议会]]`（欧央行执行委员会:373） | ✅ **实际存在**（`wiki/entities/欧洲议会.md`），agent 报告误判 |
 
 ### 其他死链（来自历史累积，与本次会话无关）
 
@@ -153,13 +153,13 @@ related:
 ### 路径颠倒（entities ↔ concepts）
 
 **未发现**。所有新页面的 wikilink 路径都使用正确的目录前缀：
-- 概念引用 `[[wiki/concepts/...]]`
-- 实体引用 `[[wiki/entities/...]]`
+- 概念引用 `[[...]]`
+- 实体引用 `[[...]]`
 
 ### 重复页面
 
-- `[[wiki/concepts/最后贷款人]]` 和 `[[wiki/entities/最后贷款人]]` 同时存在
-- `[[wiki/concepts/量化宽松]]` 和 `[[wiki/entities/量化宽松]]` 同时存在
+- `[[最后贷款人]]` 和 `[[最后贷款人]]` 同时存在
+- `[[量化宽松]]` 和 `[[量化宽松]]` 同时存在
 - ⚠️ 建议统一收敛到 `wiki/concepts/`（但 Obsidian 能解析两个路径，目前无即时风险）
 
 ---
@@ -233,9 +233,9 @@ related:
 ### 中期（本月内）
 
 4. **ECB 知识网络扩展**：
-   - 新建 `[[wiki/concepts/TARGET2]]`（欧元区资本流动的镜像）
-   - 新建 `[[wiki/concepts/2015瑞郎危机]]`（瑞士央行的"黑色星期四"）
-   - 新建 `[[wiki/concepts/货币政策策略]]`（ECB 2021 策略修订）
+   - 新建 `[[TARGET2]]`（欧元区资本流动的镜像）
+   - 新建 `[[2015瑞郎危机]]`（瑞士央行的"黑色星期四"）
+   - 新建 `[[货币政策策略]]`（ECB 2021 策略修订）
 
 5. **运行 `/wiki-lint` 验证**：
    - 7 天后再次执行 lint
@@ -265,16 +265,16 @@ related:
 ## 相关条目
 
 ### 本次会话新增
-- [[wiki/entities/ECB]] — 核心实体
-- [[wiki/concepts/欧债危机]] — 核心概念
-- [[wiki/concepts/量化宽松]] — 核心概念
-- [[wiki/concepts/利率走廊]] — 核心概念
-- [[wiki/concepts/负利率]] — 核心概念
-- [[wiki/concepts/OMT]] — ECB 工具（修复）
-- [[wiki/entities/Mario Draghi]] — ECB 行长
-- [[wiki/entities/Christine Lagarde]] — ECB 现任行长
-- [[wiki/entities/瑞士央行]] — 央行对比（修复）
-- [[wiki/entities/瑞典央行]] — 央行对比（修复）
+- [[ECB]] — 核心实体
+- [[欧债危机]] — 核心概念
+- [[量化宽松]] — 核心概念
+- [[利率走廊]] — 核心概念
+- [[负利率]] — 核心概念
+- [[OMT]] — ECB 工具（修复）
+- [[Mario Draghi]] — ECB 行长
+- [[Christine Lagarde]] — ECB 现任行长
+- [[瑞士央行]] — 央行对比（修复）
+- [[瑞典央行]] — 央行对比（修复）
 
 ### 历史 lint 报告
 - [[lint-report-2026-07-07]] — 上次报告

@@ -426,26 +426,26 @@ ECB 工具层级：
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — OMT 的执行机构
-- [[wiki/entities/欧元]] — OMT 守护的货币
-- [[wiki/entities/Mario Draghi]] — OMT 的设计者（"Whatever it takes"）
-- [[wiki/entities/ESM]] — OMT 的合作伙伴（严格条件）
-- [[wiki/entities/Christine Lagarde]] — OMT 时代的 ECB 行长
-- [[wiki/entities/Jean-Claude Trichet]] — OMT 前的 ECB 行长
+- [[ECB]] — OMT 的执行机构
+- [[欧元]] — OMT 守护的货币
+- [[Mario Draghi]] — OMT 的设计者（"Whatever it takes"）
+- [[ESM]] — OMT 的合作伙伴（严格条件）
+- [[Christine Lagarde]] — OMT 时代的 ECB 行长
+- [[Jean-Claude Trichet]] — OMT 前的 ECB 行长
 
 ### 危机与改革
-- [[wiki/concepts/欧元区主权债务危机]] — OMT 诞生的背景
-- [[wiki/concepts/欧债危机]] — OMT 应对的危机
-- [[wiki/concepts/2008全球金融危机]] — 危机的源头
-- [[wiki/concepts/扩表与缩表]] — ECB 货币政策框架
+- [[欧元区主权债务危机]] — OMT 诞生的背景
+- [[欧债危机]] — OMT 应对的危机
+- [[2008全球金融危机]] — 危机的源头
+- [[扩表与缩表]] — ECB 货币政策框架
 
 ### 工具与政策
-- [[wiki/concepts/量化宽松]] — ECB QE 的具体机制
-- [[wiki/concepts/利率走廊]] — ECB 利率体系
-- [[wiki/concepts/负利率]] — ECB 负利率政策
-- [[wiki/concepts/最后贷款人]] — OMT 的理论基础
+- [[量化宽松]] — ECB QE 的具体机制
+- [[利率走廊]] — ECB 利率体系
+- [[负利率]] — ECB 负利率政策
+- [[最后贷款人]] — OMT 的理论基础
 
 ### 国际对比
-- [[wiki/concepts/化债]] — 中国化债 vs 欧债危机
-- [[wiki/concepts/QE与化债对比]] — 工具组合的对比
-- [[wiki/entities/美联储]] — 与 Fed 对比
+- [[化债]] — 中国化债 vs 欧债危机
+- [[QE与化债对比]] — 工具组合的对比
+- [[美联储]] — 与 Fed 对比

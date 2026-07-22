@@ -31,7 +31,7 @@ related:
 
 ### H1 ✅ FIXED
 
-- [[wiki/sources/2024-化债政策包]] 的 `source_file` 死链已修复
+- [[2024-化债政策包]] 的 `source_file` 死链已修复
 - `source_file: "[[中国化债政策包-2024]]"` → `source_file: null`
 - 来源说明从 [[中国化债政策包-2024]] 改为"合成 source 页（基于 2023.7 政治局会议、2023.10 人大常委会、国务院文件等综合整理）"
 
@@ -41,18 +41,18 @@ related:
 
 | 页面 | status |
 |------|--------|
-| [[wiki/concepts/化债]] | `current` |
-| [[wiki/concepts/化债核心命题]] | `current` |
-| [[wiki/concepts/QE与化债对比]] | `current` |
-| [[wiki/concepts/银行扩表与流动性]] | `current` |
-| [[wiki/concepts/央行对冲工具（化债背景）]] | `current` |
-| [[wiki/concepts/PSL]] | `current` |
-| [[wiki/concepts/MLF]] | `current` |
-| [[wiki/concepts/财政货币化]] | `current` |
-| [[wiki/concepts/特殊再融资债券]] | `current` |
-| [[wiki/concepts/地方政府隐性债务]] | `current` |
-| [[wiki/concepts/化债的成本转嫁与道德风险]] | `current` |
-| [[wiki/sources/2024-化债政策包]] | `evergreen` |
+| [[化债]] | `current` |
+| [[化债核心命题]] | `current` |
+| [[QE与化债对比]] | `current` |
+| [[银行扩表与流动性]] | `current` |
+| [[央行对冲工具（化债背景）]] | `current` |
+| [[PSL]] | `current` |
+| [[MLF]] | `current` |
+| [[财政货币化]] | `current` |
+| [[特殊再融资债券]] | `current` |
+| [[地方政府隐性债务]] | `current` |
+| [[化债的成本转嫁与道德风险]] | `current` |
+| [[2024-化债政策包]] | `evergreen` |
 
 ### M1/M2 ✅ FIXED
 
@@ -60,13 +60,13 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 
 | 页面 | 新增 MLF wikilink | 新增 PSL wikilink |
 |------|-------------------|-------------------|
-| [[wiki/concepts/化债]] | 2 处 | 2 处 |
-| [[wiki/concepts/QE与化债对比]] | 2 处 | 1 处 |
-| [[wiki/concepts/银行扩表与流动性]] | 2 处 | 1 处 |
-| [[wiki/concepts/扩表与缩表]] | 1 处 | 1 处 |
-| [[wiki/concepts/央行对冲工具（化债背景）]] | (已存在) | (已存在) |
-| [[wiki/concepts/MLF]] | (自身) | 1 处（新增） |
-| [[wiki/concepts/PSL]] | 1 处（新增） | (自身) |
+| [[化债]] | 2 处 | 2 处 |
+| [[QE与化债对比]] | 2 处 | 1 处 |
+| [[银行扩表与流动性]] | 2 处 | 1 处 |
+| [[扩表与缩表]] | 1 处 | 1 处 |
+| [[央行对冲工具（化债背景）]] | (已存在) | (已存在) |
+| [[MLF]] | (自身) | 1 处（新增） |
+| [[PSL]] | 1 处（新增） | (自身) |
 
 预期反向链接增量：MLF 从 3 → ~10，PSL 从 4 → ~9
 
@@ -76,23 +76,23 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 
 | 页面 | 维度 |
 |------|------|
-| [[wiki/concepts/化债的成本转嫁与道德风险]] | 伦理审视维度 |
-| [[wiki/concepts/央行对冲工具（化债背景）]] | 央行应对维度 |
-| [[wiki/concepts/PSL]] | 绕道支持维度 |
-| [[wiki/concepts/MLF]] | 主力对冲工具维度 |
-| [[wiki/concepts/财政货币化]] | 红线划界维度 |
-| [[wiki/concepts/特殊再融资债券]] | 工具载体维度 |
-| [[wiki/concepts/地方政府隐性债务]] | 对象维度 |
+| [[化债的成本转嫁与道德风险]] | 伦理审视维度 |
+| [[央行对冲工具（化债背景）]] | 央行应对维度 |
+| [[PSL]] | 绕道支持维度 |
+| [[MLF]] | 主力对冲工具维度 |
+| [[财政货币化]] | 红线划界维度 |
+| [[特殊再融资债券]] | 工具载体维度 |
+| [[地方政府隐性债务]] | 对象维度 |
 
 ### L1 ✅ FIXED
 
-[[wiki/concepts/MLF]] 别名清理与补充：
+[[MLF]] 别名清理与补充：
 - 添加：`麻辣粉`、`MLF利率`、`MLF续作`
 - 清理错误别名：`SLF`/`常备借贷便利`/`PSL`/`抵押补充贷款`/`Pledged Supplementary Lending`（这些是不同工具，不能作为 MLF 的别名）
 
 ### L4 ✅ FIXED
 
-[[wiki/concepts/化债核心命题]] 已添加 Canvas 引用：
+[[化债核心命题]] 已添加 Canvas 引用：
 - `[[wiki/meta/化债机制图谱.canvas|化债机制图谱]] — 知识网络可视化（Canvas）`
 
 ---
@@ -114,7 +114,7 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 
 ### L2 ⏸️ 央行对冲工具文件名含括号
 
-- **Page**: [[wiki/concepts/央行对冲工具（化债背景）]]
+- **Page**: [[央行对冲工具（化债背景）]]
 - **Issue**: 文件名含括号，对部分 Obsidian 插件可能造成解析问题
 - **Risk**: 低，目前所有 wikilink 已可正常解析
 - **建议**: 暂不修改；如未来发现解析问题再重命名为 `央行对冲工具-化债背景`
@@ -122,7 +122,7 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 ### L3 ⏸️ 周小川/易纲/潘功胜提及未 wikilink
 
 - **Issue**: 部分化债概念页提及三位前央行行长但未 wikilink
-- **Status**: 已检查 —— 当前 vault 中**没有** [[wiki/entities/周小川]]、[[wiki/entities/易纲]]、[[wiki/entities/潘功胜]] 实体页
+- **Status**: 已检查 —— 当前 vault 中**没有** [[周小川]]、[[易纲]]、[[潘功胜]] 实体页
 - **建议**: 如需深入梳理中国央行行长立场演变，建议后续创建这三个实体页
 
 ### L5 ⏸️ dashboard.md 更新
@@ -140,7 +140,7 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 
 ### Dead Links（死链）
 
-✅ **化债系列无死链**。H1 修复后 [[wiki/sources/2024-化债政策包]] 的死链已清除。
+✅ **化债系列无死链**。H1 修复后 [[2024-化债政策包]] 的死链已清除。
 
 ### 必填 Frontmatter 字段
 
@@ -172,8 +172,8 @@ MLF 和 PSL 的 wikilink 反向链接已加强：
 
 ## 相关条目
 
-- [[wiki/concepts/化债核心命题]] — 化债网络的"中枢命题页"
-- [[wiki/concepts/化债]] — 化债主页面
-- [[wiki/sources/2024-化债政策包]] — 化债政策汇总（已修复死链）
+- [[化债核心命题]] — 化债网络的"中枢命题页"
+- [[化债]] — 化债主页面
+- [[2024-化债政策包]] — 化债政策汇总（已修复死链）
 - [[wiki/meta/lint-report-2026-06-26]] — 上一次 lint 报告
 - [[化债机制图谱 1.canvas]] — 知识网络可视化

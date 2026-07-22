@@ -35,6 +35,6 @@ KOSPI（Korea Composite Stock Price Index）是韩国证券交易所（KRX）编
 
 ## 相关条目
 
-- [[wiki/entities/韩国综合指数(KOSPI)]]
-- [[wiki/entities/韩国央行]]
-- [[wiki/entities/韩国金融监督院]]
+- [[韩国综合指数(KOSPI)]]
+- [[韩国央行]]
+- [[韩国金融监督院]]

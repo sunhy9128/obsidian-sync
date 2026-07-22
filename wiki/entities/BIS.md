@@ -480,28 +480,28 @@ BIS 为央行提供的金融服务：
 ## 相关条目
 
 ### 央行与货币
-- [[wiki/entities/ECB]] — BIS 主要成员
-- [[wiki/entities/美联储]] — BIS 主要成员
-- [[wiki/entities/中国央行]] — BIS 股东，参与巴塞尔 III
-- [[wiki/entities/日本银行]] — BIS 主要成员
-- [[wiki/entities/英格兰银行]] — BIS 主要成员
+- [[ECB]] — BIS 主要成员
+- [[美联储]] — BIS 主要成员
+- [[中国央行]] — BIS 股东，参与巴塞尔 III
+- [[日本银行]] — BIS 主要成员
+- [[英格兰银行]] — BIS 主要成员
 
 ### 国际组织
-- [[wiki/entities/IMF]] — 与 BIS 互补的国际金融组织
-- [[wiki/entities/世界银行]] — 与 BIS 互补的金融机构
-- [[wiki/entities/欧盟]] — BIS 的合作对象
+- [[IMF]] — 与 BIS 互补的国际金融组织
+- [[世界银行]] — 与 BIS 互补的金融机构
+- [[欧盟]] — BIS 的合作对象
 
 ### 监管框架
-- [[wiki/concepts/巴塞尔协议III]] — BIS 主导的全球银行监管标准
-- [[wiki/concepts/沃尔克规则]] — BIS 推动的衍生监管
-- [[wiki/concepts/多德弗兰克法案]] — 与巴塞尔 III 配合的美国监管
+- [[巴塞尔协议III]] — BIS 主导的全球银行监管标准
+- [[沃尔克规则]] — BIS 推动的衍生监管
+- [[多德弗兰克法案]] — 与巴塞尔 III 配合的美国监管
 
 ### 危机与稳定
-- [[wiki/concepts/2008全球金融危机]] — BIS 推动金融改革
-- [[wiki/concepts/2020年3月流动性危机]] — BIS 协调全球应对
-- [[wiki/concepts/扩表与缩表]] — BIS 研究的央行政策核心
-- [[wiki/concepts/化债]] — 中国化债与全球金融稳定
+- [[2008全球金融危机]] — BIS 推动金融改革
+- [[2020年3月流动性危机]] — BIS 协调全球应对
+- [[扩表与缩表]] — BIS 研究的央行政策核心
+- [[化债]] — 中国化债与全球金融稳定
 
 ### 历史人物
-- [[wiki/entities/Mario Draghi]] — BIS 董事会成员
-- [[wiki/entities/Christine Lagarde]] — BIS 董事会成员
+- [[Mario Draghi]] — BIS 董事会成员
+- [[Christine Lagarde]] — BIS 董事会成员

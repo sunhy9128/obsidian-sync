@@ -443,28 +443,28 @@ sources: ""
 ## 相关条目
 
 ### 核心概念
-- [[wiki/concepts/Rentenmark改革]] — Luther 的"天才之作"
-- [[wiki/concepts/魏玛恶性通胀]] — Luther 终结的"百年通胀"
-- [[wiki/concepts/稳定文化]] — Luther 奠基的"央行独立性"传统
-- [[wiki/concepts/铆钉德国马克]] — Luther 之后的"马克基因"
-- [[wiki/concepts/现代货币理论 (MMT)]] — Luther 改革的"理论成熟版"
+- [[Rentenmark改革]] — Luther 的"天才之作"
+- [[魏玛恶性通胀]] — Luther 终结的"百年通胀"
+- [[稳定文化]] — Luther 奠基的"央行独立性"传统
+- [[铆钉德国马克]] — Luther 之后的"马克基因"
+- [[现代货币理论 (MMT)]] — Luther 改革的"理论成熟版"
 
 ### 机构与央行
-- [[wiki/entities/德国]] — Luther 的祖国
-- [[wiki/entities/ECB]] — Luther 精神的"国际化"
-- [[wiki/entities/1948货币改革]] — Luther 之后的"1948 货币改革"
+- [[德国]] — Luther 的祖国
+- [[ECB]] — Luther 精神的"国际化"
+- [[1948货币改革]] — Luther 之后的"1948 货币改革"
 
 ### 历史与制度
-- [[wiki/concepts/化债]] — 中国化债 vs Luther 改革
-- [[wiki/concepts/欧元区主权债务危机]] — "Whatever it takes"（Luther 精神的现代继承）
-- [[wiki/concepts/两德合并]] — 1948 货币改革扩展到东德
+- [[化债]] — 中国化债 vs Luther 改革
+- [[欧元区主权债务危机]] — "Whatever it takes"（Luther 精神的现代继承）
+- [[两德合并]] — 1948 货币改革扩展到东德
 
 ### 历史人物
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes"的承诺者（与 Luther 的"危机管理"对比）
-- [[wiki/entities/Christine Lagarde]] — ECB 现任行长
-- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长
+- [[Mario Draghi]] — "Whatever it takes"的承诺者（与 Luther 的"危机管理"对比）
+- [[Christine Lagarde]] — ECB 现任行长
+- [[Wim Duisenberg]] — ECB 首任行长
 - 密特朗（未建）— 1983 年法国"转向"
 
 ### 国际比较
-- [[wiki/concepts/扩表与缩表]] — 央行资产负债表的"信用货币"理论
-- [[wiki/concepts/量化宽松]] — 2008 后"信用货币"的极致运用
+- [[扩表与缩表]] — 央行资产负债表的"信用货币"理论
+- [[量化宽松]] — 2008 后"信用货币"的极致运用

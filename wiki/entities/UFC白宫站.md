@@ -16,7 +16,7 @@ status: "current"
 ## 基本信息
 
 - Type: event
-- Source: [[wiki/sources/2026-06-15-美伊MoU签署与全球狂欢|2026-06-15-美伊MoU签署与全球狂欢]]
+- Source: [[2026-06-15-美伊MoU签署与全球狂欢]]
 - 时间: 2026 年 6 月 15 日前后
 - Tags: sports, mma, ufc, white-house
 

@@ -195,17 +195,17 @@ sources: ""
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — Duisenberg 创建的央行
-- [[wiki/entities/欧元]] — Duisenberg 推动的货币
-- [[wiki/entities/Jean-Claude Trichet]] — Duisenberg 的继任者
-- [[wiki/entities/Mario Draghi]] — Trichet 的继任者
-- [[wiki/entities/Christine Lagarde]] — ECB 现任行长
+- [[ECB]] — Duisenberg 创建的央行
+- [[欧元]] — Duisenberg 推动的货币
+- [[Jean-Claude Trichet]] — Duisenberg 的继任者
+- [[Mario Draghi]] — Trichet 的继任者
+- [[Christine Lagarde]] — ECB 现任行长
 
 ### 历史与制度
-- [[wiki/concepts/马斯特里赫特条约]] — ECB 成立的法律基础
-- [[wiki/concepts/欧元区主权债务危机]] — Duisenberg 卸任后 7 年的危机
-- [[wiki/concepts/扩表与缩表]] — ECB 货币政策框架
+- [[马斯特里赫特条约]] — ECB 成立的法律基础
+- [[欧元区主权债务危机]] — Duisenberg 卸任后 7 年的危机
+- [[扩表与缩表]] — ECB 货币政策框架
 
 ### 国际对比
-- [[wiki/entities/美联储]] — 与 ECB 协调
-- [[wiki/entities/中国央行]] — 全球央行对比
+- [[美联储]] — 与 ECB 协调
+- [[中国央行]] — 全球央行对比

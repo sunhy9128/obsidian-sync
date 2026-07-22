@@ -599,27 +599,27 @@ sources: ""
 ## 相关条目
 
 ### 核心概念
-- [[wiki/concepts/Rentenmark改革]] — MMT 的"100 年前先驱实验"
-- [[wiki/concepts/稳定文化]] — MMT vs 央行独立的争论
-- [[wiki/concepts/化债]] — 中国化债的"MMT 视角"
+- [[Rentenmark改革]] — MMT 的"100 年前先驱实验"
+- [[稳定文化]] — MMT vs 央行独立的争论
+- [[化债]] — 中国化债的"MMT 视角"
 
 ### 机构与央行
-- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者
-- [[wiki/entities/ECB]] — 央行独立的"欧洲案例"
-- [[wiki/entities/美联储]] — QE 的实施者
-- [[wiki/entities/中国央行]] — 中国"准 MMT"实践
-- [[wiki/entities/日本银行]] — 日本"准 MMT"案例
+- [[Hans Luther]] — Rentenmark 改革设计者
+- [[ECB]] — 央行独立的"欧洲案例"
+- [[美联储]] — QE 的实施者
+- [[中国央行]] — 中国"准 MMT"实践
+- [[日本银行]] — 日本"准 MMT"案例
 
 ### 历史与制度
-- [[wiki/concepts/扩表与缩表]] — QE vs MMT 的关系
-- [[wiki/concepts/量化宽松]] — 2008 后"有限 MMT"
-- [[wiki/concepts/2008全球金融危机]] — 2008 危机与 MMT 复兴
-- [[wiki/concepts/2020年3月流动性危机]] — 2020 无限 QE
+- [[扩表与缩表]] — QE vs MMT 的关系
+- [[量化宽松]] — 2008 后"有限 MMT"
+- [[2008全球金融危机]] — 2008 危机与 MMT 复兴
+- [[2020年3月流动性危机]] — 2020 无限 QE
 
 ### 国际比较
-- [[wiki/concepts/欧元区主权债务危机]] — 主权债务危机 vs MMT
-- [[wiki/concepts/负利率]] — MMT 视角下的负利率
-- [[wiki/concepts/美元霸权]] — 美元作为 MMT 的最强代表
+- [[欧元区主权债务危机]] — 主权债务危机 vs MMT
+- [[负利率]] — MMT 视角下的负利率
+- [[美元霸权]] — 美元作为 MMT 的最强代表
 
 ### 历史人物
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes"（MMT 精神的现代运用）
+- [[Mario Draghi]] — "Whatever it takes"（MMT 精神的现代运用）

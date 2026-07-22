@@ -377,17 +377,17 @@ EU 理事会与 ECB 的决策分工：
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — EU 理事会合作伙伴
-- [[wiki/entities/欧元]] — EU 理事会关心的货币
-- [[wiki/entities/欧盟]] — EU 理事会的母体
-- [[wiki/entities/欧央行执行委员会]] — 由 EU 理事会任命
+- [[ECB]] — EU 理事会合作伙伴
+- [[欧元]] — EU 理事会关心的货币
+- [[欧盟]] — EU 理事会的母体
+- [[欧央行执行委员会]] — 由 EU 理事会任命
 
 ### 危机与改革
-- [[wiki/concepts/欧元区主权债务危机]] — EU 理事会主导应对
-- [[wiki/concepts/欧债危机]] — EU 理事会与 ECB 协调
-- [[wiki/concepts/2008全球金融危机]] — EU 理事会与 ECB 联合应对
-- [[wiki/entities/ESM]] — EU 理事会的财政工具
+- [[欧元区主权债务危机]] — EU 理事会主导应对
+- [[欧债危机]] — EU 理事会与 ECB 协调
+- [[2008全球金融危机]] — EU 理事会与 ECB 联合应对
+- [[ESM]] — EU 理事会的财政工具
 
 ### 国际对比
-- [[wiki/entities/IMF]] — 与 EU 理事会协调
-- [[wiki/concepts/扩表与缩表]] — ECB 与 EU 理事会协调
+- [[IMF]] — 与 EU 理事会协调
+- [[扩表与缩表]] — ECB 与 EU 理事会协调

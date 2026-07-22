@@ -29,9 +29,9 @@ sources: ""
 | **专业背景** | 经济学家、央行行长、商业银行家、政治家 |
 | **绰号** | ⭐ "Super Mario"、"Mr. Whatever It Takes"、"拯救欧元的人" |
 | **ECB 行长任期** | 2011.11.1 - 2019.10.31（8 年，不可连任） |
-| **前任** | [[wiki/entities/Jean-Claude Trichet]]（2003-2011） |
-| **继任** | [[wiki/entities/Christine Lagarde]]（2019-至今） |
-| **首任行长** | [[wiki/entities/Wim Duisenberg]]（1998-2003） |
+| **前任** | [[Jean-Claude Trichet]]（2003-2011） |
+| **继任** | [[Christine Lagarde]]（2019-至今） |
+| **首任行长** | [[Wim Duisenberg]]（1998-2003） |
 | **意大利总理任期** | 2021.2.13 - 2022.10.22 |
 | **当前职位** | 卸任后从事学术与咨询 |
 
@@ -409,34 +409,34 @@ OMT 的法律挑战：
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — Draghi 担任行长 8 年的机构
-- [[wiki/entities/欧元]] — Draghi 捍卫的货币
-- [[wiki/entities/Christine Lagarde]] — Draghi 的继任者
-- [[wiki/entities/Wim Duisenberg]] — ECB 首任行长
-- [[wiki/entities/Jean-Claude Trichet]] — Draghi 的前任
-- [[wiki/concepts/欧元区主权债务危机]] — Draghi 拯救的危机
+- [[ECB]] — Draghi 担任行长 8 年的机构
+- [[欧元]] — Draghi 捍卫的货币
+- [[Christine Lagarde]] — Draghi 的继任者
+- [[Wim Duisenberg]] — ECB 首任行长
+- [[Jean-Claude Trichet]] — Draghi 的前任
+- [[欧元区主权债务危机]] — Draghi 拯救的危机
 
 ### 政策工具
-- [[wiki/concepts/OMT]] — Draghi 创造的"威慑工具"
-- [[wiki/concepts/扩表与缩表]] — Draghi 时代的 APP/PEPP
-- [[wiki/concepts/量化宽松]] — ECB 的 QE 机制
-- [[wiki/concepts/负利率]] — Draghi 时代的实验
-- [[wiki/concepts/最后贷款人]] — Draghi 创造的工具理论基础
+- [[OMT]] — Draghi 创造的"威慑工具"
+- [[扩表与缩表]] — Draghi 时代的 APP/PEPP
+- [[量化宽松]] — ECB 的 QE 机制
+- [[负利率]] — Draghi 时代的实验
+- [[最后贷款人]] — Draghi 创造的工具理论基础
 
 ### 危机与改革
-- [[wiki/concepts/2008全球金融危机]] — Draghi 就任的背景
-- [[wiki/concepts/1992欧洲货币危机]] — 欧元区的前身危机
-- [[wiki/concepts/欧债危机]] — Draghi 应对的最大危机
-- [[wiki/concepts/马斯特里赫特条约]] — ECB 成立的法律基础
-- [[wiki/concepts/化债]] — 中国化债 vs 欧债危机
+- [[2008全球金融危机]] — Draghi 就任的背景
+- [[1992欧洲货币危机]] — 欧元区的前身危机
+- [[欧债危机]] — Draghi 应对的最大危机
+- [[马斯特里赫特条约]] — ECB 成立的法律基础
+- [[化债]] — 中国化债 vs 欧债危机
 
 ### 国际对比
-- [[wiki/entities/美联储]] — 与 Fed 对比
-- [[wiki/entities/中国央行]] — 与中国央行对比
-- [[wiki/entities/日本银行]] — 与日本银行对比
-- [[wiki/entities/IMF]] — Draghi 长期合作伙伴
-- [[wiki/entities/BIS]] — Draghi 担任过董事
+- [[美联储]] — 与 Fed 对比
+- [[中国央行]] — 与中国央行对比
+- [[日本银行]] — 与日本银行对比
+- [[IMF]] — Draghi 长期合作伙伴
+- [[BIS]] — Draghi 担任过董事
 
 ### 实体
-- [[wiki/entities/欧盟]] — Draghi 政治生涯的母体
-- [[wiki/entities/ESM]] — Draghi 时代的救助工具
+- [[欧盟]] — Draghi 政治生涯的母体
+- [[ESM]] — Draghi 时代的救助工具

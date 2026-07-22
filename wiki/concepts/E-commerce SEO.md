@@ -42,5 +42,5 @@ Claude SEO 包含 E-commerce SEO 专项模块,自动检测产品页结构、提�
 
 ## 相关条目
 
-- [[wiki/entities/Claude SEO]] — Tier 4 Claude Code skill,包含 E-commerce SEO 模块
-- [[wiki/concepts/Semantic Topic Clustering]] — 适用于 E-commerce 产品聚类
+- [[Claude SEO]] — Tier 4 Claude Code skill,包含 E-commerce SEO 模块
+- [[Semantic Topic Clustering]] — 适用于 E-commerce 产品聚类

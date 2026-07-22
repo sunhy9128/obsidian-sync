@@ -575,23 +575,23 @@ ESM 在欧元区体系中的位置：
 ## 相关条目
 
 ### ECB 与欧元
-- [[wiki/entities/ECB]] — ESM 的合作伙伴
-- [[wiki/entities/欧元]] — ESM 守护的货币
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes" + ESM 协调
-- [[wiki/entities/Christine Lagarde]] — ESM 时代的 ECB 行长
+- [[ECB]] — ESM 的合作伙伴
+- [[欧元]] — ESM 守护的货币
+- [[Mario Draghi]] — "Whatever it takes" + ESM 协调
+- [[Christine Lagarde]] — ESM 时代的 ECB 行长
 
 ### 危机与救助
-- [[wiki/concepts/欧元区主权债务危机]] — ESM 诞生的背景
-- [[wiki/concepts/欧债危机]] — ESM 应对的危机
-- [[wiki/concepts/OMT]] — ESM 与 ECB 的协同工具
-- [[wiki/concepts/2008全球金融危机]] — 危机源头
+- [[欧元区主权债务危机]] — ESM 诞生的背景
+- [[欧债危机]] — ESM 应对的危机
+- [[OMT]] — ESM 与 ECB 的协同工具
+- [[2008全球金融危机]] — 危机源头
 
 ### 国际机构
-- [[wiki/entities/IMF]] — Troika 三驾马车
-- [[wiki/entities/BIS]] — 央行合作机构
-- [[wiki/entities/欧盟]] — 欧元区母体
+- [[IMF]] — Troika 三驾马车
+- [[BIS]] — 央行合作机构
+- [[欧盟]] — 欧元区母体
 
 ### 国际对比
-- [[wiki/concepts/化债]] — 中国化债 vs ESM 救助
-- [[wiki/concepts/马斯特里赫特条约]] — "no bailout"原则的提出
-- [[wiki/concepts/扩表与缩表]] — ECB 扩表对 ESM 的影响
+- [[化债]] — 中国化债 vs ESM 救助
+- [[马斯特里赫特条约]] — "no bailout"原则的提出
+- [[扩表与缩表]] — ECB 扩表对 ESM 的影响

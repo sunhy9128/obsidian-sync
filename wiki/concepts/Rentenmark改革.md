@@ -614,35 +614,35 @@ sources: ""
 ## 相关条目
 
 ### 核心概念
-- [[wiki/concepts/魏玛恶性通胀]] — Rentenmark 改革要终结的"魏玛通胀"
-- [[wiki/concepts/稳定文化]] — Rentenmark 改革是稳定文化的"精神起点"
-- [[wiki/concepts/铆钉德国马克]] — 魏玛教训 → 马克 → 欧元的传承
-- [[wiki/concepts/莱茵资本主义]] — 战后德国经济模式是 Rentenmark 教训的实践
-- [[wiki/concepts/秩序自由主义]] — Rentenmark 改革是秩序自由主义的"先驱"
+- [[魏玛恶性通胀]] — Rentenmark 改革要终结的"魏玛通胀"
+- [[稳定文化]] — Rentenmark 改革是稳定文化的"精神起点"
+- [[铆钉德国马克]] — 魏玛教训 → 马克 → 欧元的传承
+- [[莱茵资本主义]] — 战后德国经济模式是 Rentenmark 教训的实践
+- [[秩序自由主义]] — Rentenmark 改革是秩序自由主义的"先驱"
 
 ### 机构与央行
-- [[wiki/entities/德国]] — Rentenmark 改革发生地
-- [[wiki/entities/ECB]] — 1957 联邦银行法 → ECB 章程的"精神传承"
-- [[wiki/entities/Hans Luther]] — Rentenmark 改革设计者（天才央行行长）
-- [[wiki/entities/1948货币改革]] — 1948.6.20 Deutsche Mark 改革，Rentenmark 改革的"25 年后传承"
-- [[wiki/concepts/现代货币理论 (MMT)]] — Rentenmark 改革的"理论成熟版"
-- [[wiki/entities/中国央行]] — 中国化债的"信用锚"启示
+- [[德国]] — Rentenmark 改革发生地
+- [[ECB]] — 1957 联邦银行法 → ECB 章程的"精神传承"
+- [[Hans Luther]] — Rentenmark 改革设计者（天才央行行长）
+- [[1948货币改革]] — 1948.6.20 Deutsche Mark 改革，Rentenmark 改革的"25 年后传承"
+- [[现代货币理论 (MMT)]] — Rentenmark 改革的"理论成熟版"
+- [[中国央行]] — 中国化债的"信用锚"启示
 
 ### 历史与制度
-- [[wiki/concepts/化债]] — 中国化债 vs Rentenmark 改革
-- [[wiki/concepts/马斯特里赫特条约]] — 趋同标准 = 战后德国模式的国际化
-- [[wiki/concepts/欧元区主权债务危机]] — 马克基因的再现
-- [[wiki/concepts/两德合并]] — 1948 Deutsche Mark 与 Rentenmark 精神
+- [[化债]] — 中国化债 vs Rentenmark 改革
+- [[马斯特里赫特条约]] — 趋同标准 = 战后德国模式的国际化
+- [[欧元区主权债务危机]] — 马克基因的再现
+- [[两德合并]] — 1948 Deutsche Mark 与 Rentenmark 精神
 
 ### 政策工具
-- [[wiki/concepts/扩表与缩表]] — 央行资产负债表的"信用货币"理论
-- [[wiki/concepts/量化宽松]] — 2008 后"信用货币"的极致运用
+- [[扩表与缩表]] — 央行资产负债表的"信用货币"理论
+- [[量化宽松]] — 2008 后"信用货币"的极致运用
 
 ### 历史人物
 - 密特朗（未建）— 1983 年法国"马克投降"
 - 科尔（已建）— 德国统一总理
-- [[wiki/entities/Mario Draghi]] — "Whatever it takes"（信用货币理论的极致运用）
+- [[Mario Draghi]] — "Whatever it takes"（信用货币理论的极致运用）
 
 ### 国际比较
-- [[wiki/concepts/1992欧洲货币危机]] — ERM 危机与 Rentenmark 改革的"对偶"
-- [[wiki/concepts/2008全球金融危机]] — 2008 后"信用货币"回归
+- [[1992欧洲货币危机]] — ERM 危机与 Rentenmark 改革的"对偶"
+- [[2008全球金融危机]] — 2008 后"信用货币"回归
