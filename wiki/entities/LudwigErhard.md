@@ -6,7 +6,8 @@ created: 2026-07-14
 updated: 2026-07-14
 tags: [finance, economics, germany, entity, stub]
 status: stub
-sources: []
+aliases:
+  - "Ludwig Erhard"
 ---
 
 # 路德维希·艾哈德（Ludwig Erhard）
