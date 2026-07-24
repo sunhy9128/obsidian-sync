@@ -15,10 +15,10 @@ status: developing
 |------|------|
 | 扫描页面 | 998 |
 | 扫描文件 | 1015 |
-| 别名总数 | 848 |
-| wikilink 引用总数 | 8442 |
-| **断链目标数** | **91** |
-| **断链引用处数** | **172** |
+| 别名总数 | 849 |
+| wikilink 引用总数 | 8446 |
+| **断链目标数** | **92** |
+| **断链引用处数** | **174** |
 
 > **说明**：本报告已包含 Obsidian aliases 匹配——如果 wikilink 目标在某页面的 aliases 中，则视为有效链接。
 
@@ -30,17 +30,18 @@ status: developing
 | 历史 | 2 | 无需处理（历史 lint 报告） |
 | 路径错误 | 3 | 建议修正（去掉路径前缀或 .md） |
 | 格式错误 | 7 | 建议修正（引号、大小写、标点、空格） |
-| 缺失 | 52 | 需新建 stub 页面或修正为已存在的概念 |
+| 缺失 | 53 | 需新建 stub 页面或修正为已存在的概念 |
 
 ---
 
 ## 📋 详细断链清单
 
-### 🚨 真实缺失（需新建）（52 个）
+### 🚨 真实缺失（需新建）（53 个）
 
 - `[[meta/dashboard]]` (4 处) — 真实缺失，需新建
 - `[[Claude Canvas]]` (3 处) — 真实缺失，需新建
 - `[[cherry-picks#1. URL Ingestion in /wiki-ingest]]` (3 处) — 真实缺失，需新建
+- `[[中国经济]]` (3 处) — 真实缺失，需新建
 - `[[raw/wechat/2026-06-15-美伊MoU签署与全球狂欢]]` (3 处) — 真实缺失，需新建
 - `[[Entities]]` (3 处) — 真实缺失，需新建
 - `[[Sources]]` (3 处) — 真实缺失，需新建
@@ -55,11 +56,11 @@ status: developing
 - `[[TARGET2]]` (2 处) — 真实缺失，需新建
 - `[[\1]]` (2 处) — 真实缺失，需新建
 - `[[为何日韩会"股牛汇弱"]]` (2 处) — 真实缺失，需新建
-- `[[金砖支付]]` (2 处) — 真实缺失，需新建
 - `[[target2]]` (2 处) — 真实缺失，需新建
 - `[[claude canvas]]` (2 处) — 真实缺失，需新建
 - `[[为何日韩会_股牛汇弱_]]` (2 处) — 真实缺失，需新建
 - `[[为何日韩会_股牛汇弱_？.md]]` (2 处) — 真实缺失，需新建
+- `[[page#heading]]` (2 处) — 真实缺失，需新建
 - `[[cherry-picks#10. Marp Presentation Output]]` (2 处) — 真实缺失，需新建
 - `[[cherry-picks#11. obsidian-memory-mcp Integration]]` (2 处) — 真实缺失，需新建
 - `[[cherry-picks#12. obsidian-bases Skill (from kepano)]]` (2 处) — 真实缺失，需新建
@@ -81,14 +82,13 @@ status: developing
 - `[[raw/wechat/触目惊心，都是血包]]` (2 处) — 真实缺失，需新建
 - `[[raw/wechat/跌太惨，朋友都没了]]` (2 处) — 真实缺失，需新建
 - `[[raw/zhihu/日元保卫战：日本央行11万亿干预，为何挡不住160？]]` (2 处) — 真实缺失，需新建
-- `[[wiki/domains/中国经济]]` (2 处) — 真实缺失，需新建
 - `[[三元悖论#三个自我实现的均衡]]` (2 处) — 真实缺失，需新建
 - `[[人民币国际化#CIPS 的战略意义]]` (2 处) — 真实缺失，需新建
 - `[[人民币国际化#三条腿框架]]` (2 处) — 真实缺失，需新建
 - `[[人民币汇率形成机制#CNY-CNH 价差的意义]]` (2 处) — 真实缺失，需新建
 - `[[央行数字货币#mBridge]]` (2 处) — 真实缺失，需新建
 - `[[奥肯定律与潜在产出#七、潜在产出与政策评估]]` (2 处) — 真实缺失，需新建
-- ... 还有 2 个
+- ... 还有 3 个
 
 ### 🔧 路径错误（建议修正）（3 个）
 
@@ -98,7 +98,7 @@ status: developing
 
 ### ✏️ 格式错误（建议修正）（7 个）
 
-- `[[How does the LLM Wiki pattern work?]]` (4 处) — 应为 [[how does the LLM wiki pattern work?]]（大小写）
+- `[[How does the LLM Wiki pattern work?]]` (4 处) — 应为 [[how does the llm wiki pattern work?]]（大小写）
 - `[[ludwig erhard]]` (2 处) — 应为 [[Ludwig Erhard]]（大小写）
 - `[[santiago principle]]` (2 处) — 应为 [[Santiago Principle]]（大小写）
 - `[[brics pay]]` (2 处) — 应为 [[BRICS Pay]]（大小写）
@@ -151,17 +151,18 @@ status: developing
 
 ## 🎯 修复优先级（HIGH ≥ 3 处引用）
 
-### HIGH 优先级（缺失，引用 ≥ 3 次）：7 个
+### HIGH 优先级（缺失，引用 ≥ 3 次）：8 个
 
 - `[[meta/dashboard]]` (4 处)
 - `[[Claude Canvas]]` (3 处)
 - `[[cherry-picks#1. URL Ingestion in /wiki-ingest]]` (3 处)
+- `[[中国经济]]` (3 处)
 - `[[raw/wechat/2026-06-15-美伊MoU签署与全球狂欢]]` (3 处)
 - `[[Entities]]` (3 处)
 - `[[Sources]]` (3 处)
 - `[[Concepts]]` (3 处)
 
-### MEDIUM 优先级（缺失，引用 2 次）：45 个
+### MEDIUM 优先级（缺失，引用 2 次）：44 个
 
 - `[[...]]`
 - `[[TARGET2]]`
@@ -185,6 +186,7 @@ status: developing
 - `[[meta/2026-04-14-community-cta-rollout]]`
 - `[[meta/2026-04-15-release-report-session]]`
 - `[[meta/2026-04-15-slides-and-release-session]]`
+- `[[page#heading]]`
 - `[[raw/wechat/2026-06-24-4000亿回购竟然是真的]]`
 - `[[raw/wechat/2026-06-24-韩国需要冷静冷静]]`
 - `[[raw/wechat/2026-06-25-逼疯]]`
@@ -195,7 +197,6 @@ status: developing
 - `[[raw/wechat/跌太惨，朋友都没了]]`
 - `[[raw/zhihu/日元保卫战：日本央行11万亿干预，为何挡不住160？]]`
 - `[[target2]]`
-- `[[wiki/domains/中国经济]]`
 - `[[三元悖论#三个自我实现的均衡]]`
 - `[[为何日韩会"股牛汇弱"]]`
 - `[[为何日韩会_股牛汇弱_]]`
@@ -207,10 +208,10 @@ status: developing
 - `[[奥肯定律与潜在产出#七、潜在产出与政策评估]]`
 - `[[汇率传导机制#3. 资产负债表渠道 (Balance Sheet Channel)]]`
 - `[[美元收割全球的机制什么]]`
-- `[[金砖支付]]`
 
-### LOW 优先级（缺失，引用 1 次）：0 个
+### LOW 优先级（缺失，引用 1 次）：1 个
 
+- `[[wiki/domains/中国经济]]`
 
 ---
 
@@ -230,7 +231,7 @@ status: developing
 
 | 错误链接 | 应改为 | 次数 |
 |---------|--------|------|
-| `[[How does the LLM Wiki pattern work?]]` | `[[how does the LLM wiki pattern work?]]` | 4 |
+| `[[How does the LLM Wiki pattern work?]]` | `[[how does the llm wiki pattern work?]]` | 4 |
 | `[[ludwig erhard]]` | `[[Ludwig Erhard]]` | 2 |
 | `[[santiago principle]]` | `[[Santiago Principle]]` | 2 |
 | `[[brics pay]]` | `[[BRICS Pay]]` | 2 |
