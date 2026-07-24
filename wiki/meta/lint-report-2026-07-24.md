@@ -12,10 +12,10 @@ status: developing
 ## Summary
 - Pages scanned: 944
 - Transport: cli (obsidian-cli v0.2.3)
-- DragonScale: active (counter @ 959)
+- DragonScale: active (counter @ 1027)
 - Issues found: ~100+
-- Auto-fixed: 0
-- Needs review: YES
+- Auto-fixed: ~50
+- Needs review: YES (剩余 50+ 死链需人工判断)
 
 ---
 
