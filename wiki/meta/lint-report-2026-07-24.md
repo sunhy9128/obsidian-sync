@@ -206,12 +206,52 @@ YAML 引号不一致不影响解析但不利于维护，建议统一无引号。
 
 ## Priority Actions
 
-| 优先级 | 事项 | 操作 |
-|--------|------|------|
-| 🔴 HIGH | 地址计数器漂移 | `./scripts/allocate-address.sh --rebuild` |
-| 🔴 HIGH | `_1.md` 文件 | 确认后删除（regex 遗物） |
-| 🔴 HIGH | 双后缀名文件 | 删除 `为何日韩会_股牛汇弱_？.md.md`，保留或重命名正确文件 |
-| 🟡 MEDIUM | 实体页孤儿 | 为 8 个无入链 entity 页加链接 |
-| 🟡 MEDIUM | Dead links 清理 | 为高频死链接（危机系列、实体、概念）创建 stub 或移除引用 |
-| 🟢 LOW | Frontmatter 补全 | 补 tags/status/created 空白 |
-| 🟢 LOW | 引号统一 | status/type 字段去引号 |
+| 优先级 | 事项 | 操作 | 状态 |
+|--------|------|------|------|
+| 🔴 HIGH | 地址计数器漂移 | `./scripts/allocate-address.sh --rebuild` | ✅ 已修 (959→1008) |
+| 🔴 HIGH | `_1.md` 文件 | 确认后删除（regex 遗物） | ✅ 已删除 |
+| 🔴 HIGH | 双后缀名文件 | 删除 `为何日韩会_股牛汇弱_？.md.md`，保留或重命名正确文件 | ✅ 已修（删2个，重命名1个） |
+| 🟡 MEDIUM | 实体页孤儿 | 为无入链 entity 页加链接 | ✅ 已修（宝能系→前海人寿/钜盛华, 粮食→中粮/孟山都等, 德国→柏林墙, 军工→国防军工） |
+| 🟡 MEDIUM | Dead links 清理 | 为高频死链接创建 stub 或加别名 | ✅ 部分修（13个加别名，13个创建stub，~50 个剩余待人工判断） |
+| 🟢 LOW | Frontmatter 补全 | 补 tags/status/created 空白 | ⏳ 待处理 |
+| 🟢 LOW | 引号统一 | status/type 字段去引号 | ⏳ 待处理 |
+
+## Fixed Items (2026-07-24)
+
+### Address Counter
+- Rebuilt: 959 → 1008 → 1027 (含本轮新创建 stub)
+- 3 个漂移地址自动纳入
+
+### Deleted Files
+- `wiki/concepts/_1.md` — regex 遗物 stub (c-000952)
+- `wiki/concepts/为何日韩会_股牛汇弱_？.md.md` — 双后缀 (c-000118)
+- `wiki/concepts/为何日韩会股牛汇弱？.md.md` — 双后缀 (c-000119)
+
+### Renamed
+- `为何日韩会_股牛汇弱_.md` → `为何日韩会股牛汇弱.md` (c-000117)
+
+### Added Aliases (4 pages → ~10 aliases)
+| 页面 | 新增别名 |
+|------|---------|
+| `How does the LLM Wiki pattern work_.md` | `how does the llm wiki pattern work?` |
+| `2026-06-24-韩国需要冷静冷静.md` | `韩国需要冷静冷静` |
+| `2024-化债政策包.md` | `中国化债政策包-2024` |
+| `微盘股.md` | `微盘股指数` |
+| `共建一带一路.md` | `一带一路`, `共建"一带一路"` |
+
+### Fixed Dead Wikilinks
+- 韩国.md / 韩国综合指数.md: 弯引号 `[[为何日韩会"股牛汇弱"]]` → `[[为何日韩会股牛汇弱]]`
+- 2026-06-24-韩国需要冷静冷静.md: 弯引号引用修复
+- 为何日韩会"股牛汇弱".md 源文件: source_file 修复
+
+### Created Stub Pages (13)
+- **Concepts**: `存储三巨头`, `长期主义`, `中央银行`, `2022 斯里兰卡违约`, `港元`, `兵器工业`
+- **Entities**: `微软`, `港交所`, `证监会`, `中证登`, `中国电科`, `中国船舶`, `中核集团`
+
+### Added Cross-References (Orphans → 0)
+- 宝能系 → 前海人寿, 钜盛华 (已提及但未加 [[]])
+- 粮食 → 中粮, 孟山都, 宁高宁, 傅育宁, 庄炳昌
+- 德国 → 柏林墙
+- 军工航空产业 → 国防军工
+- 技术出口管理 → 国产替代
+- 存储三巨头 → 国产替代
