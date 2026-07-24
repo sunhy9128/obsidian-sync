@@ -215,7 +215,7 @@ YAML 引号不一致不影响解析但不利于维护，建议统一无引号。
 | 🟡 MEDIUM | 高频缺失概念/实体 | 30 个新 stub | ✅ 已修 |
 | 🟡 MEDIUM | 危机系列死链 | 8 个 stub + 2 个别名 + 2 已存在 | ✅ 已修 |
 | 🟡 MEDIUM | 表格格式死链 | 美联储vs中国央行.md 尾部 `\` | ✅ 已修 (~30 链接) |
-| 🟡 MEDIUM | 实体别名 | 国务院/研究/Ludwig/金砖等 11 组 | ✅ 已修 |
+| 🟡 MEDIUM | 实体别名 | 国务院/研究/Ludwig/金砖等 12 组（含共建一带一路 YAML 弯引号）| ✅ 已修 |
 | 🟢 LOW | Frontmatter 补全 | 补 tags/status/created 空白 | ⏳ 待处理 |
 | 🟢 LOW | 引号统一 | status/type 字段去引号 | ⏳ 待处理 |
 
