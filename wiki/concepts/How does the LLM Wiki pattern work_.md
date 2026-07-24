@@ -6,7 +6,9 @@ status: stub
 created: 2026-07-14
 updated: 2026-07-14
 tags: [concept, stub]
-aliases: []
+aliases:
+  - "how does the llm wiki pattern work?"
+  - "how does the LLM wiki pattern work?"
 sources: []
 related: []
 ---
