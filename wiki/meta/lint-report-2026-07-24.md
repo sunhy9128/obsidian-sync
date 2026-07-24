@@ -14,8 +14,8 @@ status: developing
 - Transport: cli (obsidian-cli v0.2.3)
 - DragonScale: active (counter @ 1059)
 - Issues found: ~100+
-- Fixed: **~100 issues resolved** (43 new stubs + 11 alias sets + 14 orphan cross-refs + ~30 table wikilinks fixed)
-- Needs review: YES (剩余少量零散死链 + 🟢 LOW items)
+- Fixed: **~105 issues resolved** (30 new stubs + 12 alias sets + 14 orphan cross-refs + ~30 table wikilinks + 1 YAML弯引号修复 + 1 路径修正)
+- Needs review: YES (剩余 raw/wechat 及 cherry-picks#N 等设计使然引用 + 🟢 LOW items)
 
 ---
 
