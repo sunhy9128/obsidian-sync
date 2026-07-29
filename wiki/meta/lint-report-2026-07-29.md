@@ -12,22 +12,25 @@ related:
 
 # Lint Report: 2026-07-29
 
-> 老王暴躁体检报告。1017 页全量扫描，DragonScale 特性全开。本次重灾区：地址冲突 + 真实死链。
+> 老王暴躁体检报告。1017 页全量扫描，DragonScale 特性全开。**P0 BLOCKER 已全部修复**（地址冲突清零 + 特里芬合并 + c-000910/911 重分配）。剩余 P1-P3 待后续处理。
 
 ## Summary
-- Pages scanned: **1017**
-- Issues found: **716**（含噪音后真实约 **305**）
-- Auto-fixed: 0（等批准）
-- Needs review: 全部待人工确认
+- Pages scanned: **1017**（删特里芬 entities 旧版 -1，新建本报告 +1，净持平）
+- Issues found: **708**（含噪音；精筛后真实内容死链仅 24 目标/48 处）
+- **P0 Auto-fixed: 4 项** ✅
+  - 清除 29 个 meta/fold 页误分配的 address 字段
+  - 合并特里芬难题重复页（删 entities 旧版，concepts 版保留 c-000718）
+  - 淡马锡重分配 c-001063（解 c-000910 冲突）
+  - 研究页重分配 c-001064（解 c-000911 冲突）
+- Needs review: P1-P3 待人工确认
 
-| 维度 | 数量 | 严重度 |
-|------|------|--------|
-| 孤儿页 | 0 | ✅ 优秀 |
-| 死链目标 | 101（真实死链 100，噪音 11） | 🔴 HIGH |
-| Frontmatter 缺字段 | 606（全部缺 tags） | 🟡 MEDIUM |
-| 地址冲突 | 9 组 | 🔴 BLOCKER |
-| 页面类型分布 | concept 518 / entity 395 / source 37 / meta 33 | — |
-| 状态分布 | developing 417 / stub 258 / current 256 / evergreen 50 | — |
+| 维度 | 修复前 | 修复后 | 严重度 |
+|------|------|------|--------|
+| 孤儿页 | 0 | 0 | ✅ 优秀 |
+| 地址冲突 | 9 组 | **0** ✅ | 🔴→✅ |
+| 真实内容死链 | 24 目标 | 24 目标（P0未涉及） | 🟡 HIGH |
+| Frontmatter 缺 tags | 200 核心页 | 200（P0未涉及） | 🟡 MEDIUM |
+| 页面类型 | concept 518 / entity 394 / source 37 / meta 33 | 同上 | — |
 
 ## Orphan Pages
 无。链接网络健康，零孤儿。这点做得漂亮，没让老王骂街。
