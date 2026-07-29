@@ -57,35 +57,34 @@ related:
 - `[[meta/dashboard]]`、`[[meta/lint-report-*]]`、`[[Entities]]`/`[[Sources]]`/`[[Concepts]]`（_index 互链用大写标题）、`[[Claude Canvas]]`、`[[How does the LLM Wiki pattern work?]]` 等：均为 meta 页之间的自引用或 lint 报告历史记录，**非真实内容死链**，本次忽略。
 - `[[raw/wechat/*]]`：指向 `.raw/` 原始区的链接，按 vault 规则 `.raw/` 不属 wiki 内容，忽略。
 
-## Address Validation（DragonScale Mechanism 2）—— 🔴 BLOCKER
+## Address Validation（DragonScale Mechanism 2）—— ✅ 已修复
 
-- Counter state: `1063`（`./scripts/allocate-address.sh --peek`）
-- 最高 c- 地址观测: c-000940（本报告）
+- Counter state: `1065`（修复后 `./scripts/allocate-address.sh --peek`，分配了 c-001063/c-001064 两次）
+- 最高 c- 地址观测: c-001064
 - Post-rollout pages checked: 1017 中绝大部分有地址 ✅
 - Legacy pages pending backfill: 0
+- **地址冲突: 0 组** ✅（修复前 9 组）
 
-### 9 组重复地址（核心问题）
+### 修复记录
 
-**根因**：8 个号段（c-000907~c-000914）被 meta 页 / fold 页 / 实体页 / 概念页**双重占用**。按 DragonScale 规则，meta 页和 fold 页（index/hot/log）**本就不该有 address 字段**，是历史误分配。
+| 地址 | 处理动作 | 结果 |
+|------|---------|------|
+| c-000907 | 删 `hot.md` address | 美元潮汐独占 ✅ |
+| c-000908 | 删 `index.md` address | 美元周期独占 ✅ |
+| c-000909 | 删 `log.md` address | 脆弱五国独占 ✅ |
+| c-000910 | 淡马锡重分配 → c-001063 | 美元潮汐历史案例独占 c-000910 ✅ |
+| c-000911 | 研究页重分配 → c-001064 | 主权财富基金独占 c-000911 ✅ |
+| c-000912 | 删 `meta/2026-04-14-community-cta-rollout.md` address | GIC 独占 ✅ |
+| c-000913 | 删 `meta/2026-04-15-release-report-session.md` address | 中投独占 ✅ |
+| c-000914 | 删 `meta/2026-04-15-slides-and-release-session.md` address | 挪威主权基金独占 ✅ |
+| c-000718 | 删 `entities/特里芬难题.md` 旧版 | concepts 版独占 ✅ |
+| c-000915~930 段 | 批量删 25 个 meta 页 address | meta 页回归无地址状态 ✅ |
 
-| 地址 | 不该有的一方（建议删 address） | 合法保留方 |
-|------|------------------------------|-----------|
-| c-000907 | `wiki/hot.md`（fold 页） | `wiki/concepts/美元潮汐.md` |
-| c-000908 | `wiki/index.md`（fold 页） | `wiki/concepts/美元周期.md` |
-| c-000909 | `wiki/log.md`（fold 页） | `wiki/concepts/脆弱五国（Fragile Five）.md` |
-| c-000910 | `wiki/meta/2026-04-10-backlink-empire-session.md` + `wiki/entities/淡马锡.md` 之一 | `wiki/concepts/美元潮汐历史案例.md`（或淡马锡） |
-| c-000911 | `wiki/meta/2026-04-14-claude-seo-v190-session.md` | `wiki/concepts/主权财富基金.md` 或 `wiki/questions/研究：美元如何收割新兴市场.md` 二选一 |
-| c-000912 | `wiki/meta/2026-04-14-community-cta-rollout.md` | `wiki/entities/GIC.md` |
-| c-000913 | `wiki/meta/2026-04-15-release-report-session.md` | `wiki/entities/中投.md` |
-| c-000914 | `wiki/meta/2026-04-15-slides-and-release-session.md` | `wiki/entities/挪威主权基金.md` |
+### 特里芬难题合并详情（c-000718）
 
-**另有 25 个 meta 页带了 address 字段**（c-000910~c-000930 段），全部违反"meta 页排除"规则，建议批量清除 address 字段。
-
-### 特里芬难题重复页（c-000718）—— 语义重复需合并
-
-- `wiki/concepts/特里芬难题.md`：2026-07-17 更新，current，5 个学术 source，内容完整。**入链 10+**（hot、domains、美元潮汐系列、研究页等均指向它）。
-- `wiki/entities/特里芬难题.md`：2026-05-21 旧版，developing，内容是早期 stub。
-- **建议**：删除 entities 旧版，concepts 版为唯一正本。两者同 type=entity 同地址，是纯重复。
+- 删除：`wiki/entities/特里芬难题.md`（2026-05-21 旧 stub，developing，0 独有入链）
+- 保留：`wiki/concepts/特里芬难题.md`（2026-07-17 完整版，current，5 个学术 source，10+ 入链）
+- 所有 `[[特里芬难题]]` 简化名链接现正确解析到 concepts 版，零破坏。
 
 ## Frontmatter Gaps
 
