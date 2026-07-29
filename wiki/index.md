@@ -1,7 +1,6 @@
 ---
 type: meta
 title: "Wiki Index"
-address: c-000908
 updated: 2026-04-07
 tags:
   - meta

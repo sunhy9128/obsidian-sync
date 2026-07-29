@@ -1,7 +1,6 @@
 ---
 type: meta
 title: "Hot Cache"
-address: c-000907
 updated: 2026-07-22
 tags:
   - meta

@@ -1,7 +1,6 @@
 ---
 type: meta
 title: "Lint Report 2026-07-07"
-address: c-000926
 created: 2026-07-07
 updated: 2026-07-07
 tags: [meta, lint]

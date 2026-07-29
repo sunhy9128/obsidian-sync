@@ -1,7 +1,6 @@
 ---
 type: meta
 title: "Operation Log"
-address: c-000909
 updated: 2026-07-22
 tags:
  - meta
