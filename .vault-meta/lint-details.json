@@ -1,26 +1,8 @@
 {
   "today": "2026-07-29",
-  "total": 1017,
+  "total": 1019,
   "orphans": [],
   "dead_links": {
-    "wiki/comparisons/港股vs美股vsA股": [
-      "wiki/comparisons/_index.md"
-    ],
-    "wiki/comparisons/中俄联合声明2021vs2026": [
-      "wiki/comparisons/_index.md"
-    ],
-    "1997 亚洲金融危机": [
-      "wiki/concepts/Original Sin（原罪）.md",
-      "wiki/concepts/美元周期.md",
-      "wiki/concepts/美元收割全球的机制.md",
-      "wiki/concepts/美元潮汐.md",
-      "wiki/concepts/美元潮汐历史案例.md",
-      "wiki/concepts/美元潮汐量化实证.md",
-      "wiki/concepts/脆弱五国（Fragile Five）.md",
-      "wiki/log.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
     "Entities": [
       "wiki/concepts/_index.md",
       "wiki/meta/lint-report-2026-07-14.md",
@@ -37,62 +19,11 @@
       "wiki/concepts/wikilinks.md",
       "wiki/meta/lint-report-2026-07-14.md"
     ],
-    "《环球时报》": [
-      "wiki/concepts/中欧经贸关系.md",
-      "wiki/concepts/官方媒体.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "BRICS Pay": [
-      "wiki/concepts/武器化相互依存.md",
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
     "2023 SVB危机": [
       "wiki/concepts/沃尔克规则.md",
       "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "2001 阿根廷债务违约": [
-      "wiki/concepts/美元收割全球的机制.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "1992 欧洲货币危机": [
-      "wiki/concepts/美元潮汐历史案例.md",
-      "wiki/log.md",
-      "wiki/meta/lint-report-2026-07-24.md",
       "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/questions/研究：美元如何收割新兴市场.md"
-    ],
-    "1998 香港金融保卫战": [
-      "wiki/concepts/美元潮汐历史案例.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "韩国股灾简史": [
-      "wiki/concepts/韩国历史股灾谱系.md",
-      "wiki/concepts/韩国折价（Korea Discount）.md",
-      "wiki/entities/SK海力士.md",
-      "wiki/entities/三星电子.md",
-      "wiki/entities/韩国综合指数(KOSPI).md",
-      "wiki/hot.md",
-      "wiki/log.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/sources/2026-06-24-韩国需要冷静冷静.md"
-    ],
-    "韩国需要冷静冷静": [
-      "wiki/concepts/韩国历史股灾谱系.md",
-      "wiki/entities/韩国综合指数(KOSPI).md",
-      "wiki/hot.md",
-      "wiki/log.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/sources/2026-07-21-韩国股灾简史.md"
-    ],
-    "美联储点阵图": [
-      "wiki/domains/货币政策与中央银行.md",
-      "wiki/meta/lint-report-2026-07-17.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/meta/missing-pages-fixed-2026-07-14.md",
-      "wiki/sources/触目惊心，都是血包.md"
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "Concepts": [
       "wiki/entities/_index.md",
@@ -100,49 +31,12 @@
       "wiki/meta/lint-report-2026-07-29.md",
       "wiki/sources/_index.md"
     ],
-    "一带一路": [
-      "wiki/entities/世界银行.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "中华人民共和国国务院": [
-      "wiki/entities/商务部.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "中华人民共和国中央人民政府": [
-      "wiki/entities/国务院.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "Ludwig Erhard": [
-      "wiki/entities/德国马克.md",
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "《欧盟要与中国打贸易战？》": [
-      "wiki/entities/欧盟.md"
-    ],
-    "共建\"一带一路\"": [
-      "wiki/entities/欧盟.md",
-      "wiki/meta/lint-report-2026-07-17.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/meta/missing-pages-fixed-2026-07-14.md",
-      "wiki/sources/2026-04-15-2026年1-3月中国外贸数据.md"
-    ],
-    "《我们已经处于新一轮加息周期中或前夜》": [
-      "wiki/entities/沙特.md"
-    ],
     "meta/dashboard": [
       "wiki/entities/货币本质.md",
       "wiki/entities/金融稳定.md",
       "wiki/entities/银行监管.md",
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "DDX/DDY/DDZ 指标": [
-      "wiki/entities/道氏理论.md"
     ],
     "meta/lint-report-2026-05-21": [
       "wiki/entities/金融稳定.md",
@@ -156,10 +50,6 @@
       "wiki/entities/风险加权资产.md",
       "wiki/meta/lint-report-2026-07-14.md"
     ],
-    "研究：美元如何收割新兴市场（增强版）": [
-      "wiki/hot.md",
-      "wiki/index.md"
-    ],
     "How does the LLM Wiki pattern work?": [
       "wiki/hot.md",
       "wiki/log.md",
@@ -169,19 +59,23 @@
     ],
     "meta/2026-04-14-community-cta-rollout": [
       "wiki/index.md",
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "meta/2026-04-15-slides-and-release-session": [
       "wiki/index.md",
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "meta/2026-04-15-release-report-session": [
       "wiki/index.md",
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "meta/2026-04-14-claude-seo-v190-session": [
       "wiki/index.md",
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "美元收割全球的机制什么": [
       "wiki/log.md",
@@ -192,12 +86,6 @@
       "wiki/meta/lint-report-2026-07-13.md",
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "微盘股指数": [
-      "wiki/meta/lint-report-2026-06-24-batch2.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/sources/2026-06-24-4000亿回购竟然是真的.md"
     ],
     "wiki/X": [
       "wiki/meta/lint-report-2026-06-24-batch2.md",
@@ -220,12 +108,6 @@
       "wiki/meta/lint-report-2026-06-24.md",
       "wiki/meta/lint-report-2026-07-14.md"
     ],
-    "wiki/meta/lint-report-2026-06-26": [
-      "wiki/meta/lint-report-2026-07-06.md"
-    ],
-    "中国化债政策包-2024": [
-      "wiki/meta/lint-report-2026-07-06.md"
-    ],
     "wiki/meta/化债机制图谱.canvas": [
       "wiki/meta/lint-report-2026-07-06.md",
       "wiki/meta/lint-report-2026-07-14.md"
@@ -242,24 +124,11 @@
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/meta/lint-report-2026-07-29.md"
     ],
-    "ERM": [
-      "wiki/meta/lint-report-2026-07-13.md"
-    ],
     "folder/file": [
       "wiki/meta/lint-report-2026-07-13.md",
       "wiki/meta/lint-report-2026-07-14.md"
     ],
-    "中国经济": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/sources/2024-12-18-二十届三中全会细节解析-巫师财经.md"
-    ],
     "\\1": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/missing-pages-fixed-2026-07-14.md"
-    ],
-    "为何日韩会\"股牛汇弱\"": [
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/meta/missing-pages-fixed-2026-07-14.md"
     ],
@@ -314,33 +183,6 @@
     "raw/zhihu/日元保卫战：日本央行11万亿干预，为何挡不住160？": [
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/sources/2026-05-13-日元保卫战-日本央行11万亿干预.md"
-    ],
-    "how does the llm wiki pattern work?": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "ludwig erhard": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "santiago principle": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "brics pay": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "esg 投资": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "2023 svb危机": [
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
-    "wiki链接": [
-      "wiki/meta/lint-report-2026-07-14.md"
     ],
     "wiki/` 路径格式的 wikilinks，发现以下潜在问题：": [
       "wiki/meta/lint-report-2026-07-14.md",
@@ -425,20 +267,14 @@
     "wiki/domains/中国经济": [
       "wiki/meta/lint-report-2026-07-14.md"
     ],
-    "金砖支付": [
-      "wiki/meta/lint-report-2026-07-24.md"
-    ],
     "meta/lint-report-*": [
       "wiki/meta/lint-report-2026-07-29.md"
     ],
     "raw/wechat/*": [
       "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "《综合整治非法跨境证券期货基金经营活动实施方案》": [
-      "wiki/sources/837号令.md"
     ]
   },
-  "dead_link_count": 318,
+  "dead_link_count": 189,
   "fm_gaps": [
     [
       "wiki/analysis/基金年中排名对A股影响机制.md",
@@ -1643,10 +1479,10 @@
   ],
   "addr_errors": [],
   "page_types": {
-    "meta": 34,
+    "meta": 35,
     "analysis": 2,
     "comparison": 6,
-    "concept": 518,
+    "concept": 519,
     "entity": 394,
     "data": 1,
     "domain": 8,
@@ -1660,10 +1496,10 @@
     "source": 37
   },
   "page_statuses": {
-    "seed": 4,
+    "seed": 5,
     "developing": 416,
     "mature": 6,
-    "current": 257,
+    "current": 258,
     "seedling": 3,
     "stub": 258,
     "proposed": 1,
@@ -1675,5 +1511,5 @@
     "extracted": 8,
     "digested": 1
   },
-  "issues_total": 708
+  "issues_total": 673
 }

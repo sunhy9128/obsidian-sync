@@ -37,10 +37,15 @@ for rec in records:
         orphans.append(rec["path"])
 
 # 2. Dead links: wikilinks that don't resolve
+# 与 Obsidian 解析行为对齐：stem/alias/路径前缀 + 大小写不敏感。
+# lint-scan.py 已把 stem、alias、完整路径及其小写形式都加入 name_to_paths。
 dead_links = defaultdict(list)  # target -> [(source, count)]
 for src, tgt in all_links:
-    if tgt not in name_to_paths:
-        dead_links[tgt].append(src)
+    if tgt in name_to_paths:
+        continue
+    if tgt.lower() in name_to_paths:
+        continue  # 大小写不敏感命中
+    dead_links[tgt].append(src)
 
 dead_link_count = sum(len(v) for v in dead_links.values())
 
