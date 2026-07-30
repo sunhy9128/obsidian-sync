@@ -1,6 +1,6 @@
 {
   "today": "2026-07-30",
-  "total": 1019,
+  "total": 1022,
   "orphans": [],
   "dead_links": {
     "Entities": [
@@ -1473,7 +1473,7 @@
     "meta": 35,
     "analysis": 2,
     "comparison": 6,
-    "concept": 519,
+    "concept": 522,
     "entity": 394,
     "data": 1,
     "domain": 8,
@@ -1490,7 +1490,7 @@
     "seed": 5,
     "developing": 416,
     "mature": 6,
-    "current": 258,
+    "current": 261,
     "seedling": 3,
     "stub": 258,
     "proposed": 1,

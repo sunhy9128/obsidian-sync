@@ -18,5 +18,6 @@
   "showIndentGuide": true,
   "promptDelete": false,
   "propertiesInDocument": "hidden",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
