@@ -117,7 +117,8 @@ for addr in addresses:
 
 # Summary
 report_lines = []
-today = "2026-07-29"
+from datetime import date
+today = date.today().isoformat()
 total = len(records)
 n_orphans = len(orphans)
 n_dead_links_targets = len(dead_links)
