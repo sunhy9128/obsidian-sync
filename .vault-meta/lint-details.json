@@ -1,5 +1,5 @@
 {
-  "today": "2026-07-29",
+  "today": "2026-07-30",
   "total": 1019,
   "orphans": [],
   "dead_links": {
@@ -14,16 +14,6 @@
       "wiki/entities/_index.md",
       "wiki/meta/lint-report-2026-07-14.md",
       "wiki/meta/lint-report-2026-07-29.md"
-    ],
-    "Wiki链接": [
-      "wiki/concepts/wikilinks.md",
-      "wiki/meta/lint-report-2026-07-14.md"
-    ],
-    "2023 SVB危机": [
-      "wiki/concepts/沃尔克规则.md",
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "Concepts": [
       "wiki/entities/_index.md",
@@ -49,13 +39,6 @@
       "wiki/entities/银行监管.md",
       "wiki/entities/风险加权资产.md",
       "wiki/meta/lint-report-2026-07-14.md"
-    ],
-    "How does the LLM Wiki pattern work?": [
-      "wiki/hot.md",
-      "wiki/log.md",
-      "wiki/meta/lint-report-2026-07-14.md",
-      "wiki/meta/lint-report-2026-07-29.md",
-      "wiki/meta/missing-pages-fixed-2026-07-14.md"
     ],
     "meta/2026-04-14-community-cta-rollout": [
       "wiki/index.md",
@@ -274,7 +257,7 @@
       "wiki/meta/lint-report-2026-07-29.md"
     ]
   },
-  "dead_link_count": 189,
+  "dead_link_count": 175,
   "fm_gaps": [
     [
       "wiki/analysis/基金年中排名对A股影响机制.md",
@@ -1511,5 +1494,5 @@
     "extracted": 8,
     "digested": 1
   },
-  "issues_total": 673
+  "issues_total": 670
 }
