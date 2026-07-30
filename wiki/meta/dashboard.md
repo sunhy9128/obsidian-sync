@@ -92,4 +92,4 @@ LIST FROM "wiki" WHERE string(file.ctime) = "" OR file.mtime = null
 ```
 
 > [!note] Lint 状态（2026-07-30）
-> 地址体系干净（985 地址零冲突）｜ 零孤儿 ｜ 真死链仅 4 处（详见 [[lint-report-2026-07-30]]）｜ 610 核心页缺 tags 待补。注：历史 lint-scan.py 不认 alias，死链数含大量误报，已在新报告中纠偏。
+> 地址体系干净（985 地址零冲突）｜ 零孤儿 ｜ **真死链归零**（lint-scan 已根治 alias/路径/大小写误报，详见 [[lint-report-2026-07-30]]）｜ 603 核心页缺 tags 待补。
