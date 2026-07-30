@@ -79,7 +79,7 @@ LIST FROM "wiki" WHERE !status AND type != "meta" LIMIT 50
 LIST FROM "wiki" WHERE length(filter(file.inlinks, (l) => true)) = 0 AND type != "meta" SORT updated DESC
 ```
 
-### Pages Missing Tags（2026-07-30 Lint: 610 核心内容页 🟡 MEDIUM）
+### Pages Missing Tags（2026-07-30 Lint: 603 核心内容页 🟡 MEDIUM）
 
 ```dataview
 LIST FROM "wiki" WHERE (!tags OR length(tags) = 0) AND type != "meta" AND type != "fold" SORT updated DESC LIMIT 50
