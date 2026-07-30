@@ -172,10 +172,12 @@
       "wiki/meta/lint-report-2026-07-15.md"
     ],
     "MLF\\": [
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "PSL\\": [
-      "wiki/meta/lint-report-2026-07-14.md"
+      "wiki/meta/lint-report-2026-07-14.md",
+      "wiki/meta/lint-report-2026-07-30.md"
     ],
     "美联储\\": [
       "wiki/meta/lint-report-2026-07-14.md"
@@ -255,9 +257,15 @@
     ],
     "raw/wechat/*": [
       "wiki/meta/lint-report-2026-07-29.md"
+    ],
+    "wiki/comparisons/xxx": [
+      "wiki/meta/lint-report-2026-07-30.md"
+    ],
+    "xxx": [
+      "wiki/meta/lint-report-2026-07-30.md"
     ]
   },
-  "dead_link_count": 175,
+  "dead_link_count": 179,
   "fm_gaps": [
     [
       "wiki/analysis/基金年中排名对A股影响机制.md",
@@ -1494,5 +1502,5 @@
     "extracted": 8,
     "digested": 1
   },
-  "issues_total": 670
+  "issues_total": 672
 }
