@@ -24,6 +24,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-08-03] wiki-query | QF制度总览页新建
+- Summary: 用户问"我国的QF制度"，先以通用知识回答，后用户要求用 wiki-query 跑 vault 检索。vault 无 QF 专属页，碎片散落于 三元悖论/港股vs美股vsA股/A股市场结构/人民币国际化/国际收支 等页。合成后新建总览页 [[QF制度]]（c-001071）。
+- Pages created: [[QF制度]] (c-001071, concepts)
+- Pages updated: [[index]]、[[log]]、[[hot]]
+- Key proposition: QF 制度是三元悖论组合1（固定+独立=放弃资本自由）下的通道化开放——不开放资本项目，逐项搭通道、做白名单、配额度；外资进出受限（QFII/陆股通额度管控），外资占 A 股 ~5%、港股 ~40%
+- Gaps filed: QFII/QDII/RQFII/债券通/沪港通/深港通/陆股通/跨境理财通 8 个待建 stub 链接；[[港股通]] 已存在但为 stub
+- Note: 首次地址分配返回 c-001070 与 [[安倍经济学]] 撞号（counter 滞后），重跑后取 c-001071
+
 ## [2026-07-31] wiki | 安倍经济学专题页新建
 
 - Summary: 用户提问"安倍经济学",综合知识库已有日本三十年/广场协议/大藏省/日本银行/货币政策正常化等碎片,新建 production 级专题页 [[安倍经济学]]。

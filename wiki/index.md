@@ -31,6 +31,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Concepts
 
+- [[QF制度]] — 中国跨境投资双向通道总称：QFII/QDII/RQFII + 陆股通/港股通/跨境理财通等，三元悖论下的通道化开放（status: developing）
 - [[美元潮汐]] — 美联储货币政策周期驱动的全球资本大进大出+EM泡沫积累破裂的8阶段收割循环（status: current）
 - [[美元周期]] — 美联储扩表/缩表+加息/降息的周期规律，是EM命运的总开关（status: current）
 - [[美元收割全球的机制]] — 美元通过放水→抽水→抄底三步收割新兴市场的结构性机制（status: current）
