@@ -1,10 +1,8 @@
 {
   "enabledCssSnippets": [
-    "vault-colors",
-    "ITS-Dataview-Cards",
-    "ITS-Image-Adjustments"
+    "vault-colors"
   ],
-  "cssTheme": "Minimal",
+  "cssTheme": "Velocity",
   "accentColor": "",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
@@ -14,6 +12,6 @@
   "interfaceFontFamily": "苹方-简",
   "monospaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "HarmonyOS Sans SC",
-  "nativeMenus": true,
+  "nativeMenus": false,
   "translucency": true
 }

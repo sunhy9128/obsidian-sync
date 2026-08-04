@@ -135,3 +135,6 @@ _attachments/
 
 # runtime session artifacts (claude/omo continuation states)
 .omo/
+
+# kun-canvas plugin cache (regenerable; not part of vault content)
+.kun-canvas/
