@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-24 | Total pages: 56 | Sources ingested: 6
+Last updated: 2026-08-03 | Total pages: 57 | Sources ingested: 6
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas]] | [[getting-started]]
 
@@ -31,6 +31,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Concepts
 
+- [[日本95年体制]] — 1995年定型的"拖延式"制度安排：超低利率+财政兜底+护送船团，运行近30年直到2024年退出（status: current）
 - [[QF制度]] — 中国跨境投资双向通道总称：QFII/QDII/RQFII + 陆股通/港股通/跨境理财通等，三元悖论下的通道化开放（status: developing）
 - [[美元潮汐]] — 美联储货币政策周期驱动的全球资本大进大出+EM泡沫积累破裂的8阶段收割循环（status: current）
 - [[美元周期]] — 美联储扩表/缩表+加息/降息的周期规律，是EM命运的总开关（status: current）
@@ -156,6 +157,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[新兴市场为避免被美国薅羊毛采取了哪些措施]] — 去美元化、资本管制、区域联盟、汇率弹性四大类措施（status: developing）
 - [[研究：美元如何收割新兴市场]] — 8阶段收割循环+三大传导机制+11个历史案例+2026新一轮周期观察的完整研究报告（status: current）
 - [[研究：美元如何收割新兴市场（增强版）]] — 加入四大理论框架+量化实证+mermaid可视化+操作手册+2024-2026最新动态（status: current）
+- [[什么是QQE与YCC的比较]] — QQE定义/日银买ETF真相/YCC激进点/0%钉死的挤出效应/实际资金流向四出口（status: completed）
 
 ---
 
