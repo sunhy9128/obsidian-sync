@@ -159,6 +159,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 - [[研究：美元如何收割新兴市场]] — 8阶段收割循环+三大传导机制+11个历史案例+2026新一轮周期观察的完整研究报告（status: current）
 - [[研究：美元如何收割新兴市场（增强版）]] — 加入四大理论框架+量化实证+mermaid可视化+操作手册+2024-2026最新动态（status: current）
 - [[什么是QQE与YCC的比较]] — QQE定义/日银买ETF真相/YCC激进点/0%钉死的挤出效应/实际资金流向四出口（status: completed）
+- [[日本金融刺激是否导致金融化与盘剥无资产居民]] — 金融化+产业空心化+CPI/PPI剪刀差+四重转嫁盘剥无资产居民（status: completed）
 
 ---
 
