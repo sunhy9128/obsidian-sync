@@ -31,6 +31,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map.canvas
 
 ## Concepts
 
+- [[新NISA]] — 日本2024年1月启动的免税投资账户：终身1800万日元额度永久免税，引导家庭"从储蓄到投资"（status: current）
 - [[日本95年体制]] — 1995年定型的"拖延式"制度安排：超低利率+财政兜底+护送船团，运行近30年直到2024年退出（status: current）
 - [[QF制度]] — 中国跨境投资双向通道总称：QFII/QDII/RQFII + 陆股通/港股通/跨境理财通等，三元悖论下的通道化开放（status: developing）
 - [[美元潮汐]] — 美联储货币政策周期驱动的全球资本大进大出+EM泡沫积累破裂的8阶段收割循环（status: current）
